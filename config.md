@@ -18,6 +18,8 @@ website_descr = "Overview of the activities within the Trixi Framework"
 website_url   = "https://trixi-framework.github.io/landing-page/"
 +++
 
+@def prepath = "landing-page"
+
 <!--
 Add here global latex commands to use throughout your pages.
 -->
