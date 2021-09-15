@@ -1,0 +1,4 @@
+Sitemap: https://trixi-framework.github.io/landing-page/sitemap.xml
+
+User-agent: *
+Disallow:
