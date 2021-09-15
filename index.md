@@ -22,7 +22,7 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 ## Mesh generation
 * [**HOHQMesh.jl**](https://github.com/trixi-framework/HOHQMesh.jl)
 
-  HOHQMesh.jl is a wrapper for the HOHQMesh mesh generator, which allows to
+  HOHQMesh.jl is a Julia wrapper for the HOHQMesh mesh generator, which allows to
   produce curved quadrilateral and hexahedral meshes for high-order numerical
   simulations.
 
@@ -34,11 +34,11 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 ## Additional packages
 * [**P4est.jl**](https://github.com/trixi-framework/P4est.jl)
 
-  P4est.jl is lightweight wrapper for the p4est C library.
+  P4est.jl is lightweight Julia wrapper for the p4est C library.
 
 * [**KROME.jl**](https://github.com/trixi-framework/KROME.jl)
 
-  KROME.jl is a lightweight wrapper for KROME, a Fortran library for including
+  KROME.jl is a lightweight Julia wrapper for KROME, a Fortran library for including
   chemistry and microphysics in astrophysics simulations.
 
 * [**ReadVTK.jl**](https://github.com/trixi-framework/ReadVTK.jl)
