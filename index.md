@@ -54,7 +54,7 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
 * *Ranocha*, *Gassner*, **Preventing pressure oscillations does not fix local
   linear stability issues of entropy-based split-form high-order schemes**,
-  Commun. Appl. Math. Comput., 2021.\\
+  Communications on Applied Mathematics and Computation, 2021.\\
   [arXiv:2009.13139](https://arxiv.org/abs/2009.13139) |
   [doi:10.1007/s42967-021-00148-z](https://doi.org/10.1007/s42967-021-00148-z) |
   [reproduce me!](https://github.com/trixi-framework/paper-EC-KEP-PEP)
