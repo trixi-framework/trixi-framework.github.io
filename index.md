@@ -115,4 +115,14 @@ Author names of Trixi's main developers are in *italics*.
 There are a number of ways to reach out to us:
 * Meet us on [Slack](https://join.slack.com/t/trixi-framework/shared_invite/zt-sgkc6ppw-6OXJqZAD5SPjBYqLd8MU~g)
 * Create an issue in one of the repositories listed on this page
-* Check out the websites of the [Trixi Authors](https://github.com/trixi-framework/Trixi.jl/blob/main/AUTHORS.md)
+* Get in touch with one of the [Trixi Authors](https://github.com/trixi-framework/Trixi.jl/blob/main/AUTHORS.md)
+
+[Michael Schlottke-Lakemper](https://www.mi.uni-koeln.de/NumSim/schlottke-lakemper),
+[Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (both University of Cologne,
+Germany),
+[Hendrik Ranocha](https://ranocha.de/) (University of Münster, Germany),
+[Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden), and
+[Jesse Chan](https://jlchan.github.io/) (Rice University, US) are the
+principal developers of Trixi.jl.
+[David A. Kopriva](https://www.math.fsu.edu/~kopriva/) (Florida State University,
+US) is the principal developer of HOHQMesh and HOHQMesh.jl.
