@@ -52,6 +52,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
   [arXiv:2108.06476](https://arxiv.org/abs/2108.06476) |
   [reproduce me!](https://github.com/trixi-framework/paper-2021-juliacon)
 
+* Singh, Chandrashekar, **On a linear stability issue of split form schemes for
+  compressible flows**, 2021.\\
+  [arXiv:2104.14941](https://arxiv.org/abs/2104.14941)
+
 * *Ranocha*, *Gassner*, **Preventing pressure oscillations does not fix local
   linear stability issues of entropy-based split-form high-order schemes**,
   Communications on Applied Mathematics and Computation, 2021.\\
@@ -65,6 +69,8 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
   [arXiv:2008.10593](https://arxiv.org/abs/2008.10593) | 
   [doi:10.1016/j.jcp.2021.110467](https://doi.org/10.1016/j.jcp.2021.110467) |
   [reproduce me!](https://github.com/trixi-framework/paper-self-gravitating-gas-dynamics)
+
+Author names of Trixi's main developers are in *italics*.
 
 
 ## Talks
