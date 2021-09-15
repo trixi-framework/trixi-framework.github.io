@@ -2,7 +2,12 @@
 
 # Trixi Framework
 
-**Adaptive high-order numerical simulations of hyperbolic PDEs in Julia**
+The Trixi framework is a collaborative scientific effort to provide
+open source tools for adaptive high-order numerical simulations of 
+hyperbolic PDEs in Julia. Besides the core algorithms, the framework
+also includes mesh and visualization tools. Moreover, it includes
+utilities such as Julia wrappers of mature libraries written in 
+other programming languages.
 
 This page gives an overview of the different activities that, together,
 constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framework).
@@ -10,7 +15,7 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 \toc
 
 
-## Trixi.jl
+## Adaptive high-order numerical simulations of hyperbolic PDEs
 * [**Trixi.jl**](https://github.com/trixi-framework/Trixi.jl)
 
   Adaptive high-order numerical simulations of hyperbolic PDEs in Julia
