@@ -2,7 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "The Trixi Authors"
+author = "<a href=\"https://github.com/trixi-framework/Trixi.jl/blob/main/AUTHORS.md\" target=\"_blank\" rel=\"noopener noreferrer\">The Trixi Authors</a>"
 mintoclevel = 2
 
 # Add here files or directories that should be ignored by Franklin, otherwise
