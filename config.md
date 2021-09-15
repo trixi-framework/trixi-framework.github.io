@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Trixi Framework"
 website_descr = "Overview of the activities within the Trixi Framework"
-website_url   = "https://sloede.github.io/trixi-landing-page/"
+website_url   = "https://trixi-framework.github.io/landing-page/"
 +++
 
 <!--
