@@ -10,7 +10,7 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 \toc
 
 
-## Trixi
+## Trixi.jl
 * [**Trixi.jl**](https://github.com/trixi-framework/Trixi.jl)
 
   Adaptive high-order numerical simulations of hyperbolic PDEs in Julia
