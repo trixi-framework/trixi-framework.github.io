@@ -24,6 +24,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
   Convert output files generated with Trixi.jl to VTK
 
+* [**SmartShockFinder.jl**](https://github.com/trixi-framework/SmartShockFinder.jl)
+
+  Create troubled cell indicators for Trixi.jl using artificial neural networks
+
 ## Mesh generation
 * [**HOHQMesh.jl**](https://github.com/trixi-framework/HOHQMesh.jl)
 
