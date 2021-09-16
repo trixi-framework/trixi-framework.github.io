@@ -51,6 +51,9 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
   Julia package for reading VTK XML files
 
 ## Publications
+The following publications make use of Trixi.jl or one of the other packages
+listed above. Author names of Trixi's main developers are in *italics*.
+
 * *Ranocha*, *Schlottke-Lakemper*, *Winters*, *Faulhaber*, *Chan*, *Gassner*,
   **Adaptive numerical simulations with Trixi.jl: A case study of Julia for
   scientific computing**, (submitted to JuliaCon 2021 proceedings), 2021.\\
@@ -74,8 +77,6 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
   [arXiv:2008.10593](https://arxiv.org/abs/2008.10593) | 
   [doi:10.1016/j.jcp.2021.110467](https://doi.org/10.1016/j.jcp.2021.110467) |
   [reproduce me!](https://github.com/trixi-framework/paper-self-gravitating-gas-dynamics)
-
-Author names of Trixi's main developers are in *italics*.
 
 
 ## Talks
@@ -102,7 +103,7 @@ Author names of Trixi's main developers are in *italics*.
 
 * **Purely hyperbolic self-gravitating flow simulations in Julia**\\
   *Schlottke-Lakemper*, *Winters*, *Ranocha*, *Gassner*\\
-  15th march 2021, GAMM Annual Meeting 2021
+  15th March 2021, GAMM Annual Meeting 2021
 
 * **Julia for adaptive high-order multi-physics simulations**\\
   *Schlottke-Lakemper*\\
