@@ -31,7 +31,7 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
   produce curved quadrilateral and hexahedral meshes for high-order numerical
   simulations.
 
-* [**HOHQMesh**](https://github.com/trixi-framework/HOHQMesh.jl)
+* [**HOHQMesh**](https://github.com/trixi-framework/HOHQMesh)
 
   High Order Hex-Quad Mesh (HOHQMesh) package to automatically generate
   all-quadrilateral meshes with high order boundary information.
@@ -111,6 +111,21 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [presentation & notebooks](https://github.com/trixi-framework/talk-2021-julia-adaptive-multi-physics-simulations)
 
 
+## Authors
+[Michael Schlottke-Lakemper](https://www.mi.uni-koeln.de/NumSim/schlottke-lakemper),
+[Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (both University of Cologne,
+Germany),
+[Hendrik Ranocha](https://ranocha.de/) (University of Münster, Germany),
+[Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden), and
+[Jesse Chan](https://jlchan.github.io/) (Rice University, US) are the
+principal developers of
+[Trixi.jl](https://github.com/trixi-framework/Trixi.jl).
+[David A. Kopriva](https://www.math.fsu.edu/~kopriva/) (Florida State University,
+US) is the principal developer of [HOHQMesh](https://github.com/trixi-framework/HOHQMesh)
+and [HOHQMesh.jl](https://github.com/trixi-framework/HOHQMesh.jl).
+For a full list of authors, please check out the respective packages.
+
+
 ## Get in touch!
 
 There are a number of ways to reach out to us:
@@ -118,12 +133,3 @@ There are a number of ways to reach out to us:
 * Create an issue in one of the repositories listed on this page
 * Get in touch with one of the [Trixi Authors](https://github.com/trixi-framework/Trixi.jl/blob/main/AUTHORS.md)
 
-[Michael Schlottke-Lakemper](https://www.mi.uni-koeln.de/NumSim/schlottke-lakemper),
-[Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (both University of Cologne,
-Germany),
-[Hendrik Ranocha](https://ranocha.de/) (University of Münster, Germany),
-[Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden), and
-[Jesse Chan](https://jlchan.github.io/) (Rice University, US) are the
-principal developers of Trixi.jl.
-[David A. Kopriva](https://www.math.fsu.edu/~kopriva/) (Florida State University,
-US) is the principal developer of HOHQMesh and HOHQMesh.jl.
