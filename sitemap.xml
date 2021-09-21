@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://trixi-framework.github.io/landing-page/index.html</loc>
-    <lastmod>2021-09-20</lastmod>
+    <loc>https://trixi-framework.github.io/index.html</loc>
+    <lastmod>2021-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://trixi-framework.github.io/landing-page/404/index.html</loc>
-    <lastmod>2021-09-20</lastmod>
+    <loc>https://trixi-framework.github.io/404/index.html</loc>
+    <lastmod>2021-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
