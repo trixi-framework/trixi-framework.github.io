@@ -87,7 +87,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 * **Research software development with Julia**\\
   *Schlottke-Lakemper*, *Ranocha*\\
-  27th September 2021, NFD4Ing Conference 2021
+  27th September 2021, NFDI4Ing Conference 2021
 
 * **Adaptive high-order numerical simulations with Trixi.jl**\\
   *Schlottke-Lakemper*, *Ranocha*\\
