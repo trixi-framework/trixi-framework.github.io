@@ -120,8 +120,9 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 
 ## Authors
-[Michael Schlottke-Lakemper](https://www.mi.uni-koeln.de/NumSim/schlottke-lakemper),
-[Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (both University of Cologne,
+[Michael Schlottke-Lakemper](https://www.hlrs.de/people/schlottke-lakemper)
+(University of Stuttgart, Germany),
+[Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (University of Cologne,
 Germany),
 [Hendrik Ranocha](https://ranocha.de/) (University of Münster, Germany),
 [Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden), and
