@@ -60,14 +60,13 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 * *Ranocha*, *Schlottke-Lakemper*, *Chan*, Rueda-Ramírez, *Winters*, Hindenlang, *Gassner*,
   **Efficient implementation of modern entropy stable and kinetic energy
-  preserving discontinuous Galerkin methods for conservation laws**, (submitted), 
-  2021.\\
+  preserving discontinuous Galerkin methods for conservation laws**, (submitted), 2021.\\
   [arXiv:2112.10517](https://arxiv.org/abs/2112.10517) |
   [reproduce me!](https://github.com/trixi-framework/paper-2021-EC_performance)
 
 * *Ranocha*, *Schlottke-Lakemper*, *Winters*, *Faulhaber*, *Chan*, *Gassner*,
   **Adaptive numerical simulations with Trixi.jl: A case study of Julia for
-  scientific computing**, (submitted to JuliaCon 2021 proceedings), 2021.\\
+  scientific computing**, (submitted), 2021.\\
   [arXiv:2108.06476](https://arxiv.org/abs/2108.06476) |
   [reproduce me!](https://github.com/trixi-framework/paper-2021-juliacon)
 
