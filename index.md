@@ -58,6 +58,12 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+* *Ranocha*,
+  **A Note on Numerical Fluxes Conserving Harten's Entropies for the
+  Compressible Euler Equations**, 2022.\\
+  [arXiv:2201.03946](https://arxiv.org/abs/2201.03946) |
+  [reproduce me!](https://github.com/ranocha/paper-2022-Euler_Harten_EC)
+
 * *Ranocha*, *Schlottke-Lakemper*, *Chan*, Rueda-Ramírez, *Winters*, Hindenlang, *Gassner*,
   **Efficient implementation of modern entropy stable and kinetic energy
   preserving discontinuous Galerkin methods for conservation laws**, (submitted), 2021.\\
