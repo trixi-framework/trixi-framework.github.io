@@ -64,17 +64,18 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [arXiv:2201.03946](https://arxiv.org/abs/2201.03946) |
   [reproduce me!](https://github.com/ranocha/paper-2022-Euler_Harten_EC)
 
+* *Ranocha*, *Schlottke-Lakemper*, *Winters*, *Faulhaber*, *Chan*, *Gassner*,
+  **Adaptive numerical simulations with Trixi.jl: A case study of Julia for
+  scientific computing**, JuliaCon Proceedings, 77, 2022.\\
+  [arXiv:2108.06476](https://arxiv.org/abs/2108.06476) |
+  [doi:10.21105/jcon.00077](https://doi.org/10.21105/jcon.00077) |
+  [reproduce me!](https://github.com/trixi-framework/paper-2021-juliacon)
+
 * *Ranocha*, *Schlottke-Lakemper*, *Chan*, Rueda-Ramírez, *Winters*, Hindenlang, *Gassner*,
   **Efficient implementation of modern entropy stable and kinetic energy
   preserving discontinuous Galerkin methods for conservation laws**, (submitted), 2021.\\
   [arXiv:2112.10517](https://arxiv.org/abs/2112.10517) |
   [reproduce me!](https://github.com/trixi-framework/paper-2021-EC_performance)
-
-* *Ranocha*, *Schlottke-Lakemper*, *Winters*, *Faulhaber*, *Chan*, *Gassner*,
-  **Adaptive numerical simulations with Trixi.jl: A case study of Julia for
-  scientific computing**, (submitted), 2021.\\
-  [arXiv:2108.06476](https://arxiv.org/abs/2108.06476) |
-  [reproduce me!](https://github.com/trixi-framework/paper-2021-juliacon)
 
 * Singh, Chandrashekar, **On a linear stability issue of split form schemes for
   compressible flows**, 2021.\\
