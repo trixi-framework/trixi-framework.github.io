@@ -58,6 +58,11 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+* Lukáčová-Medvid’ová, Öffner,
+  **Convergence of Discontinuous Galerkin Schemes for the Euler Equations
+  via Dissipative Weak Solutions**, 2022.\\
+  [arXiv:2202.10043](https://arxiv.org/abs/2202.10043)
+
 * *Ranocha*,
   **A Note on Numerical Fluxes Conserving Harten's Entropies for the
   Compressible Euler Equations**, 2022.\\
