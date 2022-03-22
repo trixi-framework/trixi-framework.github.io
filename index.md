@@ -58,6 +58,12 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+* *Chan*, *Ranocha*, Rueda-Ramírez, *Gassner*, Warburton,
+  **On the entropy projection and the robustness of high order entropy stable
+  discontinuous Galerkin schemes for under-resolved flows**, (submitted), 2022.\\
+  [arXiv:2203.10238](https://arxiv.org/abs/2203.10238) |
+  [reproduce me!](https://github.com/trixi-framework/paper-2022-robustness-entropy-projection)
+
 * Lukáčová-Medvid’ová, Öffner,
   **Convergence of Discontinuous Galerkin Schemes for the Euler Equations
   via Dissipative Weak Solutions**, 2022.\\
