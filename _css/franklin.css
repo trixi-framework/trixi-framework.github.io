@@ -241,10 +241,9 @@ td {
 ================================================================== */
 
 .franklin-content img {
-  /* width: 70%; --> changed to `max-width` to keep badges small */
-  max-width: 70%;
+  width: 70%;
   text-align: center;
-  /* padding-left: 10%; --> changed to avoid white space around badges */
+  padding-left: 10%;
 }
 
 .franklin-content .img-small img {

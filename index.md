@@ -61,50 +61,50 @@ listed above. Author names of Trixi's main developers are in *italics*.
 * *Chan*, *Ranocha*, Rueda-Ramírez, *Gassner*, Warburton,
   **On the entropy projection and the robustness of high order entropy stable
   discontinuous Galerkin schemes for under-resolved flows**, (submitted), 2022.\\
-  [![arXiv:2203.10238](https://img.shields.io/badge/arXiv-2203.10238-yellow)](https://arxiv.org/abs/2203.10238)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2022-robustness-entropy-projection)
+  [arXiv:2203.10238](https://arxiv.org/abs/2203.10238) |
+  [reproduce me!](https://github.com/trixi-framework/paper-2022-robustness-entropy-projection)
 
 * Lukáčová-Medvid’ová, Öffner,
   **Convergence of Discontinuous Galerkin Schemes for the Euler Equations
   via Dissipative Weak Solutions**, 2022.\\
-  [![arXiv:2202.10043](https://img.shields.io/badge/arXiv-2202.10043-yellow)](https://arxiv.org/abs/2202.10043)
+  [arXiv:2202.10043](https://arxiv.org/abs/2202.10043)
 
 * *Ranocha*,
   **A Note on Numerical Fluxes Conserving Harten's Entropies for the
   Compressible Euler Equations**, 2022.\\
-  [![arXiv:2201.03946](https://img.shields.io/badge/arXiv-2201.03946-yellow)](https://arxiv.org/abs/2201.03946)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/paper-2022-Euler_Harten_EC)
+  [arXiv:2201.03946](https://arxiv.org/abs/2201.03946) |
+  [reproduce me!](https://github.com/ranocha/paper-2022-Euler_Harten_EC)
 
 * *Ranocha*, *Schlottke-Lakemper*, *Winters*, *Faulhaber*, *Chan*, *Gassner*,
   **Adaptive numerical simulations with Trixi.jl: A case study of Julia for
   scientific computing**, JuliaCon Proceedings, 77, 2022.\\
-  [![arXiv:2108.06476](https://img.shields.io/badge/arXiv-2108.06476-yellow)](https://arxiv.org/abs/2108.06476)
-  [![doi:10.21105/jcon.00077](https://zenodo.org/badge/doi/10.21105/jcon.00077.svg)](https://doi.org/10.21105/jcon.00077)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2021-juliacon)
+  [arXiv:2108.06476](https://arxiv.org/abs/2108.06476) |
+  [doi:10.21105/jcon.00077](https://doi.org/10.21105/jcon.00077) |
+  [reproduce me!](https://github.com/trixi-framework/paper-2021-juliacon)
 
 * *Ranocha*, *Schlottke-Lakemper*, *Chan*, Rueda-Ramírez, *Winters*, Hindenlang, *Gassner*,
   **Efficient implementation of modern entropy stable and kinetic energy
   preserving discontinuous Galerkin methods for conservation laws**, (submitted), 2021.\\
-  [![arXiv:2112.10517](https://img.shields.io/badge/arXiv-2112.10517-yellow)](https://arxiv.org/abs/2112.10517)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2021-EC_performance)
+  [arXiv:2112.10517](https://arxiv.org/abs/2112.10517) |
+  [reproduce me!](https://github.com/trixi-framework/paper-2021-EC_performance)
 
 * Singh, Chandrashekar, **On a linear stability issue of split form schemes for
   compressible flows**, 2021.\\
-  [![arXiv:2104.14941](https://img.shields.io/badge/arXiv-2104.14941-yellow)](https://arxiv.org/abs/2104.14941)
+  [arXiv:2104.14941](https://arxiv.org/abs/2104.14941)
 
 * *Ranocha*, *Gassner*, **Preventing pressure oscillations does not fix local
   linear stability issues of entropy-based split-form high-order schemes**,
   Communications on Applied Mathematics and Computation, 2021.\\
-  [![arXiv:2009.13139](https://img.shields.io/badge/arXiv-2009.13139-yellow)](https://arxiv.org/abs/2009.13139)
-  [![doi:10.1007/s42967-021-00148-z](https://zenodo.org/badge/doi/10.1007/s42967-021-00148-z.svg)](https://doi.org/10.1007/s42967-021-00148-z)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-EC-KEP-PEP)
+  [arXiv:2009.13139](https://arxiv.org/abs/2009.13139) |
+  [doi:10.1007/s42967-021-00148-z](https://doi.org/10.1007/s42967-021-00148-z) |
+  [reproduce me!](https://github.com/trixi-framework/paper-EC-KEP-PEP)
 
 * *Schlottke-Lakemper*, *Winters*, *Ranocha*, *Gassner*,
   **A purely hyperbolic discontinuous Galerkin approach for self-gravitating
   gas dynamics**, Journal of Computational Physics (442), 110467, 2021.\\
-  [![arXiv:2008.10593](https://img.shields.io/badge/arXiv-2008.10593-yellow)](https://arxiv.org/abs/2008.10593) 
-  [![doi:10.1016/j.jcp.2021.110467](https://zenodo.org/badge/doi/10.1016/j.jcp.2021.110467.svg)](https://doi.org/10.1016/j.jcp.2021.110467)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-self-gravitating-gas-dynamics)
+  [arXiv:2008.10593](https://arxiv.org/abs/2008.10593) | 
+  [doi:10.1016/j.jcp.2021.110467](https://doi.org/10.1016/j.jcp.2021.110467) |
+  [reproduce me!](https://github.com/trixi-framework/paper-self-gravitating-gas-dynamics)
 
 
 ## Talks
