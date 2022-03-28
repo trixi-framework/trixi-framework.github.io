@@ -148,7 +148,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
 (University of Stuttgart, Germany),
 [Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (University of Cologne,
 Germany),
-[Hendrik Ranocha](https://ranocha.de/) (University of Münster, Germany),
+[Hendrik Ranocha](https://ranocha.de/) (University of Hamburg, Germany),
 [Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden), and
 [Jesse Chan](https://jlchan.github.io/) (Rice University, US) are the
 principal developers of
