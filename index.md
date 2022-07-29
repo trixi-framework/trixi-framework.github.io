@@ -73,6 +73,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
   **A Note on Numerical Fluxes Conserving Harten's Entropies for the
   Compressible Euler Equations**, 2022.\\
   [![arXiv:2201.03946](https://img.shields.io/badge/arXiv-2201.03946-yellow)](https://arxiv.org/abs/2201.03946)
+  [![doi:10.1016/j.jcp.2022.111236](https://zenodo.org/badge/doi/10.1016/j.jcp.2022.111236.svg)](https://doi.org/10.1016/j.jcp.2022.111236)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/paper-2022-Euler_Harten_EC)
 
 * *Ranocha*, *Schlottke-Lakemper*, *Winters*, *Faulhaber*, *Chan*, *Gassner*,
@@ -108,6 +109,20 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 
 ## Talks
+
+* **From Mesh Generation to Adaptive Simulation: A Journey in Julia**\\
+  *Winters*\\
+  27th July 2022, JuliaCon 2022\\
+  [recorded talk on YouTube](https://youtu.be/_N4ozHr-t9E) | [presentation & code](https://github.com/trixi-framework/talk-2022-juliacon_toolchain)
+
+* **Running Julia code in parallel with MPI: Lessons learned**\\
+  *Christmann*, Neher, *Schlottke-Lakemper*\\
+  26th July 2022, Julia for HPC Minisymposium, JuliaCon 2022\\
+  [recorded talk on YouTube](https://youtu.be/fog1x9rs71Q?t=5172) | [presentation](https://github.com/JuliaParallel/juliacon-2022-julia-for-hpc-minisymposium)
+
+* **Extensible Computational Fluid Dynamics in Julia with Trixi.jl**\\
+  *Schlottke-Lakemper*, *Ranocha*, *Gassner*\\
+  25th February 2022, SIAM Conference on Parallel Processing for Scientific Computing, Seattle, US
 
 * **Research software development with Julia**\\
   *Schlottke-Lakemper*, *Ranocha*\\
