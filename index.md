@@ -60,8 +60,9 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 * *Chan*, *Ranocha*, Rueda-Ramírez, *Gassner*, Warburton,
   **On the entropy projection and the robustness of high order entropy stable
-  discontinuous Galerkin schemes for under-resolved flows**, (submitted), 2022.\\
+  discontinuous Galerkin schemes for under-resolved flows**, 2022.\\
   [![arXiv:2203.10238](https://img.shields.io/badge/arXiv-2203.10238-yellow)](https://arxiv.org/abs/2203.10238)
+  [![doi:10.3389/fphy.2022.898028](https://zenodo.org/badge/doi/10.3389/fphy.2022.898028.svg)](https://doi.org/10.3389/fphy.2022.898028)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2022-robustness-entropy-projection)
 
 * Lukáčová-Medvid’ová, Öffner,
