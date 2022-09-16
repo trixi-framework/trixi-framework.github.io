@@ -58,6 +58,12 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+* *Ranocha*, *Winters*, Castro, Dalcin, *Schlottke-Lakemper*, *Gassner*, Parsani,
+  **On error-based step size control for discontinuous Galerkin methods for 
+  compressible fluid dynamics**, 2022.\\
+  [![arXiv:2209.07037](https://img.shields.io/badge/arXiv-2209.07037-yellow)](https://arxiv.org/abs/2209.07037)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2022-stepsize_control)
+
 * *Chan*, *Ranocha*, Rueda-Ramírez, *Gassner*, Warburton,
   **On the entropy projection and the robustness of high order entropy stable
   discontinuous Galerkin schemes for under-resolved flows**, 2022.\\
