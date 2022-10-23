@@ -117,6 +117,14 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 ## Talks
 
+* **Robust and efficient high-performance computational fluid dynamics enabled by modern numerical methods and technologies**\\
+  *Ranocha*\\
+  3rd November 2022,  MUSEN Colloquium, TU Braunschweig, Germany
+
+* **Reproducibility as a service: collaborative scientific computing with Julia**\\
+  *Schlottke-Lakemper*, *Ranocha*\\
+  27th October 2022,  MaRDI Workshop for Scientific Computing, Münster, Germany
+
 * **From Mesh Generation to Adaptive Simulation: A Journey in Julia**\\
   *Winters*\\
   27th July 2022, JuliaCon 2022\\
