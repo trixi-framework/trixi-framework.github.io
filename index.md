@@ -75,6 +75,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
   **Convergence of Discontinuous Galerkin Schemes for the Euler Equations
   via Dissipative Weak Solutions**, 2022.\\
   [![arXiv:2202.10043](https://img.shields.io/badge/arXiv-2202.10043-yellow)](https://arxiv.org/abs/2202.10043)
+  [![doi:10.1016/j.amc.2022.127508](https://zenodo.org/badge/doi/10.1016/j.amc.2022.127508.svg)](https://doi.org/10.1016/j.amc.2022.127508)
 
 * *Ranocha*,
   **A Note on Numerical Fluxes Conserving Harten's Entropies for the
