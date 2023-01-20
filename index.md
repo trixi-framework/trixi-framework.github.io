@@ -117,6 +117,11 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 ## Talks
 
+* **Trixi.jl: High-Order Numerical Simulations of Conservation Laws in Julia**\\
+  *Schlottke-Lakemper*\\
+  19th January 2023, SNuBIC Seminar\\
+  [tutorials & notebooks](https://github.com/trixi-framework/tutorial-2023-snubic)
+
 * **Robust and efficient high-performance computational fluid dynamics enabled by modern numerical methods and technologies**\\
   *Ranocha*\\
   3rd November 2022,  MUSEN Colloquium, TU Braunschweig, Germany
