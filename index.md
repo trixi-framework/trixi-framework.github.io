@@ -118,6 +118,10 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 ## Talks
 
+* **Research Software Engineering for Sustainable Scientific Computing**\\
+  *Schlottke-Lakemper*\\
+  30th January 2023, SSD Seminar Series, Aachen, Germany
+
 * **Trixi.jl: High-Order Numerical Simulations of Conservation Laws in Julia**\\
   *Schlottke-Lakemper*\\
   19th January 2023, SNuBIC Seminar\\
