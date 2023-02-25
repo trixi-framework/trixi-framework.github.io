@@ -70,6 +70,11 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [![arXiv:2203.10238](https://img.shields.io/badge/arXiv-2203.10238-yellow)](https://arxiv.org/abs/2203.10238)
   [![doi:10.3389/fphy.2022.898028](https://zenodo.org/badge/doi/10.3389/fphy.2022.898028.svg)](https://doi.org/10.3389/fphy.2022.898028)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2022-robustness-entropy-projection)
+  
+* Rueda-Ramírez, Pazner, *Gassner*,
+  **Subcell limiting strategies for discontinuous Galerkin spectral element methods**, 2022.\\
+  [![arXiv:2202.00576](https://img.shields.io/badge/arXiv-2202.00576-yellow)](https://arxiv.org/abs/2202.00576)
+  [![doi:10.1016/j.compfluid.2022.105627](https://zenodo.org/badge/doi/10.1016/j.compfluid.2022.105627.svg)](https://doi.org/10.1016/j.compfluid.2022.105627)
 
 * Lukáčová-Medvid’ová, Öffner,
   **Convergence of Discontinuous Galerkin Schemes for the Euler Equations
@@ -107,6 +112,11 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [![arXiv:2009.13139](https://img.shields.io/badge/arXiv-2009.13139-yellow)](https://arxiv.org/abs/2009.13139)
   [![doi:10.1007/s42967-021-00148-z](https://zenodo.org/badge/doi/10.1007/s42967-021-00148-z.svg)](https://doi.org/10.1007/s42967-021-00148-z)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-EC-KEP-PEP)
+
+* *Gassner*, Svärd, Hindenlang,
+  **Stability Issues of Entropy-Stable and/or Split-form High-order Schemes**, 2022.\\
+  [![arXiv:2007.09026](https://img.shields.io/badge/arXiv-2007.09026-yellow)](https://arxiv.org/abs/2007.09026)
+  [![doi:10.1007/s10915-021-01720-8](https://zenodo.org/badge/doi/10.1007/s10915-021-01720-8.svg)](https://doi.org/10.1007/s10915-021-01720-8)
 
 * *Schlottke-Lakemper*, *Winters*, *Ranocha*, *Gassner*,
   **A purely hyperbolic discontinuous Galerkin approach for self-gravitating
