@@ -58,6 +58,12 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+* Rueda-Ramírez, Bolm, Kuzmin, *Gassner*,
+  **Monolithic Convex Limiting for Legendre–Gauss–Lobatto Discontinuous Galerkin
+  Spectral Element Methods**, 2023.\\
+  [![arXiv:2303.00374](https://img.shields.io/badge/arXiv-2303.00374-yellow)](https://arxiv.org/abs/2303.00374)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2023_MCL_LGL-DGSEM)
+
 * *Ranocha*, *Winters*, Castro, Dalcin, *Schlottke-Lakemper*, *Gassner*, Parsani,
   **On error-based step size control for discontinuous Galerkin methods for 
   compressible fluid dynamics**, 2022.\\
