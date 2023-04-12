@@ -50,9 +50,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
   KROME.jl is a lightweight Julia wrapper for KROME, a Fortran library for including
   chemistry and microphysics in astrophysics simulations.
 
-* [**ReadVTK.jl**](https://github.com/trixi-framework/ReadVTK.jl)
+* [**JuliaVTK/ReadVTK.jl**](https://github.com/JuliaVTK/ReadVTK.jl)
 
-  Julia package for reading VTK XML files
+  Julia package for reading VTK XML files (maintained by the Trixi framework
+  authors).
 
 ## Publications
 The following publications make use of Trixi.jl or one of the other packages
