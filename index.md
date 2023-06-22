@@ -3,10 +3,10 @@
 # Trixi Framework
 
 The Trixi framework is a collaborative scientific effort to provide
-open source tools for adaptive high-order numerical simulations of 
+open source tools for adaptive high-order numerical simulations of
 hyperbolic PDEs in Julia. Besides the core algorithms, the framework
 also includes mesh and visualization tools. Moreover, it includes
-utilities such as Julia wrappers of mature libraries written in 
+utilities such as Julia wrappers of mature libraries written in
 other programming languages.
 
 This page gives an overview of the different activities that, together,
@@ -66,9 +66,10 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2023_MCL_LGL-DGSEM)
 
 * *Ranocha*, *Winters*, Castro, Dalcin, *Schlottke-Lakemper*, *Gassner*, Parsani,
-  **On error-based step size control for discontinuous Galerkin methods for 
+  **On error-based step size control for discontinuous Galerkin methods for
   compressible fluid dynamics**, 2022.\\
   [![arXiv:2209.07037](https://img.shields.io/badge/arXiv-2209.07037-yellow)](https://arxiv.org/abs/2209.07037)
+  [![doi:10.1007/s42967-023-00264-y](https://zenodo.org/badge/doi/10.1007/s42967-023-00264-y.svg)](https://doi.org/10.1007/s42967-023-00264-y)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2022-stepsize_control)
 
 * *Chan*, *Ranocha*, Rueda-Ramírez, *Gassner*, Warburton,
@@ -77,7 +78,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [![arXiv:2203.10238](https://img.shields.io/badge/arXiv-2203.10238-yellow)](https://arxiv.org/abs/2203.10238)
   [![doi:10.3389/fphy.2022.898028](https://zenodo.org/badge/doi/10.3389/fphy.2022.898028.svg)](https://doi.org/10.3389/fphy.2022.898028)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2022-robustness-entropy-projection)
-  
+
 * Rueda-Ramírez, Pazner, *Gassner*,
   **Subcell limiting strategies for discontinuous Galerkin spectral element methods**, 2022.\\
   [![arXiv:2202.00576](https://img.shields.io/badge/arXiv-2202.00576-yellow)](https://arxiv.org/abs/2202.00576)
@@ -128,7 +129,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
 * *Schlottke-Lakemper*, *Winters*, *Ranocha*, *Gassner*,
   **A purely hyperbolic discontinuous Galerkin approach for self-gravitating
   gas dynamics**, Journal of Computational Physics (442), 110467, 2021.\\
-  [![arXiv:2008.10593](https://img.shields.io/badge/arXiv-2008.10593-yellow)](https://arxiv.org/abs/2008.10593) 
+  [![arXiv:2008.10593](https://img.shields.io/badge/arXiv-2008.10593-yellow)](https://arxiv.org/abs/2008.10593)
   [![doi:10.1016/j.jcp.2021.110467](https://zenodo.org/badge/doi/10.1016/j.jcp.2021.110467.svg)](https://doi.org/10.1016/j.jcp.2021.110467)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-self-gravitating-gas-dynamics)
 
