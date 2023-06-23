@@ -59,6 +59,12 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+* Ersing, *Winters*,
+  **An entropy stable discontinuous Galerkin method for the two-layer
+  shallow water equations on curvilinear meshes**, 2023.\\
+  [![arXiv:2306.12699](https://img.shields.io/badge/arXiv-2306.12699-yellow)](https://arxiv.org/abs/2306.12699)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-es_two_layer)
+
 * Rueda-Ramírez, Bolm, Kuzmin, *Gassner*,
   **Monolithic Convex Limiting for Legendre–Gauss–Lobatto Discontinuous Galerkin
   Spectral Element Methods**, 2023.\\
@@ -67,7 +73,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 * *Ranocha*, *Winters*, Castro, Dalcin, *Schlottke-Lakemper*, *Gassner*, Parsani,
   **On error-based step size control for discontinuous Galerkin methods for
-  compressible fluid dynamics**, 2022.\\
+  compressible fluid dynamics**, 2023.\\
   [![arXiv:2209.07037](https://img.shields.io/badge/arXiv-2209.07037-yellow)](https://arxiv.org/abs/2209.07037)
   [![doi:10.1007/s42967-023-00264-y](https://zenodo.org/badge/doi/10.1007/s42967-023-00264-y.svg)](https://doi.org/10.1007/s42967-023-00264-y)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2022-stepsize_control)
