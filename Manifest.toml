@@ -57,9 +57,9 @@ version = "0.1.9"
 
 [[Franklin]]
 deps = ["Dates", "DelimitedFiles", "DocStringExtensions", "ExprTools", "FranklinTemplates", "HTTP", "Literate", "LiveServer", "Logging", "Markdown", "NodeJS", "OrderedCollections", "Pkg", "REPL", "Random", "TOML"]
-git-tree-sha1 = "cf933084cfae62b47de01ae536920774a54a18a6"
+git-tree-sha1 = "5b57de55a3c35b66e141206f9245e39da9abf8a6"
 uuid = "713c75ef-9fc9-4b05-94a9-213340da978e"
-version = "0.10.84"
+version = "0.10.86"
 
 [[FranklinTemplates]]
 deps = ["LiveServer"]
@@ -69,9 +69,9 @@ version = "0.9.1"
 
 [[HTTP]]
 deps = ["Base64", "CodecZlib", "ConcurrentUtilities", "Dates", "ExceptionUnwrapping", "Logging", "LoggingExtras", "MbedTLS", "NetworkOptions", "OpenSSL", "Random", "SimpleBufferStream", "Sockets", "URIs", "UUIDs"]
-git-tree-sha1 = "2613d054b0e18a3dea99ca1594e9a3960e025da4"
+git-tree-sha1 = "c206f345c5cee9da7bdf87cb540085a43acffca4"
 uuid = "cd3eb016-35fb-5094-929b-558a96fad6f3"
-version = "1.9.7"
+version = "1.9.11"
 
 [[IOCapture]]
 deps = ["Logging", "Random"]
@@ -122,9 +122,9 @@ version = "2.14.0"
 
 [[LiveServer]]
 deps = ["HTTP", "MIMEs", "Pkg", "Sockets"]
-git-tree-sha1 = "494010f12dd98fa0d558cb7679b7c21d3a0a430a"
+git-tree-sha1 = "0092eeb1b8b3536ddfe538bb523218ddd0883ecb"
 uuid = "16fef848-5104-11e9-1b77-fb7a48bbb589"
-version = "1.2.0"
+version = "1.2.2"
 
 [[Logging]]
 uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
