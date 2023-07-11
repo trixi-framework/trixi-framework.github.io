@@ -24,6 +24,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
   Convert output files generated with Trixi.jl to VTK
 
+* [**Libtrixi**](https://github.com/trixi-framework/libtrixi)
+
+  Use [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) from C/C++/Fortran
+
 * [**SmartShockFinder.jl**](https://github.com/trixi-framework/SmartShockFinder.jl)
 
   Create troubled cell indicators for Trixi.jl using artificial neural networks
