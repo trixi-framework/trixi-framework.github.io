@@ -24,7 +24,7 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
   Convert output files generated with Trixi.jl to VTK
 
-* [**Libtrixi**](https://github.com/trixi-framework/libtrixi)
+* [**libtrixi**](https://github.com/trixi-framework/libtrixi)
 
   Use [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) from C/C++/Fortran
 
