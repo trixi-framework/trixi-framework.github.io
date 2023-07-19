@@ -148,7 +148,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 * **Scaling Trixi.jl to more than 10,000 cores using MPI**\\
   *Schlottke-Lakemper*, *Ranocha*\\
-  27th July 2023, JuliaCon 2023, Cambridge, USA
+  27th July 2023, JuliaCon 2023, Cambridge, US
 
 * **Research Software Engineering for Sustainable Scientific Computing**\\
   *Schlottke-Lakemper*\\
