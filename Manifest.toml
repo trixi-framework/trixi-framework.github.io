@@ -16,15 +16,15 @@ version = "0.1.7"
 
 [[CodecZlib]]
 deps = ["TranscodingStreams", "Zlib_jll"]
-git-tree-sha1 = "9c209fb7536406834aa938fb149964b985de6c83"
+git-tree-sha1 = "02aa26a4cf76381be7f66e020a3eddeb27b0a092"
 uuid = "944b1d66-785c-5afd-91f1-9de20f533193"
-version = "0.7.1"
+version = "0.7.2"
 
 [[ConcurrentUtilities]]
 deps = ["Serialization", "Sockets"]
-git-tree-sha1 = "96d823b94ba8d187a6d8f0826e731195a74b90e9"
+git-tree-sha1 = "5372dbbf8f0bdb8c700db5367132925c0771ef7e"
 uuid = "f0e56b4a-5159-44fe-b623-3e5288b988bb"
-version = "2.2.0"
+version = "2.2.1"
 
 [[Dates]]
 deps = ["Printf"]
@@ -57,21 +57,21 @@ version = "0.1.9"
 
 [[Franklin]]
 deps = ["Dates", "DelimitedFiles", "DocStringExtensions", "ExprTools", "FranklinTemplates", "HTTP", "Literate", "LiveServer", "Logging", "Markdown", "NodeJS", "OrderedCollections", "Pkg", "REPL", "Random", "TOML"]
-git-tree-sha1 = "5b57de55a3c35b66e141206f9245e39da9abf8a6"
+git-tree-sha1 = "09a2c57f06091f81038029343c2b8c26318ccacf"
 uuid = "713c75ef-9fc9-4b05-94a9-213340da978e"
-version = "0.10.86"
+version = "0.10.88"
 
 [[FranklinTemplates]]
 deps = ["LiveServer"]
-git-tree-sha1 = "be1fc19bec874548ed59cfc272dc6f71a2044dab"
+git-tree-sha1 = "88a91e1b383b8ae435522ebeb3278334c24b06c4"
 uuid = "3a985190-f512-4703-8d38-2a7944ed5916"
-version = "0.9.1"
+version = "0.9.2"
 
 [[HTTP]]
 deps = ["Base64", "CodecZlib", "ConcurrentUtilities", "Dates", "ExceptionUnwrapping", "Logging", "LoggingExtras", "MbedTLS", "NetworkOptions", "OpenSSL", "Random", "SimpleBufferStream", "Sockets", "URIs", "UUIDs"]
-git-tree-sha1 = "c206f345c5cee9da7bdf87cb540085a43acffca4"
+git-tree-sha1 = "cb56ccdd481c0dd7f975ad2b3b62d9eda088f7e2"
 uuid = "cd3eb016-35fb-5094-929b-558a96fad6f3"
-version = "1.9.11"
+version = "1.9.14"
 
 [[IOCapture]]
 deps = ["Logging", "Random"]
@@ -121,10 +121,10 @@ uuid = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
 version = "2.14.0"
 
 [[LiveServer]]
-deps = ["HTTP", "MIMEs", "Pkg", "Sockets"]
-git-tree-sha1 = "0092eeb1b8b3536ddfe538bb523218ddd0883ecb"
+deps = ["HTTP", "MIMEs", "Pkg", "Sockets", "Test"]
+git-tree-sha1 = "f47a6149a045fefea1d76f456e8e7caf90c4c81e"
 uuid = "16fef848-5104-11e9-1b77-fb7a48bbb589"
-version = "1.2.2"
+version = "1.2.4"
 
 [[Logging]]
 uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
