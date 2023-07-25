@@ -63,6 +63,11 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+* *Chan*, Shukla, Wu, Liu, Nalluri,
+  **High order entropy stable schemes for the quasi-one-dimensional shallow
+  water and compressible Euler equations**, 2023.\\
+  [![arXiv:2306.12699](https://img.shields.io/badge/arXiv-2307.12089-yellow)](https://arxiv.org/abs/2307.12089)
+
 * Ersing, *Winters*,
   **An entropy stable discontinuous Galerkin method for the two-layer
   shallow water equations on curvilinear meshes**, 2023.\\
