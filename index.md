@@ -63,6 +63,11 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+* *Ranocha*, Giesselmann,
+  **Stability of step size control based on a posteriori error estimates**, 2023.\\
+  [![arXiv:2307.12677](https://img.shields.io/badge/arXiv-2307.12677-yellow)](https://arxiv.org/abs/2307.12677)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2023_RK_error_estimate)
+
 * *Chan*, Shukla, Wu, Liu, Nalluri,
   **High order entropy stable schemes for the quasi-one-dimensional shallow
   water and compressible Euler equations**, 2023.\\
