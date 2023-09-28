@@ -126,8 +126,9 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 * *Ranocha*, *Schlottke-Lakemper*, *Chan*, Rueda-Ramírez, *Winters*, Hindenlang, *Gassner*,
   **Efficient implementation of modern entropy stable and kinetic energy
-  preserving discontinuous Galerkin methods for conservation laws**, (submitted), 2021.\\
+  preserving discontinuous Galerkin methods for conservation laws**, ACM Transactions on Mathematical Software, 2023.\\
   [![arXiv:2112.10517](https://img.shields.io/badge/arXiv-2112.10517-yellow)](https://arxiv.org/abs/2112.10517)
+  [![doi:10.1145/3625559](https://zenodo.org/badge/doi/10.1145/3625559.svg)](https://doi.org/10.1145/3625559)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2021-EC_performance)
 
 * Singh, Chandrashekar, **On a linear stability issue of split form schemes for
