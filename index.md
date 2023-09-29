@@ -85,6 +85,13 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [![arXiv:2303.00374](https://img.shields.io/badge/arXiv-2303.00374-yellow)](https://arxiv.org/abs/2303.00374)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2023_MCL_LGL-DGSEM)
 
+* *Ranocha*,
+  **A discontinuous Galerkin discretization of elliptic problems with improved
+  convergence properties using summation by parts operators**, 2023.\\
+  [![arXiv:2302.12488](https://img.shields.io/badge/arXiv-2302.12488-yellow)](https://arxiv.org/abs/2302.12488)
+  [![doi:10.1016/j.jcp.2023.112367](https://zenodo.org/badge/doi/10.1016/j.jcp.2023.112367.svg)](https://doi.org/10.1016/j.jcp.2023.112367)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2023_elliptic)
+
 * *Ranocha*, *Winters*, Castro, Dalcin, *Schlottke-Lakemper*, *Gassner*, Parsani,
   **On error-based step size control for discontinuous Galerkin methods for
   compressible fluid dynamics**, 2023.\\
