@@ -14,9 +14,6 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
 \toc
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/1yr0RDx7M5g/0.jpg)](https://youtu.be/1yr0RDx7M5g)
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Iei7e9oQ0hs/0.jpg)](https://www.youtube.com/watch?v=Iei7e9oQ0hs)
-
 ## Adaptive high-order numerical simulations of hyperbolic PDEs
 * [**Trixi.jl**](https://github.com/trixi-framework/Trixi.jl)
 
