@@ -1,4 +1,5 @@
 @def title = "Trixi Framework"
+@def maxtoclevel=2
 
 # Trixi Framework
 
@@ -62,6 +63,8 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+### 2023
+
 * *Ranocha*, Giesselmann,
   **Stability of step size control based on a posteriori error estimates**, 2023.\\
   [![arXiv:2307.12677](https://img.shields.io/badge/arXiv-2307.12677-yellow)](https://arxiv.org/abs/2307.12677)
@@ -98,6 +101,15 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [![doi:10.1007/s42967-023-00264-y](https://zenodo.org/badge/doi/10.1007/s42967-023-00264-y.svg)](https://doi.org/10.1007/s42967-023-00264-y)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2022-stepsize_control)
 
+* *Ranocha*, *Schlottke-Lakemper*, *Chan*, Rueda-Ramírez, *Winters*, Hindenlang, *Gassner*,
+  **Efficient implementation of modern entropy stable and kinetic energy
+  preserving discontinuous Galerkin methods for conservation laws**, ACM Transactions on Mathematical Software, 2023.\\
+  [![arXiv:2112.10517](https://img.shields.io/badge/arXiv-2112.10517-yellow)](https://arxiv.org/abs/2112.10517)
+  [![doi:10.1145/3625559](https://zenodo.org/badge/doi/10.1145/3625559.svg)](https://doi.org/10.1145/3625559)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2021-EC_performance)
+
+### 2022
+
 * *Chan*, *Ranocha*, Rueda-Ramírez, *Gassner*, Warburton,
   **On the entropy projection and the robustness of high order entropy stable
   discontinuous Galerkin schemes for under-resolved flows**, 2022.\\
@@ -130,12 +142,12 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [![doi:10.21105/jcon.00077](https://zenodo.org/badge/doi/10.21105/jcon.00077.svg)](https://doi.org/10.21105/jcon.00077)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2021-juliacon)
 
-* *Ranocha*, *Schlottke-Lakemper*, *Chan*, Rueda-Ramírez, *Winters*, Hindenlang, *Gassner*,
-  **Efficient implementation of modern entropy stable and kinetic energy
-  preserving discontinuous Galerkin methods for conservation laws**, ACM Transactions on Mathematical Software, 2023.\\
-  [![arXiv:2112.10517](https://img.shields.io/badge/arXiv-2112.10517-yellow)](https://arxiv.org/abs/2112.10517)
-  [![doi:10.1145/3625559](https://zenodo.org/badge/doi/10.1145/3625559.svg)](https://doi.org/10.1145/3625559)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2021-EC_performance)
+* *Gassner*, Svärd, Hindenlang,
+  **Stability Issues of Entropy-Stable and/or Split-form High-order Schemes**, 2022.\\
+  [![arXiv:2007.09026](https://img.shields.io/badge/arXiv-2007.09026-yellow)](https://arxiv.org/abs/2007.09026)
+  [![doi:10.1007/s10915-021-01720-8](https://zenodo.org/badge/doi/10.1007/s10915-021-01720-8.svg)](https://doi.org/10.1007/s10915-021-01720-8)
+
+### 2021
 
 * Singh, Chandrashekar, **On a linear stability issue of split form schemes for
   compressible flows**, 2021.\\
@@ -148,11 +160,6 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [![doi:10.1007/s42967-021-00148-z](https://zenodo.org/badge/doi/10.1007/s42967-021-00148-z.svg)](https://doi.org/10.1007/s42967-021-00148-z)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-EC-KEP-PEP)
 
-* *Gassner*, Svärd, Hindenlang,
-  **Stability Issues of Entropy-Stable and/or Split-form High-order Schemes**, 2022.\\
-  [![arXiv:2007.09026](https://img.shields.io/badge/arXiv-2007.09026-yellow)](https://arxiv.org/abs/2007.09026)
-  [![doi:10.1007/s10915-021-01720-8](https://zenodo.org/badge/doi/10.1007/s10915-021-01720-8.svg)](https://doi.org/10.1007/s10915-021-01720-8)
-
 * *Schlottke-Lakemper*, *Winters*, *Ranocha*, *Gassner*,
   **A purely hyperbolic discontinuous Galerkin approach for self-gravitating
   gas dynamics**, Journal of Computational Physics (442), 110467, 2021.\\
@@ -163,9 +170,23 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 ## Talks
 
+### 2023
+
+* **Challenges of sustainable research software engineering in Trixi.jl**\\
+  *Schlottke-Lakemper*\\
+  27th October 2023, MBD Colloquium, Aachen, Germany
+
+* **Julia for scientific high-performance computing: opportunities and challenges**\\
+  *Schlottke-Lakemper*\\
+  6th October 2023, Ferrite.jl User & Developer Conference, Bochum, Germany
+
 * **Scaling Trixi.jl to more than 10,000 cores using MPI**\\
   *Schlottke-Lakemper*, *Ranocha*\\
   27th July 2023, JuliaCon 2023, Cambridge, US
+
+* **Massively Parallel Computational Fluid Dynamics with Julia and Trixi.jl**\\
+  *Schlottke-Lakemper*\\
+  28th June 2023, PASC Conference, Davos, Switzerland
 
 * **Research Software Engineering for Sustainable Scientific Computing**\\
   *Schlottke-Lakemper*\\
@@ -175,6 +196,8 @@ listed above. Author names of Trixi's main developers are in *italics*.
   *Schlottke-Lakemper*\\
   19th January 2023, SNuBIC Seminar\\
   [tutorials & notebooks](https://github.com/trixi-framework/tutorial-2023-snubic)
+
+### 2022
 
 * **Robust and efficient high-performance computational fluid dynamics enabled by modern numerical methods and technologies**\\
   *Ranocha*\\
@@ -197,6 +220,8 @@ listed above. Author names of Trixi's main developers are in *italics*.
 * **Extensible Computational Fluid Dynamics in Julia with Trixi.jl**\\
   *Schlottke-Lakemper*, *Ranocha*, *Gassner*\\
   25th February 2022, SIAM Conference on Parallel Processing for Scientific Computing, Seattle, US
+
+### 2021
 
 * **Research software development with Julia**\\
   *Schlottke-Lakemper*, *Ranocha*\\
