@@ -65,6 +65,11 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 ### 2023
 
+* *Ranocha*, Schütz,
+  **Multiderivative time integration methods preserving nonlinear functionals via relaxation**, 2023.\\
+  [![arXiv:2307.12677](https://img.shields.io/badge/arXiv-2311.03883-yellow)](https://arxiv.org/abs/2311.03883)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2023_multiderivative_relaxation)
+
 * *Ranocha*, Giesselmann,
   **Stability of step size control based on a posteriori error estimates**, 2023.\\
   [![arXiv:2307.12677](https://img.shields.io/badge/arXiv-2307.12677-yellow)](https://arxiv.org/abs/2307.12677)
