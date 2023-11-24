@@ -65,9 +65,14 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 ### 2023
 
+* *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, Glaubitz, *Gassner*,
+  **High-order upwind summation-by-parts methods for nonlinear conservation laws**, 2023.\\
+  TODO: add arxiv badge once link is live
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
+
 * *Ranocha*, Schütz,
   **Multiderivative time integration methods preserving nonlinear functionals via relaxation**, 2023.\\
-  [![arXiv:2307.12677](https://img.shields.io/badge/arXiv-2311.03883-yellow)](https://arxiv.org/abs/2311.03883)
+  [![arXiv:2311.03883](https://img.shields.io/badge/arXiv-2311.03883-yellow)](https://arxiv.org/abs/2311.03883)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2023_multiderivative_relaxation)
 
 * *Ranocha*, Giesselmann,
@@ -78,7 +83,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
 * *Chan*, Shukla, Wu, Liu, Nalluri,
   **High order entropy stable schemes for the quasi-one-dimensional shallow
   water and compressible Euler equations**, 2023.\\
-  [![arXiv:2306.12699](https://img.shields.io/badge/arXiv-2307.12089-yellow)](https://arxiv.org/abs/2307.12089)
+  [![arXiv:2307.12089](https://img.shields.io/badge/arXiv-2307.12089-yellow)](https://arxiv.org/abs/2307.12089)
 
 * Ersing, *Winters*,
   **An entropy stable discontinuous Galerkin method for the two-layer
