@@ -67,7 +67,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 * *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, Glaubitz, *Gassner*,
   **High-order upwind summation-by-parts methods for nonlinear conservation laws**, 2023.\\
-  TODO: add arxiv badge once link is live
+  [![arXiv:2311.13888](https://img.shields.io/badge/arXiv-2311.13888-yellow)](https://arxiv.org/abs/2311.13888)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
 
 * *Ranocha*, Schütz,
