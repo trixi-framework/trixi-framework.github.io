@@ -267,8 +267,9 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [presentation & notebooks](https://github.com/trixi-framework/talk-2021-julia-adaptive-multi-physics-simulations)
 
 
-## GSoC 2023
-Trixi.jl participated in the Google Summer of Code 2023, marking its initial steps towards running on GPUs. This project is mentored by [Hendrik Ranocha](https://ranocha.de/) and [Michael Schlottke-Lakemper](https://lakemper.eu). Here is the [GSoC 2023 Blog](https://huiyuxie.github.io/) from our contributor, [Huiyu Xie](https://github.com/huiyuxie), who is working on the project.
+## Outreach
+### Google Summer of Code 2023
+Trixi.jl participated in the Google Summer of Code 2023, marking its initial steps towards running on GPUs. This project was mentored by [Hendrik Ranocha](https://ranocha.de/) and [Michael Schlottke-Lakemper](https://lakemper.eu). [Here](outreach/gsoc/2023/gpu-acceleration-in-trixi-jl-using-cuda-jl) you can find the report from our contributor [Huiyu Xie](https://github.com/huiyuxie).
 
 
 ## Authors
