@@ -8,6 +8,10 @@
 - Mentors: [Hendrik Ranocha](https://github.com/ranocha) and [Michael Schlottke-Lakemper](https://github.com/sloede)
 - Project Link: https://github.com/huiyuxie/trixi_cuda
 
+The goal of this GSoC project was to accelerate Trixi.jl using GPUs.
+
+**Table of contents**
+\toc
 
 ## Project Overview
 The project was focused on enhancing the [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) numerical simulation framework, a prominent tool used for solving hyperbolic conservation laws within the Julia programming language. The primary aim was to introduce GPU support through [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) and essentially [CUDA](https://docs.nvidia.com/cuda) to accelerate the discretization processes used in solving partial differential equations (PDEs). This work was undertaken as part of the [Google Summer of Code 2023](https://summerofcode.withgoogle.com/) program, and the progress is summarized below:
