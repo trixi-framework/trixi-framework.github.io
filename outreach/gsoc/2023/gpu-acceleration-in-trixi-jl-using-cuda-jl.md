@@ -6,7 +6,7 @@
  
 - Mentee: [Huiyu Xie](https://github.com/huiyuxie)
 - Mentors: [Hendrik Ranocha](https://github.com/ranocha) and [Michael Schlottke-Lakemper](https://github.com/sloede)
-- Project Link: https://github.com/huiyuxie/trixi_cuda
+- Project Link: [https://github.com/huiyuxie/trixi\_cuda](https://github.com/huiyuxie/trixi_cuda)
 
 The goal of this GSoC project was to accelerate Trixi.jl using GPUs.
 
