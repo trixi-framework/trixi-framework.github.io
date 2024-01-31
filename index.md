@@ -44,6 +44,16 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
   High Order Hex-Quad Mesh (HOHQMesh) package to automatically generate
   all-quadrilateral meshes with high order boundary information.
 
+* [**Smesh.jl**](https://github.com/trixi-framework/Smesh.jl)
+
+  Smesh.jl is a Julia wrapper packagae for smesh, a simple Fortran package for generating
+  and handling unstructured triangular and polygonal meshes.
+
+* [**smesh**](https://github.com/trixi-framework/smesh)
+
+  A simple Fortran package for generating and handling unstructured triangular and polygonal
+  meshes.
+
 ## Additional packages
 * [**P4est.jl**](https://github.com/trixi-framework/P4est.jl)
 
