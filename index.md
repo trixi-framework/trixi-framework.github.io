@@ -76,7 +76,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
 ### 2024
 
 * Babbar, Chandrashekar,
-  **Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for_hyperbolic conservation laws**, 2024.\\
+  **Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws**, 2024.\\
   [![arXiv:2402.11926](https://img.shields.io/badge/arXiv-2402.11926-yellow)](https://arxiv.org/abs/2402.11926)
 
 ### 2023
