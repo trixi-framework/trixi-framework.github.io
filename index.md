@@ -73,6 +73,16 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
+### 2024
+
+* Babbar, Chandrashekar,
+  **Lax-Wendroff Flux Reconstruction for advection-diffusion equations with error-based time stepping**, 2024.\\
+  [![arXiv:2402.12669](https://img.shields.io/badge/arXiv-2402.12669-yellow)](https://arxiv.org/abs/2402.12669)
+
+* Babbar, Chandrashekar,
+  **Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws**, 2024.\\
+  [![arXiv:2402.11926](https://img.shields.io/badge/arXiv-2402.11926-yellow)](https://arxiv.org/abs/2402.11926)
+
 ### 2023
 
 * *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, Glaubitz, *Gassner*,
