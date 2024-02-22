@@ -75,7 +75,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 ### 2024
 
-* Doehring, Gassner, Torrilhon,
+* *Doehring*, *Gassner*, Torrilhon,
     **Many-Stage Optimal Stabilized Runge-Kutta Methods for Hyperbolic Partial Differential Equations**, 2024.\\
   [![arXiv:2402.12669](https://img.shields.io/badge/arXiv-2402.12669-yellow)](https://arxiv.org/abs/2402.12140)
 
