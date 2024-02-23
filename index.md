@@ -75,6 +75,10 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 ### 2024
 
+* Rueda-Ramírez, Sikstel, *Gassner*,
+  **An Entropy-Stable Discontinuous Galerkin Discretization of the Ideal Multi-Ion Magnetohydrodynamics System**, 2024.\\
+  [![arXiv:2402.14615](https://img.shields.io/badge/arXiv-2402.14615-yellow)](https://arxiv.org/abs/2402.14615)
+
 * *Doehring*, *Gassner*, Torrilhon,
   **Many-Stage Optimal Stabilized Runge-Kutta Methods for Hyperbolic Partial Differential Equations**, 2024.\\
   [![arXiv:2402.12140](https://img.shields.io/badge/arXiv-2402.12140-yellow)](https://arxiv.org/abs/2402.12140)
