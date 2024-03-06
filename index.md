@@ -75,6 +75,10 @@ listed above. Author names of Trixi's main developers are in *italics*.
 
 ### 2024
 
+* Babbar, Chandrashekar,
+  **Multi-Derivative Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws**, 2024.\\
+  [![arXiv:2403.02141](https://img.shields.io/badge/arXiv-2403.02141-yellow)](https://arxiv.org/abs/2403.02141)
+
 * *Lampert*, *Ranocha*,
   **Structure-Preserving Numerical Methods for Two Nonlinear Systems of Dispersive Wave Equations**, 2024.\\
   [![arXiv:2402.16669](https://img.shields.io/badge/arXiv-2402.16669-yellow)](https://arxiv.org/abs/2402.16669)
