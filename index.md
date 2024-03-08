@@ -132,6 +132,7 @@ listed above. Author names of Trixi's main developers are in *italics*.
   **Monolithic Convex Limiting for Legendre–Gauss–Lobatto Discontinuous Galerkin
   Spectral Element Methods**, 2023.\\
   [![arXiv:2303.00374](https://img.shields.io/badge/arXiv-2303.00374-yellow)](https://arxiv.org/abs/2303.00374)
+  [![doi:10.1007/s42967-023-00321-6](https://zenodo.org/badge/doi/10.1007/s42967-023-00321-6.svg)](https://doi.org/10.1007/s42967-023-00321-6)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2023_MCL_LGL-DGSEM)
 
 * *Ranocha*,
