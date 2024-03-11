@@ -74,6 +74,10 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
 ### 2024
+* *Doehring*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
+  **Multirate Time-Integration based on Dynamic ODE Partitioning through Adaptively Refined Meshes for Compressible Fluid Dynamics**, 2024.\\
+  [![arXiv:2403.05144](https://img.shields.io/badge/arXiv-2403.05144-yellow)](https://arxiv.org/abs/2403.05144)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2024-amr-paired-rk)
 
 * Babbar, Chandrashekar,
   **Multi-Derivative Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws**, 2024.\\
