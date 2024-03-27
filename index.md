@@ -74,6 +74,11 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi's main developers are in *italics*.
 
 ### 2024
+* Oblapenko, Torrilhon,
+  **Entropy-conservative high-order methods for high-enthalpy flows**, 2024.\\
+  [![arXiv:2403.16882](https://img.shields.io/badge/arXiv-2403.16882-yellow)](https://arxiv.org/abs/2403.16882)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/knstmrd/paper-ec_trixi_inte)
+
 * *Doehring*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
   **Multirate Time-Integration based on Dynamic ODE Partitioning through Adaptively Refined Meshes for Compressible Fluid Dynamics**, 2024.\\
   [![arXiv:2403.05144](https://img.shields.io/badge/arXiv-2403.05144-yellow)](https://arxiv.org/abs/2403.05144)
