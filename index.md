@@ -54,6 +54,16 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
   A simple Fortran package for generating and handling unstructured triangular and polygonal
   meshes.
 
+## Particle-based multiphysics simulations
+
+* [**TrixiParticles.jl**](https://github.com/trixi-framework/TrixiParticles.jl)
+
+  Particle-based multiphysics simulations in Julia
+
+* [**PointNeighbors.jl**](https://github.com/trixi-framework/PointNeighbors.jl)
+
+  Efficient neighborhood search in point clouds with fixed search radius
+
 ## Additional packages
 * [**P4est.jl**](https://github.com/trixi-framework/P4est.jl)
 
