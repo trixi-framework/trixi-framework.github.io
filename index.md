@@ -81,9 +81,13 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
 ## Publications
 The following publications make use of Trixi.jl or one of the other packages
-listed above. Author names of Trixi's main developers are in *italics*.
+listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2024
+* Bender, Öffner,
+  **Entropy-Conservative Discontinuous Galerkin Methods for the Shallow Water Equations with Uncertainty**, 2024.\\
+  [![doi:10.1007/s42967-024-00369-y](https://zenodo.org/badge/doi/10.1007/s42967-024-00369-y.svg)](https://doi.org/10.1007/s42967-024-00369-y)
+
 * Oblapenko, Torrilhon,
   **Entropy-conservative high-order methods for high-enthalpy flows**, 2024.\\
   [![arXiv:2403.16882](https://img.shields.io/badge/arXiv-2403.16882-yellow)](https://arxiv.org/abs/2403.16882)
@@ -120,6 +124,13 @@ listed above. Author names of Trixi's main developers are in *italics*.
   [![arXiv:2402.11926](https://img.shields.io/badge/arXiv-2402.11926-yellow)](https://arxiv.org/abs/2402.11926)
 
 ### 2023
+* Babbar, Kenettinkara, Chandrashekar,
+  **Admissibility preserving subcell limiter for Lax-Wendroff flux reconstruction**, 2023.\\
+  [![arXiv:2305.10781](https://img.shields.io/badge/arXiv-2305.10781-yellow)](https://arxiv.org/abs/2305.10781)
+
+* Ovadia, Oommen, Kahana, Peyvan, Turkel, Karniadakis,
+  **Real-time Inference and Extrapolation via a Diffusion-inspired Temporal Transformer Operator (DiTTO)**, 2023.\\
+  [![arXiv:2307.09072](https://img.shields.io/badge/arXiv-2307.09072-yellow)](https://arxiv.org/abs/2307.09072)
 
 * *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, Glaubitz, *Gassner*,
   **High-order upwind summation-by-parts methods for nonlinear conservation laws**, 2023.\\
