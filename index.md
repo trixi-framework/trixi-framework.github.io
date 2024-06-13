@@ -342,7 +342,7 @@ Trixi.jl participated in the Google Summer of Code 2023, marking its initial ste
 
 ## Authors
 [Michael Schlottke-Lakemper](https://lakemper.eu)
-(RWTH Aachen University, Germany),
+(University of Augsburg, Germany),
 [Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (University of Cologne,
 Germany),
 [Hendrik Ranocha](https://ranocha.de/) (University of Hamburg, Germany),
