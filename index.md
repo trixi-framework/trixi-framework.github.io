@@ -337,11 +337,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ## Outreach
 ### Google Summer of Code 2023
-Trixi.jl participated in the Google Summer of Code 2023, marking its initial steps towards running on GPUs. This project was mentored by [Hendrik Ranocha](https://ranocha.de/) and [Michael Schlottke-Lakemper](https://lakemper.eu). [Here](outreach/gsoc/2023/gpu-acceleration-in-trixi-jl-using-cuda-jl) you can find the report from our contributor [Huiyu Xie](https://github.com/huiyuxie).
+Trixi.jl participated in the Google Summer of Code 2023, marking its initial steps towards running on GPUs. This project was mentored by [Hendrik Ranocha](https://ranocha.de/) and [Michael Schlottke-Lakemper](https://www.uni-augsburg.de/fakultaet/mntf/math/prof/hpsc). [Here](outreach/gsoc/2023/gpu-acceleration-in-trixi-jl-using-cuda-jl) you can find the report from our contributor [Huiyu Xie](https://github.com/huiyuxie).
 
 
 ## Authors
-[Michael Schlottke-Lakemper](https://lakemper.eu)
+[Michael Schlottke-Lakemper](https://www.uni-augsburg.de/fakultaet/mntf/math/prof/hpsc)
 (University of Augsburg, Germany),
 [Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (University of Cologne,
 Germany),
