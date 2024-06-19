@@ -156,6 +156,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **An entropy stable discontinuous Galerkin method for the two-layer
   shallow water equations on curvilinear meshes**, 2023.\\
   [![arXiv:2306.12699](https://img.shields.io/badge/arXiv-2306.12699-yellow)](https://arxiv.org/abs/2306.12699)
+  [![doi:10.1007/s10915-024-02451-2](https://zenodo.org/badge/doi/10.1007/s10915-024-02451-2.svg)](https://doi.org/10.1007/s10915-024-02451-2)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-es_two_layer)
 
 * Rueda-Ramírez, Bolm, Kuzmin, *Gassner*,
