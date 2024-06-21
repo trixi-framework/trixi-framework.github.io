@@ -84,6 +84,16 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2024
+* *Ersing*, Goldberg, *Winters*,
+  **Entropy stable hydrostatic reconstruction schemes for shallow water systems**, 2024.\\
+  [![arXiv:2406.14119](https://img.shields.io/badge/arXiv-2406.14119-yellow)](https://arxiv.org/abs/2406.14119)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2024-es_hydrostatic_reconstruction)
+
+* Glaubitz, *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, *Gassner*,
+  **Generalized upwind summation-by-parts operators and their application to nodal discontinuous Galerkin methods**, 2024.\\
+  [![arXiv:2406.14557](https://img.shields.io/badge/arXiv-2406.14557-yellow)](https://arxiv.org/abs/2406.14557)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2024-generalized-upwind-sbp)
+
 * Bender, Öffner,
   **Entropy-Conservative Discontinuous Galerkin Methods for the Shallow Water Equations with Uncertainty**, 2024.\\
   [![doi:10.1007/s42967-024-00369-y](https://zenodo.org/badge/doi/10.1007/s42967-024-00369-y.svg)](https://doi.org/10.1007/s42967-024-00369-y)
@@ -156,6 +166,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **An entropy stable discontinuous Galerkin method for the two-layer
   shallow water equations on curvilinear meshes**, 2023.\\
   [![arXiv:2306.12699](https://img.shields.io/badge/arXiv-2306.12699-yellow)](https://arxiv.org/abs/2306.12699)
+  [![doi:10.1007/s10915-024-02451-2](https://zenodo.org/badge/doi/10.1007/s10915-024-02451-2.svg)](https://doi.org/10.1007/s10915-024-02451-2)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-es_two_layer)
 
 * Rueda-Ramírez, Bolm, Kuzmin, *Gassner*,
