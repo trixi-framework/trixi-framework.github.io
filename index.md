@@ -150,6 +150,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * *Ranocha*, Schütz,
   **Multiderivative time integration methods preserving nonlinear functionals via relaxation**, 2023.\\
   [![arXiv:2311.03883](https://img.shields.io/badge/arXiv-2311.03883-yellow)](https://arxiv.org/abs/2311.03883)
+  [![doi:10.2140/camcos.2024.19.27](https://zenodo.org/badge/doi/10.2140/camcos.2024.19.27.svg)](https://doi.org/10.2140/camcos.2024.19.27)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2023_multiderivative_relaxation)
 
 * *Ranocha*, Giesselmann,
