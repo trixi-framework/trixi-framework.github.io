@@ -84,7 +84,7 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2024
-* Ersing, Goldberg, *Winters*,
+* *Ersing*, Goldberg, *Winters*,
   **Entropy stable hydrostatic reconstruction schemes for shallow water systems**, 2024.\\
   [![arXiv:2406.14119](https://img.shields.io/badge/arXiv-2406.14119-yellow)](https://arxiv.org/abs/2406.14119)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2024-es_hydrostatic_reconstruction)
