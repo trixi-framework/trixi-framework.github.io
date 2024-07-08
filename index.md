@@ -261,6 +261,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ## Talks
 
+### 2024
+* **Non-intrusive Multirate Time-Integration for High-Order accurate Compressible Fluid Dynamics with Trixi.jl**\\
+  *Doehring*\\
+  2nd July 2024, PDESoft 2024, Cambridge, UK
+
 ### 2023
 
 * **Challenges of sustainable research software engineering in Trixi.jl**\\
