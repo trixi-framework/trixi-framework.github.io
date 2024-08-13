@@ -84,6 +84,10 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2024
+* *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
+  **Fourth-Order Paired-Explicit Runge-Kutta Methods**, 2024.\\
+  [![arXiv:2408.05470](https://img.shields.io/badge/arXiv-2408.05470-yellow)](https://arxiv.org/abs/2408.05470)
+
 * *Ersing*, Goldberg, *Winters*,
   **Entropy stable hydrostatic reconstruction schemes for shallow water systems**, 2024.\\
   [![arXiv:2406.14119](https://img.shields.io/badge/arXiv-2406.14119-yellow)](https://arxiv.org/abs/2406.14119)
