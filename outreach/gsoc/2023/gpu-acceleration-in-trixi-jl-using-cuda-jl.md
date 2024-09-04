@@ -24,14 +24,14 @@ The project was focused on enhancing the [Trixi.jl](https://github.com/trixi-fra
 
 Please note that the third step was planned but remains incomplete due to time constraints and this step will be completed in the future if possible.
 
-#### How to Setup 
+### How to Setup 
 This project was entirely set up and tested on Amazon Web Services (AWS), and the instance type chosen was [`p3.2xlarge`](https://aws.amazon.com/ec2/instance-types/#Accelerated_Computing). Here is the link to the specific information of both [CPU and GPU](https://github.com/czha/TrixiGPU.jl/blob/legacy/docs/env_info.md) used for this project. Note that this project is reproducible by following the setup instructions provided link aboout [how to set up environment](https://github.com/czha/TrixiGPU.jl/blob/legacy/docs/project_setup.md). Also, for individuals without an Nvidia GPU but interested in experimenting with CUDA, here is a link detailing how to [set up a cloud GPU on AWS](https://github.com/czha/TrixiGPU.jl/blob/legacy/docs/aws_gpu_setup.md).
 
 
 ## Key Highlights
 The overview of the project repository can be accessed through this [README.md](https://github.com/czha/TrixiGPU.jl/blob/legacy/README.md) file. Here is a detailed description of the highlights of this project.
 
-#### 1. Kernel Prototyping
+### 1. Kernel Prototyping
 Several function (kernel) naming rules were applied in the kernel prototyping process:
 - The functions for GPU kernel parallel computing must end with `_kernel`
 - The functions for calling the GPU kernels must begin with `cuda_`
@@ -47,7 +47,7 @@ Based on these points, the work began with `dg_1d.jl`, and then extended to `dg_
 - GPU parallel computing can run into race conditions ([Issue #5](https://github.com/huiyuxie/trixi_cuda/issues/5))
 - The `Float32` type can be promoted to `Float64` type in the GPU computing process ([Issue #3](https://github.com/huiyuxie/trixi_cuda/issues/3) and [PR #1604](https://github.com/trixi-framework/Trixi.jl/pull/1604))
 
-#### 2. Kernel Configuration 
+### 2. Kernel Configuration 
 The GPU kernels were designed to be launched with the appropriate size of threads and blocks. The occupancy API `CUDA.launch_configuration` was used to create kernel configurator functions for 1D, 2D, and 3D kernels (i.e., `configurator_1d`, `configurator_2d`, and `configurator_3d`). 
 
 Specifically, in kernel configurator functions, `CUDA.launch_configuration` would first return a suggested number of threads for the compiled but not yet run kernel, and then the number of blocks would be computed through dividing the corresponding array size by the number of threads. 
@@ -66,7 +66,7 @@ julia> attribute(device(),CUDA.DEVICE_ATTRIBUTE_MAX_THREADS_PER_BLOCK) 1024
 ```
 the kernel could be addressed in the crrent GPU version but may not in some other GPU versions (as different GPU gives different attribute data like `CUDA.DEVICE_ATTRIBUTE_MAX_GRID_DIM_X` and `CUDA.DEVICE_ATTRIBUTE_MAX_THREADS_PER_BLOCK`). So it was suggested to introduce the use of a stride loop for the current GPU kernels.
 
-#### 3. Kernel Optimization
+### 3. Kernel Optimization
 Some work on kernel optimization has already been done during the process of kernel prototyping, such as avoiding the use of conditional branches and minimizing kernel calls. But the general work for kernel optimization has not yet been introdued (so this part is somewhat related to the future work). 
 
 In summary, the kernel optimization should be based on kernel benchmarks and kernel profiling, and here are some factors that can be considered to improve performance:
