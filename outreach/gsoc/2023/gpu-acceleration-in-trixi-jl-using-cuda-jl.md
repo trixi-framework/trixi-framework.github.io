@@ -6,7 +6,7 @@
  
 - Mentee: [Huiyu Xie](https://github.com/huiyuxie)
 - Mentors: [Hendrik Ranocha](https://github.com/ranocha) and [Michael Schlottke-Lakemper](https://github.com/sloede)
-- Project Link: [https://github.com/huiyuxie/trixi\_cuda](https://github.com/huiyuxie/trixi_cuda)
+- Project Link: [https://github.com/huiyuxie/trixi\_cuda](https://github.com/czha/TrixiGPU.jl/tree/legacy)
 
 The goal of this GSoC project was to accelerate Trixi.jl using GPUs.
 
@@ -25,11 +25,11 @@ The project was focused on enhancing the [Trixi.jl](https://github.com/trixi-fra
 Please note that the third step was planned but remains incomplete due to time constraints and this step will be completed in the future if possible.
 
 #### How to Setup 
-This project was entirely set up and tested on Amazon Web Services (AWS), and the instance type chosen was `p3.2xlarge` (see [the link](https://aws.amazon.com/ec2/instance-types/#Accelerated_Computing) for more details). Here is the link to the specific information of both [CPU and GPU](https://github.com/huiyuxie/trixi_cuda/blob/main/docs/env_info.md) used for this project. Note that this project is reproducible by following the setup instructions provided link aboout [how to set up environment](https://github.com/huiyuxie/trixi_cuda/blob/main/docs/project_setup.md). Also, for individuals without an Nvidia GPU but interested in experimenting with CUDA, here is a link detailing how to [set up a cloud GPU on AWS](https://github.com/huiyuxie/trixi_cuda/blob/main/docs/aws_gpu_setup.md).
+This project was entirely set up and tested on Amazon Web Services (AWS), and the instance type chosen was [`p3.2xlarge`](https://aws.amazon.com/ec2/instance-types/#Accelerated_Computing). Here is the link to the specific information of both [CPU and GPU](https://github.com/czha/TrixiGPU.jl/blob/legacy/docs/env_info.md) used for this project. Note that this project is reproducible by following the setup instructions provided link aboout [how to set up environment](https://github.com/czha/TrixiGPU.jl/blob/legacy/docs/project_setup.md). Also, for individuals without an Nvidia GPU but interested in experimenting with CUDA, here is a link detailing how to [set up a cloud GPU on AWS](https://github.com/czha/TrixiGPU.jl/blob/legacy/docs/aws_gpu_setup.md).
 
 
 ## Key Highlights
-The overview of the project repository can be accessed through this [README](https://github.com/huiyuxie/trixi_cuda) file. Here is a detailed description of the highlights of this project.
+The overview of the project repository can be accessed through this [README.md](https://github.com/czha/TrixiGPU.jl/blob/legacy/README.md) file. Here is a detailed description of the highlights of this project.
 
 #### 1. Kernel Prototyping
 Several function (kernel) naming rules were applied in the kernel prototyping process:
@@ -75,9 +75,9 @@ In summary, the kernel optimization should be based on kernel benchmarks and ker
 - Multi-GPU/Multi-Thread: The performance can be further improved if multiple GPUs or multiple threads are used.
 
 ## Performance Benchmarks
-The performance benchmarks were conducted for both CPU and GPU on `Float64` and `Float32` types, respectively. The example files `elixir_advection_basic.jl`, `elixir_euler_ec.jl`, and `elixir_euler_source_terms.jl` were chosen from `tree_1d_dgsem`, `tree_2d_dgsem`, and `tree_3d_dgsem` under the `src/examples` directory. These examples were chosen because they are consistent in case of 1D, 2D, and 3D. Please note that all the examples have passed the accuracy tests and you can check them using this [link to examples](https://github.com/huiyuxie/trixi_cuda/tree/main/cuda_julia/examples).
+The performance benchmarks were conducted for both CPU and GPU on `Float64` and `Float32` types, respectively. The example files `elixir_advection_basic.jl`, `elixir_euler_ec.jl`, and `elixir_euler_source_terms.jl` were chosen from `tree_1d_dgsem`, `tree_2d_dgsem`, and `tree_3d_dgsem` under the `src/examples` directory. These examples were chosen because they are consistent in case of 1D, 2D, and 3D. Please note that all the examples have passed the accuracy tests and you can check them using this [link to examples](https://github.com/czha/TrixiGPU.jl/tree/legacy/src/examples).
 
-The benchmark results were archived in another file and please use this [link to benchmarks](https://github.com/huiyuxie/trixi_cuda/blob/main/docs/cuda_benchmarks.md) to check them. Also note that the benchmarks were focuesd on the time integration part (i.e., on `OrdinaryDiffEq.solve`), see a benchmark exmaple below 
+The benchmark results were archived in another file and please use this [link to benchmarks](https://github.com/czha/TrixiGPU.jl/blob/legacy/docs/cuda_benchmark.md) to check them. Also note that the benchmarks were focuesd on the time integration part (i.e., on `OrdinaryDiffEq.solve`), see a benchmark exmaple below 
 ```Julia
 # Run on CPU
 @benchmark begin
@@ -99,7 +99,7 @@ In addition, the results indicate that the GPU performs better with 2D and 3D ex
 ## Future Work
 The future work is listed here, ranging from specific to more general, from top to bottom:
 1. Resolve [Issue #9](https://github.com/huiyuxie/trixi_cuda/issues/9) and [Issue #11](https://github.com/huiyuxie/trixi_cuda/issues/11) (and any upcoming issues) 
-2. Complete the prototype for the remaining kernels (please refer to the Kernel to be Implemented from the [README](https://github.com/huiyuxie/trixi_cuda/blob/main/README.md) file).
+2. Complete the prototype for the remaining kernels (please refer to the Kernel to be Implemented from the [README.md](https://github.com/czha/TrixiGPU.jl/blob/legacy/README.md) file).
 3. Update [PR #1604](https://github.com/trixi-framework/Trixi.jl/pull/1604) and make it merged into the repository
 4. Optimize CUDA kernels to improve performance (especially data transfer, please refer to the kernel optimization part)
 5. Prototype the GPU kernels for other DG solvers (for example, `DGMulti`, etc.)
@@ -113,5 +113,3 @@ Special thanks go to my GSoC mentor [Hendrik Ranocha](https://github.com/ranocha
 Tim Besard](https://github.com/maleadt) (@maleadt, though he is not my mentor), whose guidance and support throughout our regular discussions have been instrumental in answering my questions and overcoming hurdles. The Julia community is incredibly welcoming and supportive, and I am proud to have been a part of this endeavor.
 
 I am filled with appreciation for this fantastic summer of learning and development, and I look forward to seeing the continued growth of Julia and the contributions of its vibrant community.
-
-
