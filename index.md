@@ -83,6 +83,13 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
+### 2025
+* *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, Glaubitz, *Gassner*,
+  **On the robustness of high-order upwind summation-by-parts methods for nonlinear conservation laws**, 2025.\\
+  [![arXiv:2311.13888](https://img.shields.io/badge/arXiv-2311.13888-yellow)](https://arxiv.org/abs/2311.13888)
+  [![doi:10.1016/j.jcp.2024.113471](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.113471.svg)](https://doi.org/10.1016/j.jcp.2024.113471)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
+
 ### 2024
 * *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
   **Fourth-Order Paired-Explicit Runge-Kutta Methods**, 2024.\\
@@ -146,12 +153,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Ovadia, Oommen, Kahana, Peyvan, Turkel, Karniadakis,
   **Real-time Inference and Extrapolation via a Diffusion-inspired Temporal Transformer Operator (DiTTO)**, 2023.\\
   [![arXiv:2307.09072](https://img.shields.io/badge/arXiv-2307.09072-yellow)](https://arxiv.org/abs/2307.09072)
-
-* *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, Glaubitz, *Gassner*,
-  **On the robustness of high-order upwind summation-by-parts methods for nonlinear conservation laws**, 2023.\\
-  [![arXiv:2311.13888](https://img.shields.io/badge/arXiv-2311.13888-yellow)](https://arxiv.org/abs/2311.13888)
-  [![doi:10.1016/j.jcp.2024.113471](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.113471.svg)](https://doi.org/10.1016/j.jcp.2024.113471)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
 
 * *Ranocha*, Schütz,
   **Multiderivative time integration methods preserving nonlinear functionals via relaxation**, 2023.\\
