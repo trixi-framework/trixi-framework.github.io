@@ -148,8 +148,9 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2307.09072](https://img.shields.io/badge/arXiv-2307.09072-yellow)](https://arxiv.org/abs/2307.09072)
 
 * *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, Glaubitz, *Gassner*,
-  **High-order upwind summation-by-parts methods for nonlinear conservation laws**, 2023.\\
+  **On the robustness of high-order upwind summation-by-parts methods for nonlinear conservation laws**, 2023.\\
   [![arXiv:2311.13888](https://img.shields.io/badge/arXiv-2311.13888-yellow)](https://arxiv.org/abs/2311.13888)
+  [![doi:10.1016/j.jcp.2024.113471](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.113471.svg)](https://doi.org/10.1016/j.jcp.2024.113471)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
 
 * *Ranocha*, Schütz,
