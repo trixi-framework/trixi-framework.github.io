@@ -96,7 +96,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2410.14502](https://img.shields.io/badge/arXiv-2410.14502-yellow)](https://arxiv.org/abs/2410.14502)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2024_mimetic_metrics)
 
-
 * *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
   **Fourth-Order Paired-Explicit Runge-Kutta Methods**, 2024.\\
   [![arXiv:2408.05470](https://img.shields.io/badge/arXiv-2408.05470-yellow)](https://arxiv.org/abs/2408.05470)
