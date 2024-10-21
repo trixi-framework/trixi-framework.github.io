@@ -91,7 +91,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
 
 ### 2024
-* Bach, Rueda-Ramírez, Kopriva, *Gassner*,
+* Bach, *Rueda-Ramírez*, Kopriva, *Gassner*,
   **Mimetic Metrics for the DGSEM**, 2024.\\
   [![arXiv:2410.14502](https://img.shields.io/badge/arXiv-2410.14502-yellow)](https://arxiv.org/abs/2410.14502)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2024_mimetic_metrics)
