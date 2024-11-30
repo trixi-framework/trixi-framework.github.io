@@ -84,6 +84,13 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
+
+* Babbar, Chandrashekar,
+  **Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws**,
+  Journal of Computational Physics (522), 113622, 2025.\\
+  [![arXiv:2402.11926](https://img.shields.io/badge/arXiv-2402.11926-yellow)](https://arxiv.org/abs/2402.11926)
+  [![doi:10.1016/j.jcp.2024.113622](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.113622.svg)](https://doi.org/10.1016/j.jcp.2024.113622)
+
 * *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, Glaubitz, *Gassner*,
   **On the robustness of high-order upwind summation-by-parts methods for nonlinear conservation laws**, 2025.\\
   [![arXiv:2311.13888](https://img.shields.io/badge/arXiv-2311.13888-yellow)](https://arxiv.org/abs/2311.13888)
@@ -130,6 +137,12 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![doi:10.1016/j.jcp.2024.113223](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.113223.svg)](https://doi.org/10.1016/j.jcp.2024.113223)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2024-amr-paired-rk)
 
+* Babbar, Kenettinkara, Chandrashekar,
+  **Admissibility preserving subcell limiter for Lax-Wendroff flux reconstruction**,
+  Journal of Scientific Computing, Vol. 99, Issue 2, May 2024.\\
+  [![arXiv:2305.10781](https://img.shields.io/badge/arXiv-2305.10781-yellow)](https://arxiv.org/abs/2305.10781)
+  [![doi:10.1007/s10915-024-02482-9](https://zenodo.org/badge/doi/10.1007/s10915-024-02482-9.svg)](https://doi.org/10.1007/s10915-024-02482-9)
+
 * Babbar, Chandrashekar,
   **Multi-Derivative Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws**, 2024.\\
   [![arXiv:2403.02141](https://img.shields.io/badge/arXiv-2403.02141-yellow)](https://arxiv.org/abs/2403.02141)
@@ -151,14 +164,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **Lax-Wendroff Flux Reconstruction for advection-diffusion equations with error-based time stepping**, 2024.\\
   [![arXiv:2402.12669](https://img.shields.io/badge/arXiv-2402.12669-yellow)](https://arxiv.org/abs/2402.12669)
 
-* Babbar, Chandrashekar,
-  **Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws**, 2024.\\
-  [![arXiv:2402.11926](https://img.shields.io/badge/arXiv-2402.11926-yellow)](https://arxiv.org/abs/2402.11926)
-
 ### 2023
-* Babbar, Kenettinkara, Chandrashekar,
-  **Admissibility preserving subcell limiter for Lax-Wendroff flux reconstruction**, 2023.\\
-  [![arXiv:2305.10781](https://img.shields.io/badge/arXiv-2305.10781-yellow)](https://arxiv.org/abs/2305.10781)
 
 * Ovadia, Oommen, Kahana, Peyvan, Turkel, Karniadakis,
   **Real-time Inference and Extrapolation via a Diffusion-inspired Temporal Transformer Operator (DiTTO)**, 2023.\\
