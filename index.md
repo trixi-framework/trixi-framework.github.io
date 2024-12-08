@@ -155,6 +155,8 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Rueda-Ramírez, Sikstel, *Gassner*,
   **An Entropy-Stable Discontinuous Galerkin Discretization of the Ideal Multi-Ion Magnetohydrodynamics System**, 2024.\\
   [![arXiv:2402.14615](https://img.shields.io/badge/arXiv-2402.14615-yellow)](https://arxiv.org/abs/2402.14615)
+  [![doi:10.1016/j.jcp.2024.113655](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.113655.svg)](https://doi.org/10.1016/j.jcp.2024.113655)
+  [![reproduce me!](https://github.com/amrueda/paper_2024_multi-ion_mhd)
 
 * *Doehring*, *Gassner*, Torrilhon,
   **Many-Stage Optimal Stabilized Runge-Kutta Methods for Hyperbolic Partial Differential Equations**, 2024.\\
