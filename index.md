@@ -98,9 +98,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
 
 ### 2024
-* Oblapenko, Tarnovskiy, Ertl, Torrilhon,,
+* Breit, Moyo, Öffner,
+  **Discontinuous Galerkin methods for the complete stochastic Euler equations**, 2024.\\
+  [![arXiv:2412.07613](https://img.shields.io/badge/arXiv-2412.07613-yellow)](https://arxiv.org/abs/2412.07613)
+
+* Oblapenko, Tarnovskiy, Ertl, Torrilhon,
   **Entropy-stable fluxes for high-order Discontinuous Galerkin simulations of high-enthalpy flows**, 2024.\\
-  [![arXiv:2410.14502](https://img.shields.io/badge/arXiv-2411.13168-yellow)](https://arxiv.org/abs/2411.13168)
+  [![arXiv:2411.13168](https://img.shields.io/badge/arXiv-2411.13168-yellow)](https://arxiv.org/abs/2411.13168)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/knstmrd/paper_ec_trixi_chem)
 
 * Bach, *Rueda-Ramírez*, Kopriva, *Gassner*,
