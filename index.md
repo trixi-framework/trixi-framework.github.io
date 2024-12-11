@@ -98,6 +98,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
 
 ### 2024
+* Kopriva, *Winters*, *Schlottke-Lakemper*, Schoonover, *Ranocha*,
+  **HOHQMesh: An all quadrilateral/hexahedral unstructured mesh generator for high order elements**, 2024.\\
+  [![doi:10.21105/joss.07476](https://zenodo.org/badge/doi/10.21105/joss.07476.svg)](https://doi.org/10.21105/joss.07476)
+
 * Breit, Moyo, Öffner,
   **Discontinuous Galerkin methods for the complete stochastic Euler equations**, 2024.\\
   [![arXiv:2412.07613](https://img.shields.io/badge/arXiv-2412.07613-yellow)](https://arxiv.org/abs/2412.07613)
