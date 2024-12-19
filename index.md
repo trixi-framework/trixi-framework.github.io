@@ -98,6 +98,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
 
 ### 2024
+* Taylor, *Chan*,
+  **An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**, 2024.\\
+  [![arXiv:2412.13002](https://img.shields.io/badge/arXiv-2412.13002-yellow)](https://arxiv.org/abs/2412.13002)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/cgt3/ES-CutDG)
+
 * Kopriva, *Winters*, *Schlottke-Lakemper*, Schoonover, *Ranocha*,
   **HOHQMesh: An all quadrilateral/hexahedral unstructured mesh generator for high order elements**, 2024.\\
   [![doi:10.21105/joss.07476](https://zenodo.org/badge/doi/10.21105/joss.07476.svg)](https://doi.org/10.21105/joss.07476)
