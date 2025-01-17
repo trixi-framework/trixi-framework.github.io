@@ -53,7 +53,7 @@ Here are the **[main APIs](https://junyixu.github.io/TrixiEnzyme.jl/dev/api.html
 
 - `jacobian_enzyme_reverse(semi)`: The reverse-mode implementation. For Jacobian computations, it serves as an alternative to forward mode with similar computational complexity. We implemented both modes to provide users with flexibility in their workflows.
 
-- `pick_batchsize(x)`: A helper function that determines the optimal batch size for differentiation. It defaults to min(total_size, 11), which we found balances memory usage and computational efficiency.
+- `pick_batchsize(x)`: A helper function that determines the optimal batch size for differentiation. It defaults to `min(total_size, 11)`, which we found balances memory usage and computational efficiency.
 
 - `pick_batchsize(semi::SemidiscretizationHyperbolic)`: A specialized version for Trixi's semidiscretization structures that takes into account the specific characteristics of the problem.
 
