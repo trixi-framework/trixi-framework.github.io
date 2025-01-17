@@ -84,7 +84,7 @@ However, we encountered some technical challenges with GPU integration. There's 
 Here are some key technical insights we gained:
 
 ### Enzyme Integration
-When working with Enzyme.autodiff, naming conventions are crucial. We prefix everything with `enzyme_` to ensure proper unpacking of `semi.cache` and correct interaction with Enzyme's APIs.
+When working with `Enzyme.autodiff`, naming conventions are crucial. We prefix everything with `enzyme_` to ensure proper unpacking of `semi.cache` and correct interaction with Enzyme's APIs.
 
 ### Forward vs Reverse Mode Implementation
 The core difference between forward and reverse mode in Enzyme.jl comes down to whether you set `dy` or `dx` as your onehot vector. However, there are important considerations:
