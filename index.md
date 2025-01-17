@@ -391,6 +391,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 
 ## Outreach
+
+### Google Summer of Code 2024
+Trixi.jl participated in the Google Summer of Code 2024, establishing integration with Enzyme.jl for automatic differentiation. This project was mentored by [Michael Schlottke-Lakemper](https://www.uni-augsburg.de/fakultaet/mntf/math/prof/hpsc) and [Hendrik Ranocha](https://ranocha.de/). [Here](outreach/gsoc/2024/integrating-trixi-jl-with-enzyme-jl) you can find the report from our contributor [Junyi Xu](https://github.com/junyixu).
+
 ### Google Summer of Code 2023
 Trixi.jl participated in the Google Summer of Code 2023, marking its initial steps towards running on GPUs. This project was mentored by [Hendrik Ranocha](https://ranocha.de/) and [Michael Schlottke-Lakemper](https://www.uni-augsburg.de/fakultaet/mntf/math/prof/hpsc). [Here](outreach/gsoc/2023/gpu-acceleration-in-trixi-jl-using-cuda-jl) you can find the report from our contributor [Huiyu Xie](https://github.com/huiyuxie).
 
