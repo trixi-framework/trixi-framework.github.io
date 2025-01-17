@@ -1,0 +1,117 @@
+<!doctype html> <html lang=en > <meta charset=UTF-8 > <meta name=viewport  content="width=device-width, initial-scale=1"> <link rel=stylesheet  href="/libs/highlight/github.min.css"> <link rel=stylesheet  href="/css/franklin.css"> <link rel=stylesheet  href="/css/basic.css"> <link rel=icon  href="/assets/favicon.ico"> <title>Final Report: GSoC &#39;24 - Integrating Trixi.jl with Enzyme.jl</title> <header> <div class=blog-name ><a href="/"><img src="/assets/logo.png" width=100px ></a></div> <nav> <ul> <li><a href="/">Home</a> <li><a href="https://github.com/trixi-framework" target=_blank  rel="noopener noreferrer">Trixi on GitHub</a> </ul> </nav> </header> <div class=franklin-content ><h1 id=final_report_gsoc_24_-_integrating_trixijl_with_enzymejl ><a href="#final_report_gsoc_24_-_integrating_trixijl_with_enzymejl" class=header-anchor >Final Report: GSoC &#39;24 - Integrating Trixi.jl with Enzyme.jl</a></h1> <ul> <li><p>Mentee: <a href="https://github.com/junyixu">Junyi Xu</a>.</p> <li><p>Mentors: <a href="https://github.com/sloede">Michael Schlottke-Lakemper</a> and <a href="https://github.com/ranocha">Hendrik Ranocha</a></p> <li><p>Project Link: <a href="https://github.com/junyixu/TrixiEnzyme.jl">https://github.com/junyixu/TrixiEnzyme.jl</a></p> </ul> <p>The goal of this GSoC project was to integrate <a href="https://github.com/trixi-framework/Trixi.jl">Trixi.jl</a> with compiler-based automatic differentiation via <a href="https://github.com/EnzymeAD/Enzyme.jl">Enzyme.jl</a>.</p> <h2 id=project_overview ><a href="#project_overview" class=header-anchor >Project Overview</a></h2> <p>The core idea was to bring together two powerful Julia packages: Trixi.jl, which is this amazing CFD framework for conservation laws, and Enzyme.jl, which does compiler-level automatic differentiation. Why? Because this combination lets us do some really cool stuff - we can differentiate through complex numerical simulations faster, handle both forward and reverse mode AD, and &#40;this is the really neat part&#41; deal with all the mutation and caching that Trixi.jl uses to keep things running fast. This work was undertaken as part of the <a href="https://summerofcode.withgoogle.com/archive/2024/projects/MQRCkokT">Google Summer of Code 2024 program</a>, and the progress is summarized below:</p> <ul> <li><p>Forward Mode Implementation: Developed efficient forward mode automatic differentiation for DGSEM, with special attention to performance optimization and batching strategies.</p> <li><p>Reverse Mode Implementation: Created a complementary reverse mode implementation to provide users with workflow flexibility.</p> <li><p>GPU Support: Implemented initial GPU acceleration through CUDA.jl, including gradient computation for vanilla upwind schemes.</p> </ul> <p>Please note that some aspects of the GPU integration remain in progress and will be completed in future work.</p> <h3 id=how_to_setup ><a href="#how_to_setup" class=header-anchor >How to Setup</a></h3> <h4 id=cpu_version ><a href="#cpu_version" class=header-anchor >CPU Version</a></h4> <p>To install the package, run the following command in the Julia REPL:</p> <pre><code class="julia hljs">]  <span class=hljs-comment ># enter Pkg mode</span>
+(<span class=hljs-meta >@v1</span><span class=hljs-number >.10</span>) pkg&gt; add https://github.com/junyixu/TrixiEnzyme.jl.git</code></pre> <p>Then simply run the following command to use the package:</p> <pre><code class="julia hljs"><span class=hljs-keyword >using</span> TrixiEnzyme</code></pre>
+<h4 id=gpu_version ><a href="#gpu_version" class=header-anchor >GPU Version</a></h4>
+<p>For GPU support, you&#39;ll need additional setup steps. Please refer to the detailed setup guide from GSoC 2023&#39;s GPU implementation: <a href="https://trixi-framework.github.io/outreach/gsoc/2023/gpu-acceleration-in-trixi-jl-using-cuda-jl/#how_to_setup">GPU Setup Guide</a>.</p>
+<h2 id=key_highlights ><a href="#key_highlights" class=header-anchor >Key Highlights</a></h2>
+<h3 id=api_overview ><a href="#api_overview" class=header-anchor >API Overview</a></h3>
+<p>Here are the <strong><a href="https://junyixu.github.io/TrixiEnzyme.jl/dev/api.html">main APIs</a></strong> we developed. Some of them are:</p>
+<h4 id=cpu_differentiation ><a href="#cpu_differentiation" class=header-anchor >CPU Differentiation</a></h4>
+<ul>
+<li><p><code>jacobian_enzyme_forward&#40;semi::SemidiscretizationHyperbolic&#41;</code>: Our workhorse for forward-mode AD. It computes Jacobians efficiently with automatic batch size selection.</p>
+
+<li><p><code>jacobian_enzyme_reverse&#40;semi&#41;</code>: The reverse-mode implementation. For Jacobian computations, it serves as an alternative to forward mode with similar computational complexity. We implemented both modes to provide users with flexibility in their workflows.</p>
+
+<li><p><code>pick_batchsize&#40;x&#41;</code>: A helper function that determines the optimal batch size for differentiation. It defaults to <code>min&#40;total_size, 11&#41;</code>, which we found balances memory usage and computational efficiency.</p>
+
+<li><p><code>pick_batchsize&#40;semi::SemidiscretizationHyperbolic&#41;</code>: A specialized version for Trixi&#39;s semidiscretization structures that takes into account the specific characteristics of the problem.</p>
+
+</ul>
+<h4 id=gpu_differentiation ><a href="#gpu_differentiation" class=header-anchor >GPU Differentiation </a></h4>
+<ul>
+<li><p><code>grad_rhs_gpu&#33;&#40;du, du_shadow, u, u_shadow, ...&#41;</code>: The GPU-accelerated gradient computation for the right-hand side of our PDEs. This function handles both the primal computation and its derivative on the GPU, using Enzyme&#39;s forward-mode AD capabilities.</p>
+
+<li><p><code>compute_gradient_gpu&#40;du, u, v, numerical_flux&#41;</code>: A high-level interface for computing gradients on the GPU. It manages memory transfers and kernel launches automatically, making it easier to work with GPU-accelerated gradients.</p>
+
+<li><p><code>grad_upwind_kernel_gpu&#33;&#40;du, du_shadow, u, u_shadow, ...&#41;</code>: The corresponding gradient kernel for the upwind scheme, using Enzyme&#39;s forward-mode AD directly on GPU code.</p>
+
+</ul>
+<h2 id=what_we_achieved ><a href="#what_we_achieved" class=header-anchor >What We Achieved</a></h2>
+<p>One of our major accomplishments was implementing efficient automatic differentiation for DGSEM &#40;Discontinuous Galerkin Spectral Element Method&#41;. We implemented both forward and reverse mode, each with its own strengths. Both modes work equally well for computing Jacobians, and our implementation lets users choose based on their specific workflow preferences.</p>
+<p>Performance optimization was a big focus. We developed sophisticated batching strategies to handle Trixi&#39;s complex caching system efficiently. The automatic batch size selection turned out to be crucial for balancing memory usage and computation speed.</p>
+<p>In the Enzyme4CUDA branch, we made significant progress on GPU support:</p>
+<ul>
+<li><p>Successfully implemented gradient computation for the vanilla upwind scheme on GPU</p>
+
+<li><p>Created new interfaces for TrixiCUDA to enable automatic differentiation</p>
+
+<li><p>Set up initial support for differentiating through CUDA kernels</p>
+
+<li><p>Developed GPU-specific memory management strategies to minimize data transfer overhead</p>
+
+</ul>
+<p>However, we encountered some technical challenges with GPU integration. There&#39;s currently a circular dependency issue during precompilation when using CUDA.jl with Enzyme.jl - it affects Julia 1.10.7 and we&#39;re waiting for 1.10.8 to fix it. For now, we found that avoiding module wrappers for CUDA&#43;Enzyme test code works as a workaround &#40;<a href="https://github.com/junyixu/TrixiEnzyme.jl/issues/5">Issue #5</a>&#41;.</p>
+<h2 id=the_technical_nitty-gritty ><a href="#the_technical_nitty-gritty" class=header-anchor >The Technical Nitty-Gritty</a></h2>
+<p>Here are some key technical insights we gained:</p>
+<h3 id=enzyme_integration ><a href="#enzyme_integration" class=header-anchor >Enzyme Integration</a></h3>
+<p>When working with <code>Enzyme.autodiff</code>, naming conventions are crucial. We prefix everything with <code>enzyme_</code> to ensure proper unpacking of <code>semi.cache</code> and correct interaction with Enzyme&#39;s APIs.</p>
+<h3 id=forward_vs_reverse_mode_implementation ><a href="#forward_vs_reverse_mode_implementation" class=header-anchor >Forward vs Reverse Mode Implementation</a></h3>
+<p>The core difference between forward and reverse mode in Enzyme.jl comes down to whether you set <code>dy</code> or <code>dx</code> as your onehot vector. However, there are important considerations:</p>
+<ul>
+<li><p>Reverse mode requires resetting <code>dx</code> between calculations to prevent accumulation</p>
+
+<li><p>Mutating functions must return <code>nothing</code> in reverse mode</p>
+
+<li><p>All intermediate values must be initialized to zero for correct reverse mode operation</p>
+
+</ul>
+<h3 id=performance_characteristics ><a href="#performance_characteristics" class=header-anchor >Performance Characteristics</a></h3>
+<p>We observed interesting performance patterns:</p>
+<ul>
+<li><p>For small caches &#40;toy models&#41;, <code>jacobian_enzyme&#40;semi&#41;</code> outperforms ForwardDiff</p>
+
+<li><p>Larger DGSEM simulations face challenges due to cache sizes &#40;<code>elements._surface_flux_values</code> and <code>cache.interfaces._u</code>&#41;</p>
+
+<li><p>GPU performance heavily depends on problem size and memory transfer patterns</p>
+
+</ul>
+<h3 id=gpu_implementation_details ><a href="#gpu_implementation_details" class=header-anchor >GPU Implementation Details</a></h3>
+<p>Our GPU implementation required careful attention to:</p>
+<ul>
+<li><p>Memory management to minimize CPU-GPU transfers</p>
+
+<li><p>Kernel launch configurations for optimal occupancy</p>
+
+<li><p>Handling of derivative computations in CUDA kernels</p>
+
+</ul>
+<h2 id=future_work ><a href="#future_work" class=header-anchor >Future Work</a></h2>
+<ul>
+<li><p><strong>GPU Integration</strong>: Complete the prototype of Enzyme-based Jacobian computation for <code>rhs_gpu&#33;</code> functions to match all TrixiCUDA.jl&#39;s functionalities</p>
+<ul>
+<li><p>&#91;X&#93; Implement a GPU-accelerated gradient computation for the vanilla upwind scheme &#40;To compute the full Jacobian, I need to devise an efficient method that fully utilizes the GPU to avoid performance issues. <a href="https://github.com/junyixu/TrixiEnzyme.jl/issues/4#issuecomment-2585557874">Issue #4</a>&#41;</p>
+
+<li><p>&#91;X&#93; Add interfaces for gradient computation for TrixiCUDA</p>
+
+<li><p>&#91; &#93; Compute Jacobian for TrixiCUDA &#40;Both Forward and Reverse&#41;</p>
+
+</ul>
+
+<li><p>More benchmarking &#40;WIP: <a href="https://github.com/junyixu/jacobian4DG/issues/3">Issue #3</a>&#41;</p>
+<ul>
+<li><p>Batch mode achieves better performance through reduced memory allocations compared to Enzyme&#39;s batching implementation</p>
+
+<li><p>Computing the Jacobian using <strong>reverse mode</strong> automatic differentiation introduces additional overhead</p>
+
+</ul>
+
+<li><p><strong>Resolve <a href="https://github.com/junyixu/TrixiEnzyme.jl/issues/1">Issue #1</a> and <a href="https://github.com/EnzymeAD/Enzyme.jl/issues/2260">Issue #2260</a></strong></p>
+<ul>
+<li><p>To define a custom Enzyme rule for matrix <code>inv</code>?</p>
+
+</ul>
+
+<li><p><strong>Machine Learning Applications</strong>: I&#39;m particularly excited about extending the <a href="https://github.com/junyixu/TrixiEnzyme.jl/issues/5">Differentiating through a complete simulation</a> section in Trixi&#39;s docs. Think time series as neural network inputs, k as outputs, with an energy-based loss function leveraging Enzyme&#39;s capabilities - could be really powerful for inverse problems&#33;</p>
+
+</ul>
+<h2 id=acknowledgements ><a href="#acknowledgements" class=header-anchor >Acknowledgements</a></h2>
+<p>This project was made possible through the support and guidance of many incredible people in the Julia community. My mentors played crucial roles throughout the project - Michael Schlottke-Lakemper &#40;<a href="https://github.com/sloede">@sloede</a>&#41; spent numerous video calls helping me debug issues and guided me in seeking help on Slack, while Hendrik Ranocha &#40;<a href="https://github.com/ranocha">@ranocha</a>&#41; provided invaluable insights into type stability issues that significantly improved our implementation.</p>
+<p>William Moses &#40;<a href="https://github.com/wsmoses">@wsmoses</a>&#41; from the Enzyme.jl team deserves special thanks for his documentation examples and responsive support through both Slack discussions and GitHub issues. His work on Enzyme.jl has been foundational to this project.</p>
+<p>I&#39;m also grateful to Huiyu Xie &#40;<a href="https://github.com/huiyuxie">@huiyuxie</a>&#41; for her technical support regarding GPU implementation. Her expertise with CUDA.jl integration proved invaluable as we worked to extend TrixiEnzyme&#39;s capabilities to GPU computing.</p>
+<p>The project also received helpful feedback from Benedict from the Trixi Framework community.</p>
+<p>The newer versions of Enzyme.jl have been super helpful with their improved error messages - makes debugging much more manageable&#33;</p>
+<div class=page-foot >
+  <div class=copyright >
+    &copy; <a href="https://github.com/trixi-framework/Trixi.jl/blob/main/AUTHORS.md" target=_blank  rel="noopener noreferrer">The Trixi Authors</a>. Last modified: January 17, 2025. Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
+  </div>
+</div>
+</div>
