@@ -4,7 +4,8 @@
 - Mentors: [Michael Schlottke-Lakemper](https://github.com/sloede) and [Hendrik Ranocha](https://github.com/ranocha)
 - Project Link: <https://github.com/junyixu/TrixiEnzyme.jl>
 
-The goal of this GSoC project was to integrate Trixi.jl with compiler-based automatic differentiation via Enzyme.jl.
+The goal of this GSoC project was to integrate [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
+with compiler-based automatic differentiation via [Enzyme.jl](https://github.com/junyixu/TrixiEnzyme.jl).
 
 ## Project Overview
 
