@@ -5,7 +5,7 @@
 - Project Link: <https://github.com/junyixu/TrixiEnzyme.jl>
 
 The goal of this GSoC project was to integrate [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
-with compiler-based automatic differentiation via [Enzyme.jl](https://github.com/junyixu/TrixiEnzyme.jl).
+with compiler-based automatic differentiation via [Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl).
 
 ## Project Overview
 
