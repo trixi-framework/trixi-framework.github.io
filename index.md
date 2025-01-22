@@ -300,7 +300,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2024
 * **libtrixi: serving legacy codes in earth system modeling with fresh Julia CFD**\\
-  *Geihe*
+  *Geihe*\\
   12th July 2024, JuliaCon, Eindhoven, The Netherlands\\
   [slides & reproduce me!](https://github.com/trixi-framework/talk-2024-juliacon-libtrixi)
 
