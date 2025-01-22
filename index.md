@@ -309,9 +309,9 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   8th October 2024, Mathematics of the Weather, Bad Orb, Germany
 
 * **libtrixi: serving legacy codes in earth system modeling with fresh Julia CFD**\\
-  *Geihe*
+  *Geihe*\\
   12th July 2024, JuliaCon, Eindhoven, The Netherlands\\
-  [slides & reproduce me!](https://github.com/trixi-framework/talk-2024-juliacon-libtrixi)
+  [slides & reproducibility repo](https://github.com/trixi-framework/talk-2024-juliacon-libtrixi)
 
 * **Towards Aerodynamic Simulations in Julia with Trixi.jl**\\
   *Doehring*\\
