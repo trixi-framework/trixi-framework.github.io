@@ -299,6 +299,15 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 ## Talks
 
 ### 2024
+
+* **Modern discontinuous Galerkin methods for atmospheric physics**\\
+  *Ranocha*\\
+  8th October 2024, Mathematics of the Weather, Bad Orb, Germany
+
+* **Adaptive mesh refinement in Earth-system modeling: first steps**\\
+  *Geihe*\\
+  8th October 2024, Mathematics of the Weather, Bad Orb, Germany
+
 * **libtrixi: serving legacy codes in earth system modeling with fresh Julia CFD**\\
   *Geihe*\\
   12th July 2024, JuliaCon, Eindhoven, The Netherlands\\
