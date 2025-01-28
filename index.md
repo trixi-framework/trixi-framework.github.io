@@ -86,7 +86,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 ### 2025
 * Neher, Faulhaber, Berger, *Gassner*, *Schlottke-Lakemper*
   **TrixiParticles.jl: Particle-based multiphysics simulation in Julia**,
-  Journal of Open Source Software, 10(105), 2025.\\
+  Journal of Open Source Software, 10(105), 7044, 2025.\\
   [![doi:10.21105/joss.07044](https://zenodo.org/badge/doi/10.21105/joss.07044.svg)](https://doi.org/10.21105/joss.07044)
 
 * Babbar, Chandrashekar,
