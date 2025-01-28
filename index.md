@@ -84,6 +84,9 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
+* Neher, Faulhaber, Berger, *Gassner*, *Schlottke-Lakemper*
+  **TrixiParticles.jl: Particle-based multiphysics simulation in Julia**, 2025.\\
+  [![DOI](https://joss.theoj.org/papers/10.21105/joss.07044/status.svg)](https://doi.org/10.21105/joss.07044)
 
 * Babbar, Chandrashekar,
   **Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws**,
