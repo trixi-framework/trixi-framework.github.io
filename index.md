@@ -85,8 +85,9 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 * Neher, Faulhaber, Berger, *Gassner*, *Schlottke-Lakemper*
-  **TrixiParticles.jl: Particle-based multiphysics simulation in Julia**, 2025.\\
-  [![DOI](https://joss.theoj.org/papers/10.21105/joss.07044/status.svg)](https://doi.org/10.21105/joss.07044)
+  **TrixiParticles.jl: Particle-based multiphysics simulation in Julia**,
+  Journal of Open Source Software, 10(105), 7044, 2025.\\
+  [![doi:10.21105/joss.07044](https://zenodo.org/badge/doi/10.21105/joss.07044.svg)](https://doi.org/10.21105/joss.07044)
 
 * Babbar, Chandrashekar,
   **Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws**,
@@ -107,7 +108,8 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/cgt3/ES-CutDG)
 
 * Kopriva, *Winters*, *Schlottke-Lakemper*, Schoonover, *Ranocha*,
-  **HOHQMesh: An all quadrilateral/hexahedral unstructured mesh generator for high order elements**, 2024.\\
+  **HOHQMesh: An all quadrilateral/hexahedral unstructured mesh generator for high order elements**,
+  Journal of Open Source Software, 9(104), 7476, 2024.\\
   [![doi:10.21105/joss.07476](https://zenodo.org/badge/doi/10.21105/joss.07476.svg)](https://doi.org/10.21105/joss.07476)
 
 * Breit, Moyo, Öffner,
