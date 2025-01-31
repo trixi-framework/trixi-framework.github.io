@@ -84,6 +84,11 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
+* *Chan*
+  **An artificial viscosity approach to high order entropy stable discontinuous Galerkin methods**, 2024.\\
+  [![arXiv:2501.16529](https://img.shields.io/badge/arXiv-2501.16529-yellow)](https://arxiv.org/abs/2501.16529)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/jlchan/paper-artificial-viscosity-entropy-stable-2025)
+
 * Neher, Faulhaber, Berger, *Gassner*, *Schlottke-Lakemper*
   **TrixiParticles.jl: Particle-based multiphysics simulation in Julia**,
   Journal of Open Source Software, 10(105), 7044, 2025.\\
