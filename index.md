@@ -85,7 +85,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 * *Chan*
-  **An artificial viscosity approach to high order entropy stable discontinuous Galerkin methods**, 2024.\\
+  **An artificial viscosity approach to high order entropy stable discontinuous Galerkin methods**, 2025.\\
   [![arXiv:2501.16529](https://img.shields.io/badge/arXiv-2501.16529-yellow)](https://arxiv.org/abs/2501.16529)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/jlchan/paper-artificial-viscosity-entropy-stable-2025)
 
