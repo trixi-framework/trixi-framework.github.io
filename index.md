@@ -107,6 +107,13 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
+* *Ersing*, Goldberg, *Winters*,
+  **Entropy stable hydrostatic reconstruction schemes for shallow water systems**,
+  Journal of Computational Physics (527) 113802, 2025.\\
+  [![arXiv:2406.14119](https://img.shields.io/badge/arXiv-2406.14119-yellow)](https://arxiv.org/abs/2406.14119)
+  [![doi:10.1016/j.jcp.2025.113802](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.113802.svg)](https://doi.org/10.1016/j.jcp.2025.113802)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2024-es_hydrostatic_reconstruction)
+
 * *Chan*
   **An artificial viscosity approach to high order entropy stable discontinuous Galerkin methods**, 2025.\\
   [![arXiv:2501.16529](https://img.shields.io/badge/arXiv-2501.16529-yellow)](https://arxiv.org/abs/2501.16529)
@@ -157,11 +164,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
   **Fourth-Order Paired-Explicit Runge-Kutta Methods**, 2024.\\
   [![arXiv:2408.05470](https://img.shields.io/badge/arXiv-2408.05470-yellow)](https://arxiv.org/abs/2408.05470)
-
-* *Ersing*, Goldberg, *Winters*,
-  **Entropy stable hydrostatic reconstruction schemes for shallow water systems**, 2024.\\
-  [![arXiv:2406.14119](https://img.shields.io/badge/arXiv-2406.14119-yellow)](https://arxiv.org/abs/2406.14119)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2024-es_hydrostatic_reconstruction)
 
 * Glaubitz, *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, *Gassner*,
   **Generalized upwind summation-by-parts operators and their application to nodal discontinuous Galerkin methods**, 2024.\\
