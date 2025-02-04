@@ -79,6 +79,29 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
   Julia package for reading VTK XML files (maintained by the Trixi framework
   authors).
 
+## Downstream projects
+There exist several downstream projects that build on the Trixi framework. Some of them are
+listed below. If you have a project that you would like to see listed here, please
+[open an issue](https://github.com/trixi-framework/trixi-framework.github.io/issues/new).
+
+* [**BloodFlowTrixi.jl**](https://github.com/yolhan83/BloodFlowTrixi.jl)
+
+  BloodFlowTrixi.jl implements one-dimensional (1D) and two-dimensional (2D) blood flow
+  models for arterial circulation.
+
+* [**TrixiCUDA.jl**](https://github.com/trixi-gpu/TrixiCUDA.jl)
+
+  TrixiCUDA.jl offers CUDA acceleration for solving hyperbolic PDEs.
+
+* [**TrixiLW.jl**](https://github.com/Arpit-Babbar/TrixiLW.jl)
+
+  An implementation of the Lax-Wendroff flux reconstruction scheme for curvilinear meshes
+  with adaptive mesh refinement and error based time stepping.
+
+* [**TrixiShockTube.jl**](https://github.com/stillyslalom/TrixiShockTube.jl)
+
+  A package for performing shock tube simulations with Trixi.jl.
+
 ## Publications
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
