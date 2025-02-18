@@ -107,6 +107,13 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
+* Glaubitz, *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, *Gassner*,
+  **Generalized upwind summation-by-parts operators and their application to nodal discontinuous Galerkin methods**,
+  Journal of Computational Physics (529) 113841, 2025.\\
+  [![arXiv:2406.14557](https://img.shields.io/badge/arXiv-2406.14557-yellow)](https://arxiv.org/abs/2406.14557)
+  [![doi:10.1016/j.jcp.2025.113841](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.113841.svg)](https://doi.org/10.1016/j.jcp.2025.113841)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2024-generalized-upwind-sbp)
+
 * *Ersing*, Goldberg, *Winters*,
   **Entropy stable hydrostatic reconstruction schemes for shallow water systems**,
   Journal of Computational Physics (527) 113802, 2025.\\
@@ -131,7 +138,8 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![doi:10.1016/j.jcp.2024.113622](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.113622.svg)](https://doi.org/10.1016/j.jcp.2024.113622)
 
 * *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, Glaubitz, *Gassner*,
-  **On the robustness of high-order upwind summation-by-parts methods for nonlinear conservation laws**, 2025.\\
+  **On the robustness of high-order upwind summation-by-parts methods for nonlinear conservation laws**,
+  Journal of Computational Physics (520) 113471, 2025.\\
   [![arXiv:2311.13888](https://img.shields.io/badge/arXiv-2311.13888-yellow)](https://arxiv.org/abs/2311.13888)
   [![doi:10.1016/j.jcp.2024.113471](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.113471.svg)](https://doi.org/10.1016/j.jcp.2024.113471)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
@@ -164,11 +172,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
   **Fourth-Order Paired-Explicit Runge-Kutta Methods**, 2024.\\
   [![arXiv:2408.05470](https://img.shields.io/badge/arXiv-2408.05470-yellow)](https://arxiv.org/abs/2408.05470)
-
-* Glaubitz, *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, *Gassner*,
-  **Generalized upwind summation-by-parts operators and their application to nodal discontinuous Galerkin methods**, 2024.\\
-  [![arXiv:2406.14557](https://img.shields.io/badge/arXiv-2406.14557-yellow)](https://arxiv.org/abs/2406.14557)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2024-generalized-upwind-sbp)
 
 * Bender, Öffner,
   **Entropy-Conservative Discontinuous Galerkin Methods for the Shallow Water Equations with Uncertainty**, 2024.\\
