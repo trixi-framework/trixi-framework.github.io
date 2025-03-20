@@ -107,6 +107,9 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
+* Qu, Narayan, *Chan*, **Entropy stable reduced order modeling of nonlinear conservation laws using discontinuous Galerkin methods**, 2025.\\
+  [![arXiv:2502.09381](https://img.shields.io/badge/arXiv-2502.09381-yellow)](https://arxiv.org/pdf/2502.09381)
+
 * Glaubitz, *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, *Gassner*,
   **Generalized upwind summation-by-parts operators and their application to nodal discontinuous Galerkin methods**,
   Journal of Computational Physics (529) 113841, 2025.\\
@@ -335,6 +338,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 
 ## Talks
+
+### 2025
+
+* **Efficient Implementation of High Order Entropy Stable Methods for Computational Fluid Dynamics**\\
+  *Chan*\\
+  25th February 2025, Energy HPC Conference, Houston, Texas.
+  
 
 ### 2024
 
