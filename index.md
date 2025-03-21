@@ -107,6 +107,9 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
+* Song, Singh, Torrilhon, **Non-equilibrium flow simulations based on Grad-14 and Grad-17 moment equations for polytropic gasess**, 2025.\\
+  [![doi:10.1063/5.0257491](https://zenodo.org/badge/doi/10.1063/5.0257491.svg)](https://doi.org/10.1063/5.0257491)
+
 * Qu, Narayan, *Chan*, **Entropy stable reduced order modeling of nonlinear conservation laws using discontinuous Galerkin methods**, 2025.\\
   [![arXiv:2502.09381](https://img.shields.io/badge/arXiv-2502.09381-yellow)](https://arxiv.org/pdf/2502.09381)
 
