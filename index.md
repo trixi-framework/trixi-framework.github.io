@@ -349,6 +349,9 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   *Chan*\\
   25th February 2025, Energy HPC Conference, Houston, Texas.
   
+* **Stabilized High-Order Multirate Time-Integration for Multiphysics via Paired-Explicit Runge-Kutta Methods**\\
+  *Doehring*\\
+  5th March 2025, SIAM CSE 2025, Fort Worth, Texas, USA.
 
 ### 2024
 
