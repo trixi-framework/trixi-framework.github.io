@@ -178,6 +178,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
   **Fourth-Order Paired-Explicit Runge-Kutta Methods**, 2024.\\
   [![arXiv:2408.05470](https://img.shields.io/badge/arXiv-2408.05470-yellow)](https://arxiv.org/abs/2408.05470)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/DanielDoehring/paper-2024-perk4)
 
 * Bender, Öffner,
   **Entropy-Conservative Discontinuous Galerkin Methods for the Shallow Water Equations with Uncertainty**, 2024.\\
@@ -371,6 +372,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * **Non-intrusive Multirate Time-Integration for High-Order accurate Compressible Fluid Dynamics with Trixi.jl**\\
   *Doehring*\\
   2nd July 2024, PDESoft 2024, Cambridge, UK
+
+* **Multirate Time-Integration based on Dynamic ODE Partitioning through Adaptively Refined Meshes for Convection-Dominated Flows**\\
+  *Doehring*\\
+  23rd July 2024, WCCM 2024, Vancouver, BC, CA
 
 ### 2023
 
