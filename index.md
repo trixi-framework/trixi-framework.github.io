@@ -345,16 +345,24 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 
-* **Efficient Implementation of High Order Entropy Stable Methods for Computational Fluid Dynamics**\\
-  *Chan*\\
-  25th February 2025, Energy HPC Conference, Houston, Texas.
-  
+* **Using TRIXI.JL for Adaptively Coupling Multiphysics Problems**\\
+  *Candelaresi*\\
+  7th March 2025, SIAM CSE 2025, Fort Worth, Texas, USA.
+
 * **Stabilized High-Order Multirate Time-Integration for Multiphysics via Paired-Explicit Runge-Kutta Methods**\\
   *Doehring*\\
   5th March 2025, SIAM CSE 2025, Fort Worth, Texas, USA.
 
+* **Efficient Implementation of High Order Entropy Stable Methods for Computational Fluid Dynamics**\\
+  *Chan*\\
+  25th February 2025, Energy HPC Conference, Houston, Texas.
+  
 ### 2024
 
+* **Solving plasma problems using adaptive multiphysics coupling**\\
+  *Candelaresi*\\
+  4th December 2024, 19th MHD Days, Potsdam , Gremany
+  
 * **Modern discontinuous Galerkin methods for atmospheric physics**\\
   *Ranocha*\\
   8th October 2024, Mathematics of the Weather, Bad Orb, Germany
@@ -379,6 +387,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * **Multirate Time-Integration based on Dynamic ODE Partitioning through Adaptively Refined Meshes for Convection-Dominated Flows**\\
   *Doehring*\\
   23rd July 2024, WCCM 2024, Vancouver, BC, CA
+
+* **Adaptively Coupled Multiphysics Simulations with Trixi.jl**\\
+  *Candelaresi*\\
+  5th June 2024, PASC 2024, Zurich, Switzerland
 
 ### 2023
 
