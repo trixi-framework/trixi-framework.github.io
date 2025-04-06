@@ -128,7 +128,8 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2024-es_hydrostatic_reconstruction)
 
   * Babbar, Chandrashekar,
-  **Multi-Derivative Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws**, 2025.\\
+  **Multi-Derivative Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws**,
+    Communications on Applied Mathematics and Computation  2025.\\
   [![arXiv:2403.02141](https://img.shields.io/badge/arXiv-2403.02141-yellow)](https://arxiv.org/abs/2403.02141)
   [![doi:10.1007/s42967-024-00463-1](https://zenodo.org/badge/doi/10.1007/s42967-024-00463-1.svg)](https://doi.org/10.1007/s42967-024-00463-1)
 
@@ -212,13 +213,15 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2024_dispersive_shallow_water)
 
 * Rueda-Ramírez, Sikstel, *Gassner*,
-  **An Entropy-Stable Discontinuous Galerkin Discretization of the Ideal Multi-Ion Magnetohydrodynamics System**, 2024.\\
+  **An Entropy-Stable Discontinuous Galerkin Discretization of the Ideal Multi-Ion Magnetohydrodynamics System**,
+  Journal of Computational Physics, Volume 523, 113655 (2024) \\
   [![arXiv:2402.14615](https://img.shields.io/badge/arXiv-2402.14615-yellow)](https://arxiv.org/abs/2402.14615)
   [![doi:10.1016/j.jcp.2024.113655](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.113655.svg)](https://doi.org/10.1016/j.jcp.2024.113655)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2024_multi-ion_mhd)
 
 * *Doehring*, *Gassner*, Torrilhon,
-  **Many-Stage Optimal Stabilized Runge-Kutta Methods for Hyperbolic Partial Differential Equations**, 2024.\\
+  **Many-Stage Optimal Stabilized Runge-Kutta Methods for Hyperbolic Partial Differential Equations**,
+  Journal of Scientific Computing, Volume 99, article number 28 (2024)\\
   [![arXiv:2402.12140](https://img.shields.io/badge/arXiv-2402.12140-yellow)](https://arxiv.org/abs/2402.12140)
   [![doi:10.1007/s10915-024-02478-5](https://zenodo.org/badge/doi/10.1007/s10915-024-02478-5.svg)](https://doi.org/10.1007/s10915-024-02478-5)
 
