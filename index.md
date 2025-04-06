@@ -127,6 +127,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![doi:10.1016/j.jcp.2025.113802](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.113802.svg)](https://doi.org/10.1016/j.jcp.2025.113802)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2024-es_hydrostatic_reconstruction)
 
+  * Babbar, Chandrashekar,
+  **Multi-Derivative Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws**, 2024.\\
+  [![arXiv:2403.02141](https://img.shields.io/badge/arXiv-2403.02141-yellow)](https://arxiv.org/abs/2403.02141)
+  [![doi:10.1007/s42967-024-00463-1](https://zenodo.org/badge/doi/10.1007/s42967-024-00463-1.svg)](https://doi.org/10.1007/s42967-024-00463-1)
+
 * *Chan*
   **An artificial viscosity approach to high order entropy stable discontinuous Galerkin methods**, 2025.\\
   [![arXiv:2501.16529](https://img.shields.io/badge/arXiv-2501.16529-yellow)](https://arxiv.org/abs/2501.16529)
@@ -201,10 +206,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2305.10781](https://img.shields.io/badge/arXiv-2305.10781-yellow)](https://arxiv.org/abs/2305.10781)
   [![doi:10.1007/s10915-024-02482-9](https://zenodo.org/badge/doi/10.1007/s10915-024-02482-9.svg)](https://doi.org/10.1007/s10915-024-02482-9)
 
-* Babbar, Chandrashekar,
-  **Multi-Derivative Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws**, 2024.\\
-  [![arXiv:2403.02141](https://img.shields.io/badge/arXiv-2403.02141-yellow)](https://arxiv.org/abs/2403.02141)
-
 * *Lampert*, *Ranocha*,
   **Structure-Preserving Numerical Methods for Two Nonlinear Systems of Dispersive Wave Equations**, 2024.\\
   [![arXiv:2402.16669](https://img.shields.io/badge/arXiv-2402.16669-yellow)](https://arxiv.org/abs/2402.16669)
@@ -219,6 +220,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * *Doehring*, *Gassner*, Torrilhon,
   **Many-Stage Optimal Stabilized Runge-Kutta Methods for Hyperbolic Partial Differential Equations**, 2024.\\
   [![arXiv:2402.12140](https://img.shields.io/badge/arXiv-2402.12140-yellow)](https://arxiv.org/abs/2402.12140)
+  [![doi:10.1007/s10915-024-02478-5](https://zenodo.org/badge/doi/10.1007/s10915-024-02478-5.svg)](https://doi.org/10.1007/s10915-024-02478-5)
 
 * Babbar, Chandrashekar,
   **Lax-Wendroff Flux Reconstruction for advection-diffusion equations with error-based time stepping**, 2024.\\
