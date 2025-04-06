@@ -127,7 +127,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![doi:10.1016/j.jcp.2025.113802](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.113802.svg)](https://doi.org/10.1016/j.jcp.2025.113802)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2024-es_hydrostatic_reconstruction)
 
-  * Babbar, Chandrashekar,
+* Babbar, Chandrashekar,
   **Multi-Derivative Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws**,
     Communications on Applied Mathematics and Computation  2025.\\
   [![arXiv:2403.02141](https://img.shields.io/badge/arXiv-2403.02141-yellow)](https://arxiv.org/abs/2403.02141)
