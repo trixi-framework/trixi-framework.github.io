@@ -507,10 +507,9 @@ Trixi.jl participated in the Google Summer of Code 2023, marking its initial ste
 [Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (University of Cologne,
 Germany),
 [Hendrik Ranocha](https://ranocha.de/) (University of Hamburg, Germany),
-[Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden),
-[Jesse Chan](https://jlchan.github.io/) (Rice University, US) and
-[Andrés Rueda-Ramírez](WEBSITE) (Polytechnic University of Madrid (UPM), Spain)
-are the principal developers of
+[Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden), and
+[Jesse Chan](https://jlchan.github.io/) (Rice University, US) are the
+principal developers of
 [Trixi.jl](https://github.com/trixi-framework/Trixi.jl).
 [David A. Kopriva](https://www.math.fsu.edu/~kopriva/) (Florida State University,
 US) is the principal developer of [HOHQMesh](https://github.com/trixi-framework/HOHQMesh)
