@@ -24,6 +24,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
   Convert output files generated with Trixi.jl to VTK
 
+* [**TrixiShallowWater.jl**](https://github.com/trixi-framework/TrixiShallowWater.jl)
+
+  High-order numerical simulations for shallow water applications
+
 * [**libtrixi**](https://github.com/trixi-framework/libtrixi)
 
   Use [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) from C/C++/Fortran
@@ -78,6 +82,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
   Julia package for reading VTK XML files (maintained by the Trixi framework
   authors).
+
+* [**TrixiBottomTopography.jl**](https://github.com/trixi-framework/TrixiBottomTopography.jl)
+
+  Approximating real world data for bottom topographies
 
 ## Downstream projects
 There exist several downstream projects that build on the Trixi framework. Some of them are
@@ -361,13 +369,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * **Efficient Implementation of High Order Entropy Stable Methods for Computational Fluid Dynamics**\\
   *Chan*\\
   25th February 2025, Energy HPC Conference, Houston, Texas.
-  
+
 ### 2024
 
 * **Solving plasma problems using adaptive multiphysics coupling**\\
   *Candelaresi*\\
   4th December 2024, 19th MHD Days, Potsdam , Gremany
-  
+
 * **Modern discontinuous Galerkin methods for atmospheric physics**\\
   *Ranocha*\\
   8th October 2024, Mathematics of the Weather, Bad Orb, Germany
@@ -499,9 +507,10 @@ Trixi.jl participated in the Google Summer of Code 2023, marking its initial ste
 [Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (University of Cologne,
 Germany),
 [Hendrik Ranocha](https://ranocha.de/) (University of Hamburg, Germany),
-[Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden), and
-[Jesse Chan](https://jlchan.github.io/) (Rice University, US) are the
-principal developers of
+[Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden),
+[Jesse Chan](https://jlchan.github.io/) (Rice University, US) and
+[Andrés Rueda-Ramírez](WEBSITE) (Polytechnic University of Madrid (UPM), Spain)
+are the principal developers of
 [Trixi.jl](https://github.com/trixi-framework/Trixi.jl).
 [David A. Kopriva](https://www.math.fsu.edu/~kopriva/) (Florida State University,
 US) is the principal developer of [HOHQMesh](https://github.com/trixi-framework/HOHQMesh)
