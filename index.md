@@ -24,6 +24,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
   Convert output files generated with Trixi.jl to VTK
 
+* [**TrixiShallowWater.jl**](https://github.com/trixi-framework/TrixiShallowWater.jl)
+
+  High-order numerical simulations for shallow water applications
+
 * [**libtrixi**](https://github.com/trixi-framework/libtrixi)
 
   Use [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) from C/C++/Fortran
@@ -78,6 +82,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
   Julia package for reading VTK XML files (maintained by the Trixi framework
   authors).
+
+* [**TrixiBottomTopography.jl**](https://github.com/trixi-framework/TrixiBottomTopography.jl)
+
+  Approximating real world data for bottom topographies
 
 ## Downstream projects
 There exist several downstream projects that build on the Trixi framework. Some of them are
@@ -361,13 +369,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * **Efficient Implementation of High Order Entropy Stable Methods for Computational Fluid Dynamics**\\
   *Chan*\\
   25th February 2025, Energy HPC Conference, Houston, Texas.
-  
+
 ### 2024
 
 * **Solving plasma problems using adaptive multiphysics coupling**\\
   *Candelaresi*\\
   4th December 2024, 19th MHD Days, Potsdam , Gremany
-  
+
 * **Modern discontinuous Galerkin methods for atmospheric physics**\\
   *Ranocha*\\
   8th October 2024, Mathematics of the Weather, Bad Orb, Germany
