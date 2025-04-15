@@ -553,7 +553,7 @@ This project has benefited from funding from the German
 through the following grants:
 * Project grant "Adaptive earth system modeling with significantly reduced computation time for
   exascale supercomputers (ADAPTEX)" (funding id: 16ME0668K)
-* Project grant "XXX" (funding id: 01LK2315B).
+* Project grant "ICON-DG" of the WarmWorld initiative (funding id: 01LK2315B).
 
 This project has benefited from funding by the
 [Daimler und Benz Stiftung](https://www.daimler-benz-stiftung.de) (Daimler and Benz Foundation)
@@ -561,6 +561,10 @@ through grant no. 32-10/22.
 
 This project has benefited from funding by the
 [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/) (Klaus Tschira Foundation)
-through grant no. 00.014.2021.
+through the project grant "High-Fidelity Laboratory for the Simulation of Celestial Bodies with their Space Environment (HiFiLab)" (funding id: 00.014.2021).
+
+This project has benefited from funding by the Spanish
+[Ministry of Science, Innovation, and Universities](https://www.ciencia.gob.es/en/)
+through the "Beatriz Galindo" grant no. BG23-00062.
 
 Trixi.jl is supported by [NumFOCUS](https://numfocus.org/) as an Affiliated Project.
