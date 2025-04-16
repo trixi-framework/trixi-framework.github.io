@@ -507,9 +507,10 @@ Trixi.jl participated in the Google Summer of Code 2023, marking its initial ste
 [Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (University of Cologne,
 Germany),
 [Hendrik Ranocha](https://ranocha.de/) (University of Hamburg, Germany),
-[Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden), and
-[Jesse Chan](https://jlchan.github.io/) (Rice University, US) are the
-principal developers of
+[Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden),
+[Jesse Chan](https://jlchan.github.io/) (Rice University, US), and
+Andrés Rueda-Ramírez (Polytechnic University of Madrid (UPM), Spain)
+are the principal developers of
 [Trixi.jl](https://github.com/trixi-framework/Trixi.jl).
 [David A. Kopriva](https://www.math.fsu.edu/~kopriva/) (Florida State University,
 US) is the principal developer of [HOHQMesh](https://github.com/trixi-framework/HOHQMesh)
@@ -554,7 +555,7 @@ Forschungsgemeinschaft](https://www.dfg.de/) (DFG, German Research Foundation)
 through the following grants:
 * Excellence Strategy EXC 2044-390685587, Mathematics Münster: Dynamics-Geometry-Structure.
 * Research unit FOR 5409 "Structure-Preserving Numerical Methods for Bulk- and
-  Interface Coupling of Heterogeneous Models (SNuBIC)" (project number 463312734).
+  Interface Coupling of Heterogeneous Models ([SNuBIC](https://www.snubic.io))" (project number 463312734).
 * Individual grant no. 528753982.
 
 This project has benefited from funding from the [European Research Council](https://erc.europa.eu)
@@ -574,12 +575,21 @@ DMS-1719818 and DMS-1943186.
 
 This project has benefited from funding from the German
 [Federal Ministry of Education and Research](https://www.bmbf.de) (BMBF)
-through the project grant "Adaptive earth system modeling
-with significantly reduced computation time for exascale supercomputers
-(ADAPTEX)" (funding id: 16ME0668K).
+through the following grants:
+* Project grant "Adaptive earth system modeling with significantly reduced computation time for
+  exascale supercomputers (ADAPTEX)" (funding id: 16ME0668K)
+* Project grant "ICON-DG" of the WarmWorld initiative (funding id: 01LK2315B).
 
 This project has benefited from funding by the
 [Daimler und Benz Stiftung](https://www.daimler-benz-stiftung.de) (Daimler and Benz Foundation)
 through grant no. 32-10/22.
+
+This project has benefited from funding by the
+[Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/) (Klaus Tschira Foundation)
+through the project grant "High-Fidelity Laboratory for the Simulation of Celestial Bodies with their Space Environment (HiFiLab)" (funding id: 00.014.2021).
+
+This project has benefited from funding by the Spanish
+[Ministry of Science, Innovation, and Universities](https://www.ciencia.gob.es/en/)
+through the "Beatriz Galindo" grant no. BG23-00062.
 
 Trixi.jl is supported by [NumFOCUS](https://numfocus.org/) as an Affiliated Project.
