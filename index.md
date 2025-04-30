@@ -115,6 +115,13 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
+
+* Oblapenko, Torrilhon,
+  **Entropy-conservative high-order methods for high-enthalpy flows**, 2025.\\
+  [![arXiv:2403.16882](https://img.shields.io/badge/arXiv-2403.16882-yellow)](https://arxiv.org/abs/2403.16882)
+  [![doi:10.1016/j.compfluid.2025.106640](https://zenodo.org/badge/doi/10.1016/j.compfluid.2025.106640.svg)](https://doi.org/10.1016/j.compfluid.2025.106640)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/knstmrd/paper-ec_trixi_inte)
+
 * Song, Singh, Torrilhon, **Non-equilibrium flow simulations based on Grad-14 and Grad-17 moment equations for polytropic gasess**, 2025.\\
   [![doi:10.1063/5.0257491](https://zenodo.org/badge/doi/10.1063/5.0257491.svg)](https://doi.org/10.1063/5.0257491)
 
@@ -197,11 +204,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Bender, Öffner,
   **Entropy-Conservative Discontinuous Galerkin Methods for the Shallow Water Equations with Uncertainty**, 2024.\\
   [![doi:10.1007/s42967-024-00369-y](https://zenodo.org/badge/doi/10.1007/s42967-024-00369-y.svg)](https://doi.org/10.1007/s42967-024-00369-y)
-
-* Oblapenko, Torrilhon,
-  **Entropy-conservative high-order methods for high-enthalpy flows**, 2024.\\
-  [![arXiv:2403.16882](https://img.shields.io/badge/arXiv-2403.16882-yellow)](https://arxiv.org/abs/2403.16882)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/knstmrd/paper-ec_trixi_inte)
 
 * *Doehring*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
   **Multirate Time-Integration based on Dynamic ODE Partitioning through Adaptively Refined Meshes for Compressible Fluid Dynamics**, 2024.\\
