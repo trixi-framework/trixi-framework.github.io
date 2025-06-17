@@ -116,6 +116,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 
+* Babbar, Churavy, *Schlottke-Lakemper*, *Ranocha*,
+  **Automatic differentiation for Lax-Wendroff-type discretizations**, 2025.\\
+  [![arXiv:2506.11719](https://img.shields.io/badge/arXiv-2506.11719-yellow)](https://arxiv.org/abs/2506.11719)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/Arpit-Babbar/2025_paper_lw_ad)
+
 * Oblapenko, Torrilhon,
   **Entropy-conservative high-order methods for high-enthalpy flows**, 2025.\\
   [![arXiv:2403.16882](https://img.shields.io/badge/arXiv-2403.16882-yellow)](https://arxiv.org/abs/2403.16882)
