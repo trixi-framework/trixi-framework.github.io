@@ -365,6 +365,14 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 
+* **A High-Order GPU-Accelerated Dynamical Core Based on Discontinuous Galerkin Methods**\\
+  *Geihe*, *Schlottke-Lakemper*\\
+  16th June 2025, PASC 2025, Brugg, Switzerland.
+
+* **Sustainable research software for accessible high-performance computing**\\
+  *Schlottke-Lakemper*\\
+  27th May 2025, WSSP 2025, Stuttgart, Germany.
+
 * **Using TRIXI.JL for Adaptively Coupling Multiphysics Problems**\\
   *Candelaresi*\\
   7th March 2025, SIAM CSE 2025, Fort Worth, Texas, USA.
