@@ -116,6 +116,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 
+* *Neher*, *Faulhaber*, *Berger*, Weißenfels, *Gassner*, *Schlottke-Lakemper*
+  **Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**, 2025.\\
+  [![arXiv:](https://img.shields.io/badge/arXiv-2506.21206-yellow)](https://arxiv.org/abs/2506.21206)
+  [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
+
 * Babbar, Churavy, *Schlottke-Lakemper*, *Ranocha*,
   **Automatic differentiation for Lax-Wendroff-type discretizations**, 2025.\\
   [![arXiv:2506.11719](https://img.shields.io/badge/arXiv-2506.11719-yellow)](https://arxiv.org/abs/2506.11719)
