@@ -116,6 +116,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 
+* *Doehring*, *Ranocha*, Torrilhon,
+  **Paired Explicit Relaxation Runge-Kutta Methods: Entropy-Conservative and Entropy-Stable High-Order Optimized Multirate Time Integration**, 2025.\\
+  [![arXiv:2507.04991](https://img.shields.io/badge/arXiv-2507.04991-yellow)](https://arxiv.org/abs/2507.04991)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/DanielDoehring/paper-2025-perrk)
+
 * *Neher*, *Faulhaber*, *Berger*, Weißenfels, *Gassner*, *Schlottke-Lakemper*
   **Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**, 2025.\\
   [![arXiv:](https://img.shields.io/badge/arXiv-2506.21206-yellow)](https://arxiv.org/abs/2506.21206)
