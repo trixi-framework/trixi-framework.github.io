@@ -50,7 +50,7 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
 * [**Smesh.jl**](https://github.com/trixi-framework/Smesh.jl)
 
-  Smesh.jl is a Julia wrapper packagae for smesh, a simple Fortran package for generating
+  Smesh.jl is a Julia wrapper package for smesh, a simple Fortran package for generating
   and handling unstructured triangular and polygonal meshes.
 
 * [**smesh**](https://github.com/trixi-framework/smesh)
