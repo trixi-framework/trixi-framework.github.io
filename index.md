@@ -116,6 +116,15 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 
+* Christner, *Chan*,
+  **Entropy stable finite difference (ESFD) methods via entropy correction artificial viscosity (ECAV) and knapsack limiting (KL) techniques**, 2025.\\
+  [![arXiv:2508.21226](https://img.shields.io/badge/arXiv-2508.21226-yellow)](https://arxiv.org/abs/2508.21226)
+
+* Thein, *Ranocha*,
+  **Computing Radially-Symmetric Solutions of the Ultra-Relativistic Euler Equations with Entropy-Stable Discontinuous Galerkin Methods**, 2025.\\
+  [![arXiv:2508.21427](https://img.shields.io/badge/arXiv-2508.21427-yellow)](https://arxiv.org/abs/2508.21427)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2025_ultrarelativistic_euler)
+
 * *Doehring*, *Ranocha*, Torrilhon,
   **Paired Explicit Relaxation Runge-Kutta Methods: Entropy-Conservative and Entropy-Stable High-Order Optimized Multirate Time Integration**, 2025.\\
   [![arXiv:2507.04991](https://img.shields.io/badge/arXiv-2507.04991-yellow)](https://arxiv.org/abs/2507.04991)
