@@ -116,6 +116,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 
+* Montoya, *Rueda-Ramírez*, *Gassner*,
+  **Entropy-Stable Discontinuous Spectral-Element Methods for the Spherical Shallow Water Equations in Covariant Form**, 2025.\\
+  [![arXiv:2509.08790](https://img.shields.io/badge/arXiv-2509.08790-yellow)](https://arxiv.org/abs/2509.08790)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/tristanmontoya/paper-2025-spherical-shallow-water)
+
 * Christner, *Chan*,
   **Entropy stable finite difference (ESFD) methods via entropy correction artificial viscosity (ECAV) and knapsack limiting (KL) techniques**, 2025.\\
   [![arXiv:2508.21226](https://img.shields.io/badge/arXiv-2508.21226-yellow)](https://arxiv.org/abs/2508.21226)
