@@ -117,7 +117,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 ### 2025
 
 * Montoya, *Rueda-Ramírez*, *Gassner*,
-  **Entropy-Stable Discontinuous Spectral-Element Methods for the Spherical Shallow Water Equations in Covariant Form**, 2025.\\
+  **Entropy-stable discontinuous spectral-element methods for the spherical shallow water equations in covariant form**, 2025.\\
   [![arXiv:2509.08790](https://img.shields.io/badge/arXiv-2509.08790-yellow)](https://arxiv.org/abs/2509.08790)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/tristanmontoya/paper-2025-spherical-shallow-water)
 
