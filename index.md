@@ -116,6 +116,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 
+* Artiano, Knoth, Spichtinger, *Ranocha*,
+  **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**, 2025.\\
+  [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2025_structure_potential_temperature)
+
 * Montoya, *Rueda-Ramírez*, *Gassner*,
   **Entropy-stable discontinuous spectral-element methods for the spherical shallow water equations in covariant form**, 2025.\\
   [![arXiv:2509.08790](https://img.shields.io/badge/arXiv-2509.08790-yellow)](https://arxiv.org/abs/2509.08790)
@@ -180,6 +185,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * *Chan*
   **An artificial viscosity approach to high order entropy stable discontinuous Galerkin methods**, 2025.\\
   [![arXiv:2501.16529](https://img.shields.io/badge/arXiv-2501.16529-yellow)](https://arxiv.org/abs/2501.16529)
+  [![doi:10.1016/j.jcp.2025.114380](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.114380.svg)](https://doi.org/10.1016/j.jcp.2025.114380)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/jlchan/paper-artificial-viscosity-entropy-stable-2025)
 
 * Neher, Faulhaber, Berger, *Gassner*, *Schlottke-Lakemper*
