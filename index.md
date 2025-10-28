@@ -114,6 +114,13 @@ listed below. If you have a project that you would like to see listed here, plea
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
+### 2026
+* *Neher*, *Faulhaber*, *Berger*, Weißenfels, *Gassner*, *Schlottke-Lakemper*
+  **Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**, 2026.\\
+  [![doi:10.1016/j.cpc.2025.109898](https://img.shields.io/badge/Paper_DOI-10.1016/j.cpc.2025.109898-blue)](https://doi.org/10.1016/j.cpc.2025.109898)
+  [![arXiv:2506.21206](https://img.shields.io/badge/arXiv-2506.21206-yellow)](https://arxiv.org/abs/2506.21206)
+  [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
+
 ### 2025
 
 * Artiano, Knoth, Spichtinger, *Ranocha*,
