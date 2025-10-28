@@ -117,8 +117,8 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 ### 2026
 * *Neher*, *Faulhaber*, *Berger*, Weißenfels, *Gassner*, *Schlottke-Lakemper*
   **Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**, 2026.\\
-  [![doi:10.1016/j.cpc.2025.109898](https://img.shields.io/badge/Paper_DOI-10.1016/j.cpc.2025.109898-blue)](https://doi.org/10.1016/j.cpc.2025.109898)
   [![arXiv:2506.21206](https://img.shields.io/badge/arXiv-2506.21206-yellow)](https://arxiv.org/abs/2506.21206)
+  [![doi:10.1016/j.cpc.2025.109898](https://zenodo.org/badge/doi/10.1016/j.cpc.2025.109898.svg)](https://doi.org/10.1016/j.cpc.2025.109898)
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
@@ -146,11 +146,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **Paired Explicit Relaxation Runge-Kutta Methods: Entropy-Conservative and Entropy-Stable High-Order Optimized Multirate Time Integration**, 2025.\\
   [![arXiv:2507.04991](https://img.shields.io/badge/arXiv-2507.04991-yellow)](https://arxiv.org/abs/2507.04991)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/DanielDoehring/paper-2025-perrk)
-
-* *Neher*, *Faulhaber*, *Berger*, Weißenfels, *Gassner*, *Schlottke-Lakemper*
-  **Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**, 2025.\\
-  [![arXiv:](https://img.shields.io/badge/arXiv-2506.21206-yellow)](https://arxiv.org/abs/2506.21206)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://doi.org/10.5281/zenodo.15730554)
 
 * Babbar, Churavy, *Schlottke-Lakemper*, *Ranocha*,
   **Automatic differentiation for Lax-Wendroff-type discretizations**, 2025.\\
