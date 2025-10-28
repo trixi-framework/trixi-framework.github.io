@@ -117,8 +117,8 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 ### 2026
 * *Neher*, *Faulhaber*, *Berger*, Weißenfels, *Gassner*, *Schlottke-Lakemper*
   **Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**, 2026.\\
-  [![doi:10.1016/j.cpc.2025.109898](https://img.shields.io/badge/Paper_DOI-10.1016/j.cpc.2025.109898-blue)](https://doi.org/10.1016/j.cpc.2025.109898)
   [![arXiv:2506.21206](https://img.shields.io/badge/arXiv-2506.21206-yellow)](https://arxiv.org/abs/2506.21206)
+  [![doi:10.1016/j.cpc.2025.109898](https://zenodo.org/badge/doi/10.1016/j.cpc.2025.109898.svg)](https://doi.org/10.1016/j.cpc.2025.109898)
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
@@ -194,11 +194,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2501.16529](https://img.shields.io/badge/arXiv-2501.16529-yellow)](https://arxiv.org/abs/2501.16529)
   [![doi:10.1016/j.jcp.2025.114380](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.114380.svg)](https://doi.org/10.1016/j.jcp.2025.114380)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/jlchan/paper-artificial-viscosity-entropy-stable-2025)
-
-* Neher, Faulhaber, Berger, *Gassner*, *Schlottke-Lakemper*
-  **TrixiParticles.jl: Particle-based multiphysics simulation in Julia**,
-  Journal of Open Source Software, 10(105), 7044, 2025.\\
-  [![doi:10.21105/joss.07044](https://zenodo.org/badge/doi/10.21105/joss.07044.svg)](https://doi.org/10.21105/joss.07044)
 
 * Babbar, Chandrashekar,
   **Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws**,
