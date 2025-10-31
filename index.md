@@ -115,14 +115,19 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
+* Peyvan, Kumar, Karniadakis,
+  **Fusion-DeepONet: A data-efficient neural operator for geometry-dependent hypersonic and supersonic flows**,
+  Journal of Computational Physics (526) 114432, 2026.\\
+  [![doi:10.1016/j.jcp.2025.114432](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.114432.svg)](https://doi.org/10.1016/j.jcp.2025.114432)
+
 * *Neher*, *Faulhaber*, *Berger*, Weißenfels, *Gassner*, *Schlottke-Lakemper*
-  **Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**, 2026.\\
+  **Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**,
+  Computer Physics Communications (318) 109898, 2026.\\
   [![arXiv:2506.21206](https://img.shields.io/badge/arXiv-2506.21206-yellow)](https://arxiv.org/abs/2506.21206)
   [![doi:10.1016/j.cpc.2025.109898](https://zenodo.org/badge/doi/10.1016/j.cpc.2025.109898.svg)](https://doi.org/10.1016/j.cpc.2025.109898)
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
-
 * Artiano, Knoth, Spichtinger, *Ranocha*,
   **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**, 2025.\\
   [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
