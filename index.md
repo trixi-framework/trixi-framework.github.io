@@ -128,6 +128,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
+* Sanchez-Ramirez, Giordano,
+  **Extrae.jl: Julia bindings for the Extrae HPC Profiler**, 2025.\\
+  [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2504.12087-yellow)](https://arxiv.org/pdf/2504.12087)
+
 * Artiano, Knoth, Spichtinger, *Ranocha*,
   **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**, 2025.\\
   [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
