@@ -129,7 +129,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 * Babbar, Chandrashekar,
-  **Lax-Wendroff Flux Reconstruction for advection-diffusion equations with error-based time stepping**, 2024.\\
+  **Lax-Wendroff Flux Reconstruction for advection-diffusion equations with error-based time stepping**, 2025.\\
   [![arXiv:2402.12669](https://img.shields.io/badge/arXiv-2402.12669-yellow)](https://arxiv.org/abs/2402.12669)
   [![doi:10.1007/978-3-031-76988-7_7](https://zenodo.org/badge/doi/10.1007/978-3-031-76988-7_7.svg)](https://doi.org/10.1016/j.jcp.2025.113802)
 
