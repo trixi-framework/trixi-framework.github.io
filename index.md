@@ -128,6 +128,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
+* Babbar, Chandrashekar,
+  **Lax-Wendroff Flux Reconstruction for advection-diffusion equations with error-based time stepping**, 2025,\\
+  Lecture Notes in Computational Science and Engineering (LNCSE,volume 142),
+  Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2023, 157–173.
+  [![arXiv:2402.12669](https://img.shields.io/badge/arXiv-2402.12669-yellow)](https://arxiv.org/abs/2402.12669)
+  [![doi:10.1007/978-3-031-76988-7_7](https://zenodo.org/badge/doi/10.1007/978-3-031-76988-7_7.svg)](https://doi.org/10.1007/978-3-031-76988-7_7)
+
 * Sánchez-Ramírez, Giordano,
   **Extrae.jl: Julia bindings for the Extrae HPC Profiler**, 2025.\\
   [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2504.12087-yellow)](https://arxiv.org/pdf/2504.12087)
@@ -280,10 +287,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   Journal of Scientific Computing, Volume 99, article number 28, 2024.\\
   [![arXiv:2402.12140](https://img.shields.io/badge/arXiv-2402.12140-yellow)](https://arxiv.org/abs/2402.12140)
   [![doi:10.1007/s10915-024-02478-5](https://zenodo.org/badge/doi/10.1007/s10915-024-02478-5.svg)](https://doi.org/10.1007/s10915-024-02478-5)
-
-* Babbar, Chandrashekar,
-  **Lax-Wendroff Flux Reconstruction for advection-diffusion equations with error-based time stepping**, 2024.\\
-  [![arXiv:2402.12669](https://img.shields.io/badge/arXiv-2402.12669-yellow)](https://arxiv.org/abs/2402.12669)
 
 ### 2023
 
