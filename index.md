@@ -115,6 +115,10 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
+* Song, Singh, Torrilhon, Cayci,
+  **Extraction of Moment Closures for Strongly Non-Equilibrium Flows via Machine Learning**,
+  [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.00545-yellow)](https://arxiv.org/abs/2511.00545)
+
 * Peyvan, Kumar, Karniadakis,
   **Fusion-DeepONet: A data-efficient neural operator for geometry-dependent hypersonic and supersonic flows**,
   Journal of Computational Physics (526) 114432, 2026.\\
