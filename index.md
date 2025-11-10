@@ -136,12 +136,12 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2024_dispersive_shallow_water)
 
 * *Winters*, Kopriva, Nordström
-  **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**, 2025\\
+  **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**, 2025.\\
   [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2025_nonlinear_bndy_flux)
 
 * Song, Singh, Torrilhon, Cayci,
-  **Extraction of moment closures for strongly non-equilibrium flows via machine learning**, 2025\\
+  **Extraction of moment closures for strongly non-equilibrium flows via machine learning**, 2025.\\
   [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.00545-yellow)](https://arxiv.org/abs/2511.00545)
 
 * Babbar, Chandrashekar,
