@@ -129,25 +129,25 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 * *Lampert*, *Ranocha*,
-**Structure-preserving numerical methods for two nonlinear systems of dispersive wave equations**,\\
-  Computational Science and Engineering 2(2), 2025.
+  **Structure-preserving numerical methods for two nonlinear systems of dispersive wave equations**,
+  Computational Science and Engineering 2(2), 2025.\\
   [![arXiv:2402.16669](https://img.shields.io/badge/arXiv-2402.16669-yellow)](https://arxiv.org/abs/2402.16669)
   [![doi:10.1007/s44207-025-00006-3](https://zenodo.org/badge/doi/10.1007/s44207-025-00006-3.svg)](https://doi.org/10.1007/s44207-025-00006-3)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2024_dispersive_shallow_water)
 
-* *Winters*, Kopriva, Nordström
-  **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**, 2025\\
+* *Winters*, Kopriva, Nordström,
+  **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**, 2025.\\
   [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2025_nonlinear_bndy_flux)
 
 * Song, Singh, Torrilhon, Cayci,
-  **Extraction of moment closures for strongly non-equilibrium flows via machine learning**, 2025\\
+  **Extraction of moment closures for strongly non-equilibrium flows via machine learning**, 2025.\\
   [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.00545-yellow)](https://arxiv.org/abs/2511.00545)
 
 * Babbar, Chandrashekar,
   **Lax-Wendroff flux reconstruction for advection-diffusion equations with error-based time stepping**, 2025,\\
   Lecture Notes in Computational Science and Engineering (LNCSE,volume 142),
-  Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2023, 157–173.
+  Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2023, 157–173.\\
   [![arXiv:2402.12669](https://img.shields.io/badge/arXiv-2402.12669-yellow)](https://arxiv.org/abs/2402.12669)
   [![doi:10.1007/978-3-031-76988-7_7](https://zenodo.org/badge/doi/10.1007/978-3-031-76988-7_7.svg)](https://doi.org/10.1007/978-3-031-76988-7_7)
 
