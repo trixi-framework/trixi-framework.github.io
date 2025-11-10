@@ -128,6 +128,14 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
+
+* *Lampert*, *Ranocha*,
+**Structure-preserving numerical methods for two nonlinear systems of dispersive wave equations**,\\
+  Computational Science and Engineering 2(2), 2025.
+  [![arXiv:2402.16669](https://img.shields.io/badge/arXiv-2402.16669-yellow)](https://arxiv.org/abs/2402.16669)
+  [![doi:10.1007/s44207-025-00006-3](https://zenodo.org/badge/doi/10.1007/s44207-025-00006-3.svg)](https://link.springer.com/article/10.1007/s44207-025-00006-3)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2024_dispersive_shallow_water)
+
 * *Winters*, Kopriva, Nordström
   **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**, 2025\\
   [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
@@ -278,11 +286,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   Journal of Scientific Computing, Vol. 99, Issue 2, May 2024.\\
   [![arXiv:2305.10781](https://img.shields.io/badge/arXiv-2305.10781-yellow)](https://arxiv.org/abs/2305.10781)
   [![doi:10.1007/s10915-024-02482-9](https://zenodo.org/badge/doi/10.1007/s10915-024-02482-9.svg)](https://doi.org/10.1007/s10915-024-02482-9)
-
-* *Lampert*, *Ranocha*,
-  **Structure-Preserving Numerical Methods for Two Nonlinear Systems of Dispersive Wave Equations**, 2024.\\
-  [![arXiv:2402.16669](https://img.shields.io/badge/arXiv-2402.16669-yellow)](https://arxiv.org/abs/2402.16669)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2024_dispersive_shallow_water)
 
 * Rueda-Ramírez, Sikstel, *Gassner*,
   **An Entropy-Stable Discontinuous Galerkin Discretization of the Ideal Multi-Ion Magnetohydrodynamics System**,
