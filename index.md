@@ -128,7 +128,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
-
 * *Lampert*, *Ranocha*,
 **Structure-preserving numerical methods for two nonlinear systems of dispersive wave equations**,\\
   Computational Science and Engineering 2(2), 2025.
