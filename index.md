@@ -135,7 +135,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![doi:10.1007/s44207-025-00006-3](https://zenodo.org/badge/doi/10.1007/s44207-025-00006-3.svg)](https://doi.org/10.1007/s44207-025-00006-3)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2024_dispersive_shallow_water)
 
-* *Winters*, Kopriva, Nordström
+* *Winters*, Kopriva, Nordström,
   **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**, 2025.\\
   [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2025_nonlinear_bndy_flux)
