@@ -147,7 +147,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Babbar, Chandrashekar,
   **Lax-Wendroff flux reconstruction for advection-diffusion equations with error-based time stepping**, 2025,\\
   Lecture Notes in Computational Science and Engineering (LNCSE,volume 142),
-  Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2023, 157–173.
+  Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2023, 157–173.\\
   [![arXiv:2402.12669](https://img.shields.io/badge/arXiv-2402.12669-yellow)](https://arxiv.org/abs/2402.12669)
   [![doi:10.1007/978-3-031-76988-7_7](https://zenodo.org/badge/doi/10.1007/978-3-031-76988-7_7.svg)](https://doi.org/10.1007/978-3-031-76988-7_7)
 
