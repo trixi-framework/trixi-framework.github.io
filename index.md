@@ -128,6 +128,12 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
+* Babbar, Chen,
+  **Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation**,
+  Journal of Scientific Computing, Volume 105, article number 91, November 2025.\\
+  [![arXiv:2502.07517](https://img.shields.io/badge/arXiv-2502.07517-yellow)](https://arxiv.org/abs/2502.07517)
+  [![doi:10.1007/s10915-025-03118-2](https://zenodo.org/badge/doi/10.1007/s10915-025-03118-2.svg)](https://doi.org/10.1007/s10915-025-03118-2)
+
 * *Lampert*, *Ranocha*,
   **Structure-preserving numerical methods for two nonlinear systems of dispersive wave equations**,
   Computational Science and Engineering 2(2), 2025.\\
