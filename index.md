@@ -129,7 +129,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2025
 * Peyvan, Shukla, Karniadakis,
-  **H3PC: Hypersonic, high-order, high-performance code with adaptive mesh refinement and real chemistry**,2025.\\
+  **H3PC: Hypersonic, high-order, high-performance code with adaptive mesh refinement and real chemistry**, 2025.\\
   [![arXiv:2511.17551](https://img.shields.io/badge/arXiv-2511.17551-yellow)](https://arxiv.org/abs/2511.17551)
 
 * *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
