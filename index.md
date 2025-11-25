@@ -128,6 +128,29 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
+* Peyvan, Shukla, Karniadakis,
+  **H3PC: Hypersonic, high-order, high-performance code with adaptive mesh refinement and real chemistry**, 2025.\\
+  [![arXiv:2511.17551](https://img.shields.io/badge/arXiv-2511.17551-yellow)](https://arxiv.org/abs/2511.17551)
+
+* *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
+  **Fourth-Order Paired-Explicit Runge-Kutta Methods**,
+  Computational Science and Engineering, Vol. 2, article number 1, 2025.\\
+  [![arXiv:2408.05470](https://img.shields.io/badge/arXiv-2408.05470-yellow)](https://arxiv.org/abs/2408.05470)
+  [![doi:10.1007/s44207-025-00005-4](https://zenodo.org/badge/doi/10.1007/s44207-025-00005-4.svg)](https://doi.org/10.1007/s44207-025-00005-4)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/DanielDoehring/paper-2024-perk4)
+
+* Bach, *Rueda-Ramírez*, Kopriva, *Gassner*,
+  **Mimetic Metrics for the DGSEM**, Journal of Scientific Computing, Vol. 105, article number 57, 2025.\\
+  [![arXiv:2410.14502](https://img.shields.io/badge/arXiv-2410.14502-yellow)](https://arxiv.org/abs/2410.14502)
+  [![doi:10.1007/s10915-025-03082-x](https://zenodo.org/badge/doi/10.1007/s10915-025-03082-x.svg)](https://doi.org/10.1007/s10915-025-03082-x)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2024_mimetic_metrics)
+
+* Breit, Moyo, Öffner,
+  **Discontinuous Galerkin methods for the complete stochastic Euler equations**,
+  Journal of Computational Physics, (541) 114324, 2025.\\
+  [![arXiv:2412.07613](https://img.shields.io/badge/arXiv-2412.07613-yellow)](https://arxiv.org/abs/2412.07613)
+  [![doi:10.1016/j.jcp.2025.114324](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.114324.svg)](https://doi.org/10.1016/j.jcp.2025.114324)
+
 * Babbar, Chen,
   **Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation**,
   Journal of Scientific Computing, Volume 105, article number 91, November 2025.\\
@@ -257,24 +280,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   Journal of Open Source Software, 9(104), 7476, 2024.\\
   [![doi:10.21105/joss.07476](https://zenodo.org/badge/doi/10.21105/joss.07476.svg)](https://doi.org/10.21105/joss.07476)
 
-* Breit, Moyo, Öffner,
-  **Discontinuous Galerkin methods for the complete stochastic Euler equations**, 2024.\\
-  [![arXiv:2412.07613](https://img.shields.io/badge/arXiv-2412.07613-yellow)](https://arxiv.org/abs/2412.07613)
-
 * Oblapenko, Tarnovskiy, Ertl, Torrilhon,
   **Entropy-stable fluxes for high-order Discontinuous Galerkin simulations of high-enthalpy flows**, 2024.\\
   [![arXiv:2411.13168](https://img.shields.io/badge/arXiv-2411.13168-yellow)](https://arxiv.org/abs/2411.13168)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/knstmrd/paper_ec_trixi_chem)
-
-* Bach, *Rueda-Ramírez*, Kopriva, *Gassner*,
-  **Mimetic Metrics for the DGSEM**, 2024.\\
-  [![arXiv:2410.14502](https://img.shields.io/badge/arXiv-2410.14502-yellow)](https://arxiv.org/abs/2410.14502)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2024_mimetic_metrics)
-
-* *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
-  **Fourth-Order Paired-Explicit Runge-Kutta Methods**, 2024.\\
-  [![arXiv:2408.05470](https://img.shields.io/badge/arXiv-2408.05470-yellow)](https://arxiv.org/abs/2408.05470)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/DanielDoehring/paper-2024-perk4)
 
 * Bender, Öffner,
   **Entropy-Conservative Discontinuous Galerkin Methods for the Shallow Water Equations with Uncertainty**, 2024.\\
