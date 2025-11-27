@@ -120,7 +120,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   Journal of Computational Physics (526) 114432, 2026.\\
   [![doi:10.1016/j.jcp.2025.114432](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.114432.svg)](https://doi.org/10.1016/j.jcp.2025.114432)
 
-* *Neher*, *Faulhaber*, *Berger*, Weißenfels, *Gassner*, *Schlottke-Lakemper*
+* *Neher*, *Faulhaber*, *Berger*, Weißenfels, *Gassner*, *Schlottke-Lakemper*,
   **Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**,
   Computer Physics Communications (318) 109898, 2026.\\
   [![arXiv:2506.21206](https://img.shields.io/badge/arXiv-2506.21206-yellow)](https://arxiv.org/abs/2506.21206)
@@ -128,6 +128,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
+* Bleffert, Dreyer, Röhrig-Zöllner,
+  **A Discontinuous Galerkin Discretization for the Intrinsic Beam Model**,
+  In: Emerging Technologies in Computational Sciences for Industry, Sustainability and Innovation. M2P 2023, 2025.\\
+  [![doi:10.1007/978-3-031-95709-3_18](https://zenodo.org/badge/doi/10.1007/978-3-031-95709-3_18.svg)](https://doi.org/10.1007/978-3-031-95709-3_18)
+
 * Peyvan, Shukla, Karniadakis,
   **H3PC: Hypersonic, high-order, high-performance code with adaptive mesh refinement and real chemistry**, 2025.\\
   [![arXiv:2511.17551](https://img.shields.io/badge/arXiv-2511.17551-yellow)](https://arxiv.org/abs/2511.17551)
