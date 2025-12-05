@@ -128,6 +128,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
+* Toscano, Chen, Karniadakis,
+  **ATHENA: Agentic Team for Hierarchical Evolutionary Numerical Algorithms**, 2025.\\
+  [![arXiv:2512.03476](https://img.shields.io/badge/arXiv-2512.03476-yellow)](https://arxiv.org/abs/2512.03476)
+
 * Bleffert, Dreyer, Röhrig-Zöllner,
   **A Discontinuous Galerkin Discretization for the Intrinsic Beam Model**,
   In: Emerging Technologies in Computational Sciences for Industry, Sustainability and Innovation. M2P 2023, 2025.\\
