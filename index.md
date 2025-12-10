@@ -128,6 +128,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
+* Babbar, *Ranocha*,
+  **Compact Runge-Kutta Flux Reconstruction methods for non-conservative hyperbolic equations**, 2025.\\
+  [![arXiv:2512.08611](https://img.shields.io/badge/arXiv-2512.08611-yellow)](https://arxiv.org/abs/2512.08611)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/Arpit-Babbar/paper_crk_nonconservative)
+
 * Toscano, Chen, Karniadakis,
   **ATHENA: Agentic Team for Hierarchical Evolutionary Numerical Algorithms**, 2025.\\
   [![arXiv:2512.03476](https://img.shields.io/badge/arXiv-2512.03476-yellow)](https://arxiv.org/abs/2512.03476)
