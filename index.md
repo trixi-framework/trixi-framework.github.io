@@ -137,6 +137,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **ATHENA: Agentic Team for Hierarchical Evolutionary Numerical Algorithms**, 2025.\\
   [![arXiv:2512.03476](https://img.shields.io/badge/arXiv-2512.03476-yellow)](https://arxiv.org/abs/2512.03476)
 
+* Kwan, *Chan*,
+  **A robust first order meshfree method for time-dependent nonlinear conservation laws**,
+  In: Advances in Computational Science and Engineering, 2025.\\
+  [![doi:10.3934/acse.2025021](https://zenodo.org/badge/doi/10.3934/acse.2025021.svg)](https://doi.org/10.3934/acse.2025021)
+
 * Bleffert, Dreyer, Röhrig-Zöllner,
   **A Discontinuous Galerkin Discretization for the Intrinsic Beam Model**,
   In: Emerging Technologies in Computational Sciences for Industry, Sustainability and Innovation. M2P 2023, 2025.\\
