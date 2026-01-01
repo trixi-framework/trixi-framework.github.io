@@ -128,6 +128,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
 
 ### 2025
+* Kwan, *Chan*,
+  **A robust first order meshfree method for time-dependent nonlinear conservation laws**,
+  In: Advances in Computational Science and Engineering, 2025.\\
+  [![doi:10.3934/acse.2025021](https://zenodo.org/badge/doi/10.3934/acse.2025021.svg)](https://doi.org/10.3934/acse.2025021)
+
 * Babbar, *Ranocha*,
   **Compact Runge-Kutta Flux Reconstruction methods for non-conservative hyperbolic equations**, 2025.\\
   [![arXiv:2512.08611](https://img.shields.io/badge/arXiv-2512.08611-yellow)](https://arxiv.org/abs/2512.08611)
