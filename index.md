@@ -115,6 +115,14 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
+
+* Taylor, *Chan*,
+  **An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**,
+  Journal of Computational Physics (548) 114551, 2026.\\
+  [![arXiv:2412.13002](https://img.shields.io/badge/arXiv-2412.13002-yellow)](https://arxiv.org/abs/2412.13002)
+  [![doi:10.1016/j.jcp.2025.114551](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.114551.svg)](https://doi.org/10.1016/j.jcp.2025.114551)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/cgt3/ES-CutDG)
+  
 * Peyvan, Kumar, Karniadakis,
   **Fusion-DeepONet: A data-efficient neural operator for geometry-dependent hypersonic and supersonic flows**,
   Journal of Computational Physics (526) 114432, 2026.\\
@@ -289,10 +297,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2023-upwind)
 
 ### 2024
-* Taylor, *Chan*,
-  **An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**, 2024.\\
-  [![arXiv:2412.13002](https://img.shields.io/badge/arXiv-2412.13002-yellow)](https://arxiv.org/abs/2412.13002)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/cgt3/ES-CutDG)
 
 * Kopriva, *Winters*, *Schlottke-Lakemper*, Schoonover, *Ranocha*,
   **HOHQMesh: An all quadrilateral/hexahedral unstructured mesh generator for high order elements**,
