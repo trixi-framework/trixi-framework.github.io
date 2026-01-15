@@ -116,13 +116,18 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* *Ersing*, *Winters*,
+  **A new class of entropy stable fluctuations for the discontinuous Galerkin method with application to the Saint-Venant-Exner model**, 2026.\\
+  [![arXiv:2601.09450](https://img.shields.io/badge/arXiv-2601.09450-yellow)](https://arxiv.org/abs/2601.09450)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2026-nonconservative_dgsem_exner)
+
 * Taylor, *Chan*,
   **An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**,
   Journal of Computational Physics (548) 114551, 2026.\\
   [![arXiv:2412.13002](https://img.shields.io/badge/arXiv-2412.13002-yellow)](https://arxiv.org/abs/2412.13002)
   [![doi:10.1016/j.jcp.2025.114551](https://zenodo.org/badge/doi/10.1016/j.jcp.2025.114551.svg)](https://doi.org/10.1016/j.jcp.2025.114551)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/cgt3/ES-CutDG)
-  
+
 * Peyvan, Kumar, Karniadakis,
   **Fusion-DeepONet: A data-efficient neural operator for geometry-dependent hypersonic and supersonic flows**,
   Journal of Computational Physics (526) 114432, 2026.\\
