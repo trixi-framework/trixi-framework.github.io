@@ -116,7 +116,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
-* Careage, *Ersing*, Koellermeier, *Winters*,
+* Careaga, *Ersing*, Koellermeier, *Winters*,
   **Entropy analysis and entropy stable DG methods for the shallow water moment equations**, 2026.\\
   [![arXiv:2602.06513](https://img.shields.io/badge/arXiv-2602.06513-yellow)](https://arxiv.org/abs/2602.06513)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2026-swme_dg)
