@@ -116,6 +116,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Glaubitz, Iske, *Lampert*, Öffner,
+  **Why summation by parts is not enough**, 2026.\\
+  [![arXiv:2602.10786](https://img.shields.io/badge/arXiv-2602.10786-yellow)](https://arxiv.org/abs/2602.10786)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2026_SBP_not_enough)
+
 * Careaga, *Ersing*, Koellermeier, *Winters*,
   **Entropy analysis and entropy stable DG methods for the shallow water moment equations**, 2026.\\
   [![arXiv:2602.06513](https://img.shields.io/badge/arXiv-2602.06513-yellow)](https://arxiv.org/abs/2602.06513)
