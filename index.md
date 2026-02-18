@@ -36,6 +36,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
   Create troubled cell indicators for Trixi.jl using artificial neural networks
 
+* [**TrixiAtmo.jl**](https://github.com/trixi-framework/TrixiAtmo.jl)
+
+  Simulation package for atmospheric models based on Trixi.jl
+
 ## Mesh generation
 * [**HOHQMesh.jl**](https://github.com/trixi-framework/HOHQMesh.jl)
 
