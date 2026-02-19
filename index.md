@@ -28,6 +28,10 @@ constitute the Trixi framework on [GitHub](https://github.com/orgs/trixi-framewo
 
   High-order numerical simulations for shallow water applications
 
+* [**TrixiAtmo.jl**](https://github.com/trixi-framework/TrixiAtmo.jl)
+
+  Simulation package for atmospheric models based on Trixi.jl
+
 * [**libtrixi**](https://github.com/trixi-framework/libtrixi)
 
   Use [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) from C/C++/Fortran
