@@ -120,6 +120,12 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Montoya, *Rueda-Ramírez*, *Gassner*,
+  **Entropy-stable discontinuous spectral-element methods for the spherical shallow water equations in covariant form**, Journal of Computational Physics (555) 114782, 2026.\\
+  [![arXiv:2509.08790](https://img.shields.io/badge/arXiv-2509.08790-yellow)](https://arxiv.org/abs/2509.08790)
+  [![doi:10.1016/j.jcp.2026.114782](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114782.svg)](https://doi.org/10.1016/j.jcp.2026.114782)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/tristanmontoya/paper-2025-spherical-shallow-water)
+
 * Glaubitz, Iske, *Lampert*, Öffner,
   **Why summation by parts is not enough**, 2026.\\
   [![arXiv:2602.10786](https://img.shields.io/badge/arXiv-2602.10786-yellow)](https://arxiv.org/abs/2602.10786)
@@ -238,11 +244,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**, 2025.\\
   [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2025_structure_potential_temperature)
-
-* Montoya, *Rueda-Ramírez*, *Gassner*,
-  **Entropy-stable discontinuous spectral-element methods for the spherical shallow water equations in covariant form**, 2025.\\
-  [![arXiv:2509.08790](https://img.shields.io/badge/arXiv-2509.08790-yellow)](https://arxiv.org/abs/2509.08790)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/tristanmontoya/paper-2025-spherical-shallow-water)
 
 * Christner, *Chan*,
   **Entropy stable finite difference (ESFD) methods via entropy correction artificial viscosity (ECAV) and knapsack limiting (KL) techniques**, 2025.\\
