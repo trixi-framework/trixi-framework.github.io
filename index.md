@@ -120,6 +120,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Van Fleet, *Chan*,
+  **On the choice of viscous discontinuous Galerkin discretization for entropy correction artificial viscosity methods** 2026.\\
+  [![arXiv:2602.23210](https://img.shields.io/badge/arXiv-2602.23210yellow)](https://arxiv.org/abs/2602.23210)
+
 * Montoya, *Rueda-Ramírez*, *Gassner*,
   **Entropy-stable discontinuous spectral-element methods for the spherical shallow water equations in covariant form**, Journal of Computational Physics (555) 114782, 2026.\\
   [![arXiv:2509.08790](https://img.shields.io/badge/arXiv-2509.08790-yellow)](https://arxiv.org/abs/2509.08790)
