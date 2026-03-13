@@ -645,7 +645,7 @@ Trixi.jl participated in the Google Summer of Code 2023, marking its initial ste
 Germany),
 [Hendrik Ranocha](https://ranocha.de/) (University of Hamburg, Germany),
 [Andrew Winters](https://liu.se/en/employee/andwi94) (Linköping University, Sweden),
-[Jesse Chan](https://jlchan.github.io/) (Rice University, US), and
+[Jesse Chan](https://jlchan.github.io/) (UT Austin, US), and
 Andrés Rueda-Ramírez (Polytechnic University of Madrid (UPM), Spain)
 are the principal developers of
 [Trixi.jl](https://github.com/trixi-framework/Trixi.jl).
