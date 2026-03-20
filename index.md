@@ -120,6 +120,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* *Artiano*, *Ranocha*,
+  **On Affordable High-Order Entropy-Conservative/Stable and Well-Balanced Methods for Nonconservative Hyperbolic Systems**, 2026.\\
+  [![arXiv:2603.18978](https://img.shields.io/badge/arXiv-2603.18978-yellow)](https://arxiv.org/abs/2603.18978)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2026_nonconservative_sbp)
+
 * Zhang, Redekop, Stoyanov, Farrell, Kim, Holleis, Gong, Keough, Choi, Taniguchi, Watanabe, Huber, Bleszynski Jayich, Lucas, Young,
   **Imaging flat band electron hydrodynamics in biased bilayer graphene**, 2026.\\
   [![arXiv:2603.11175](https://img.shields.io/badge/arXiv-2603.11175-yellow)](https://arxiv.org/abs/2603.11175)
