@@ -120,6 +120,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* *Doehring*, *Chan*, *Ranocha*, *Schlottke-Lakemper*, Torrilhon, *Gassner*,
+  **Volume Term Adaptivity for Discontinuous Galerkin Schemes**, 2026.\\
+  [![arXiv:2603.24189](https://img.shields.io/badge/arXiv-2603.24189-yellow)](https://arxiv.org/abs/2603.24189)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/DanielDoehring/paper-2026-vta)
+
 * *Artiano*, *Ranocha*,
   **On Affordable High-Order Entropy-Conservative/Stable and Well-Balanced Methods for Nonconservative Hyperbolic Systems**, 2026.\\
   [![arXiv:2603.18978](https://img.shields.io/badge/arXiv-2603.18978-yellow)](https://arxiv.org/abs/2603.18978)
