@@ -120,6 +120,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Öffner, Pettersson, *Winters*,
+  **A high-order, structure preserving scheme for the stochastic Galerkin shallow water equations—unification and two-dimensional extension**, 2026.\\
+  [![arXiv:2604.01199](https://img.shields.io/badge/arXiv-2604.01199-yellow)](https://arxiv.org/abs/2604.01199)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2026_stochasic_dg_swe)
+
 * *Babbar*, Chen, *Ranocha*,
   **Compact Runge-Kutta flux reconstruction methods with entropy and/or kinetic energy preserving fluxes**, 2026.\\
   [![arXiv:2604.02125](https://img.shields.io/badge/arXiv-2604.02125-yellow)](https://arxiv.org/abs/2604.02125)
