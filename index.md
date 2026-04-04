@@ -132,6 +132,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![doi:10.1016/j.jcp.2026.114891](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114891.svg)](https://doi.org/10.1016/j.jcp.2026.114891)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2025_nonlinear_bndy_flux)
 
+* *Babbar*, Chen, *Ranocha*,
+  **Compact Runge-Kutta flux reconstruction methods with entropy and/or kinetic energy preserving fluxes**, 2026.\\
+  [![arXiv:2604.02125](https://img.shields.io/badge/arXiv-2604.02125-yellow)](https://arxiv.org/abs/2604.02125)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/Arpit-Babbar/paper_es_crk#)
+
 * *Doehring*, *Chan*, *Ranocha*, *Schlottke-Lakemper*, Torrilhon, *Gassner*,
   **Volume Term Adaptivity for Discontinuous Galerkin Schemes**, 2026.\\
   [![arXiv:2603.24189](https://img.shields.io/badge/arXiv-2603.24189-yellow)](https://arxiv.org/abs/2603.24189)
