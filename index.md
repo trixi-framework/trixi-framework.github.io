@@ -120,6 +120,18 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Öffner, Pettersson, *Winters*,
+  **A high-order, structure preserving scheme for the stochastic Galerkin shallow water equations - unification and two-dimensional extension**, 2026.\\
+  [![arXiv:2604.01199](https://img.shields.io/badge/arXiv-2604.01199-yellow)](https://arxiv.org/abs/2604.01199)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2026_stochasic_dg_swe)
+
+* *Winters*, Kopriva, Nordström,
+  **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**,
+  Journal of Computational Physics (559) 114891, 2026.\\
+  [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
+  [![doi:10.1016/j.jcp.2026.114891](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114891.svg)](https://doi.org/10.1016/j.jcp.2026.114891)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2025_nonlinear_bndy_flux)
+
 * *Doehring*, *Chan*, *Ranocha*, *Schlottke-Lakemper*, Torrilhon, *Gassner*,
   **Volume Term Adaptivity for Discontinuous Galerkin Schemes**, 2026.\\
   [![arXiv:2603.24189](https://img.shields.io/badge/arXiv-2603.24189-yellow)](https://arxiv.org/abs/2603.24189)
@@ -180,7 +192,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   Computer Physics Communications (318) 109898, 2026.\\
   [![arXiv:2506.21206](https://img.shields.io/badge/arXiv-2506.21206-yellow)](https://arxiv.org/abs/2506.21206)
   [![doi:10.1016/j.cpc.2025.109898](https://zenodo.org/badge/doi/10.1016/j.cpc.2025.109898.svg)](https://doi.org/10.1016/j.cpc.2025.109898)
-  [![reproduce me!](https://zenodo.org/badge/DOI/10.5281/zenodo.15730554.svg)](https://doi.org/10.5281/zenodo.15730554)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2025-particle-based_preprocessing)
 
 ### 2025
 * Kwan, *Chan*,
@@ -237,11 +249,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2402.16669](https://img.shields.io/badge/arXiv-2402.16669-yellow)](https://arxiv.org/abs/2402.16669)
   [![doi:10.1007/s44207-025-00006-3](https://zenodo.org/badge/doi/10.1007/s44207-025-00006-3.svg)](https://doi.org/10.1007/s44207-025-00006-3)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2024_dispersive_shallow_water)
-
-* *Winters*, Kopriva, Nordström,
-  **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**, 2025.\\
-  [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2025_nonlinear_bndy_flux)
 
 * Song, Singh, Torrilhon, Cayci,
   **Extraction of moment closures for strongly non-equilibrium flows via machine learning**, 2025.\\
