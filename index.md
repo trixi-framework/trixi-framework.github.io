@@ -120,6 +120,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Park, *Chan*,
+  **Entropy correction artificial viscosity for high order DG methods using multiple artificial viscosities**, 2026.\\
+  [![arXiv:2604.03158](https://img.shields.io/badge/arXiv-2604.03158-yellow)](https://arxiv.org/abs/2604.03158)
+  
 * Öffner, Pettersson, *Winters*,
   **A high-order, structure preserving scheme for the stochastic Galerkin shallow water equations - unification and two-dimensional extension**, 2026.\\
   [![arXiv:2604.01199](https://img.shields.io/badge/arXiv-2604.01199-yellow)](https://arxiv.org/abs/2604.01199)
