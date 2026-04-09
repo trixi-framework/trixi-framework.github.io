@@ -119,6 +119,9 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
+* Jnini, Kiyani, Shukla, Urban, Daryakenari, Muller, Zeinhofer, Karniadakis,
+  **Curvature-Aware Optimization for High-Accuracy Physics-Informed Neural Networks**, 2026.\\
+  [![arXiv:2604.05230](https://img.shields.io/badge/arXiv-2604.05230-yellow)](https://arxiv.org/abs/2604.05230)
 
 * Park, *Chan*,
   **Entropy correction artificial viscosity for high order DG methods using multiple artificial viscosities**, 2026.\\
