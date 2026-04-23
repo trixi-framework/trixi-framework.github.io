@@ -119,6 +119,10 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
+* Basak, Babbar, Kumar, Chandrashekar
+  **Admissible Lax-Wendroff Flux Reconstruction Method with Automatic Differentiation on Adaptive Curved Meshes for Relativistic Hydrodynamics**, 2026.\\
+  [![arXiv:2604.20608](https://img.shields.io/badge/arXiv-2604.20608-yellow)](https://arxiv.org/abs/2604.20608)
+
 * Jiang, Lv, Chen,
   **A Structure-Preserving Graph Neural Solver for Parametric Hyperbolic Conservation Laws**, 2026.\\
   [![arXiv:2604.15617](https://img.shields.io/badge/arXiv-2604.15617-yellow)](https://arxiv.org/abs/2604.15617)
