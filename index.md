@@ -101,6 +101,11 @@ listed below. If you have a project that you would like to see listed here, plea
   BloodFlowTrixi.jl implements one-dimensional (1D) and two-dimensional (2D) blood flow
   models for arterial circulation.
 
+* [**FermiSea.jl**](https://github.com/jackhfarrell/FermiSea.jl)
+
+  FermiSea.jl simulates 2D electron transport, hydrodynamic and otherwise, in arbitrary
+  device geometries in the Julia programming language.
+
 * [**TrixiCUDA.jl**](https://github.com/trixi-gpu/TrixiCUDA.jl)
 
   TrixiCUDA.jl offers CUDA acceleration for solving hyperbolic PDEs.
