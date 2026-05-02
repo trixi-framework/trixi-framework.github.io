@@ -124,6 +124,14 @@ The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
+
+* Thein, *Ranocha*,
+  **Computing Radially-Symmetric Solutions of the Ultra-Relativistic Euler Equations with Entropy-Stable Discontinuous Galerkin Methods**, 2026.\\
+  Journal of Computational Physics (561) 114959, 2026.\\
+  [![doi:10.1016/j.jcp.2026.114959](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114959.svg)](https://doi.org/10.1016/j.jcp.2026.114959)
+  [![arXiv:2508.21427](https://img.shields.io/badge/arXiv-2508.21427-yellow)](https://arxiv.org/abs/2508.21427)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2025_ultrarelativistic_euler)
+  
 * Basak, Babbar, Kumar, Chandrashekar
   **Admissible Lax-Wendroff Flux Reconstruction Method with Automatic Differentiation on Adaptive Curved Meshes for Relativistic Hydrodynamics**, 2026.\\
   [![arXiv:2604.20608](https://img.shields.io/badge/arXiv-2604.20608-yellow)](https://arxiv.org/abs/2604.20608)
@@ -298,11 +306,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Christner, *Chan*,
   **Entropy stable finite difference (ESFD) methods via entropy correction artificial viscosity (ECAV) and knapsack limiting (KL) techniques**, 2025.\\
   [![arXiv:2508.21226](https://img.shields.io/badge/arXiv-2508.21226-yellow)](https://arxiv.org/abs/2508.21226)
-
-* Thein, *Ranocha*,
-  **Computing Radially-Symmetric Solutions of the Ultra-Relativistic Euler Equations with Entropy-Stable Discontinuous Galerkin Methods**, 2025.\\
-  [![arXiv:2508.21427](https://img.shields.io/badge/arXiv-2508.21427-yellow)](https://arxiv.org/abs/2508.21427)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2025_ultrarelativistic_euler)
 
 * *Doehring*, *Ranocha*, Torrilhon,
   **Paired Explicit Relaxation Runge-Kutta Methods: Entropy-Conservative and Entropy-Stable High-Order Optimized Multirate Time Integration**, 2025.\\
