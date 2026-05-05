@@ -125,13 +125,18 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* *Rueda-Ramírez*, *Ersing*, *Winters*, *Gassner*,
+  **Well-balanced subcell limiting for discontinuous Galerkin discretizations of the shallow-water equations**, 2026.\\
+  [![arXiv:2410.14502](https://img.shields.io/badge/arXiv-2605.02560-yellow)](https://arxiv.org/abs/2605.02560)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2026_well_balanced_subcell_swe)
+
 * Thein, *Ranocha*,
   **Computing Radially-Symmetric Solutions of the Ultra-Relativistic Euler Equations with Entropy-Stable Discontinuous Galerkin Methods**, 2026.\\
   Journal of Computational Physics (561) 114959, 2026.\\
   [![doi:10.1016/j.jcp.2026.114959](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114959.svg)](https://doi.org/10.1016/j.jcp.2026.114959)
   [![arXiv:2508.21427](https://img.shields.io/badge/arXiv-2508.21427-yellow)](https://arxiv.org/abs/2508.21427)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2025_ultrarelativistic_euler)
-  
+
 * Basak, Babbar, Kumar, Chandrashekar
   **Admissible Lax-Wendroff Flux Reconstruction Method with Automatic Differentiation on Adaptive Curved Meshes for Relativistic Hydrodynamics**, 2026.\\
   [![arXiv:2604.20608](https://img.shields.io/badge/arXiv-2604.20608-yellow)](https://arxiv.org/abs/2604.20608)
