@@ -127,7 +127,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 * *Rueda-Ramírez*, *Ersing*, *Winters*, *Gassner*,
   **Well-balanced subcell limiting for discontinuous Galerkin discretizations of the shallow-water equations**, 2026.\\
-  [![arXiv:2410.14502](https://img.shields.io/badge/arXiv-2605.02560-yellow)](https://arxiv.org/abs/2605.02560)
+  [![arXiv:2605.02560](https://img.shields.io/badge/arXiv-2605.02560-yellow)](https://arxiv.org/abs/2605.02560)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/amrueda/paper_2026_well_balanced_subcell_swe)
 
 * Thein, *Ranocha*,
