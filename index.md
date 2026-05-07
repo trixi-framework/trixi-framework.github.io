@@ -125,6 +125,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Farrell, Lucas,
+  **Characterizing electronic scattering rates with transport in multiterminal devices**, 2026.\\
+  [![arXiv:2605.03030](https://img.shields.io/badge/arXiv-2605.03030-yellow)](https://arxiv.org/abs/2605.03030)
+
 * *Rueda-Ramírez*, *Ersing*, *Winters*, *Gassner*,
   **Well-balanced subcell limiting for discontinuous Galerkin discretizations of the shallow-water equations**, 2026.\\
   [![arXiv:2605.02560](https://img.shields.io/badge/arXiv-2605.02560-yellow)](https://arxiv.org/abs/2605.02560)
