@@ -125,6 +125,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Agnihotri, Öffner,
+  **Convergence analysis of structure-preserving schemes for the multicomponent compressible Euler flows**, 2026.\\
+  [![arXiv:2605.24898](https://img.shields.io/badge/arXiv-2605.24898-yellow)](https://arxiv.org/abs/2605.24898)
+
 * Farrell, Lucas,
   **Characterizing electronic scattering rates with transport in multiterminal devices**, 2026.\\
   [![arXiv:2605.03030](https://img.shields.io/badge/arXiv-2605.03030-yellow)](https://arxiv.org/abs/2605.03030)
