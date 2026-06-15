@@ -125,6 +125,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Zhao, Zhao, Hao, Ding, Chen, Liu,
+  **A subcell entropy-constrained limiter for entropy stable discontinuous Galerkin methods**,
+  Journal of Computational Physics (563) 115113, 2026.\\
+  [![doi:10.1016/j.jcp.2026.115113](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115113.svg)](https://doi.org/10.1016/j.jcp.2026.115113)
+
 * Agnihotri, Öffner,
   **Convergence analysis of structure-preserving schemes for the multicomponent compressible Euler flows**, 2026.\\
   [![arXiv:2605.24898](https://img.shields.io/badge/arXiv-2605.24898-yellow)](https://arxiv.org/abs/2605.24898)
