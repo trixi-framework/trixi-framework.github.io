@@ -125,6 +125,19 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Babbar, Churavy, *Schlottke-Lakemper*, *Ranocha*,
+  **Automatic differentiation for performing the Cauchy-Kovalevskaya procedure in Lax-Wendroff type discretizations**,
+  Journal of Computational Physics (563) 115101, 2026.\\
+  [![arXiv:2506.11719](https://img.shields.io/badge/arXiv-2506.11719-yellow)](https://arxiv.org/abs/2506.11719)
+  [![doi:10.1016/j.jcp.2026.115101](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115101.svg)](https://doi.org/10.1016/j.jcp.2026.115101)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/Arpit-Babbar/2025_paper_lw_ad)
+
+* Qu, Narayan, *Chan*,
+  **Entropy stable reduced order modeling of nonlinear conservation laws using discontinuous Galerkin methods**,
+  Journal of Computational Physics (557) 114830, 2026.\\
+  [![arXiv:2502.09381](https://img.shields.io/badge/arXiv-2502.09381-yellow)](https://arxiv.org/abs/2502.09381)
+  [![doi:10.1016/j.jcp.2026.114830](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114830.svg)](https://doi.org/10.1016/j.jcp.2026.114830)
+
 * Zhao, Zhao, Hao, Ding, Chen, Liu,
   **A subcell entropy-constrained limiter for entropy stable discontinuous Galerkin methods**,
   Journal of Computational Physics (563) 115113, 2026.\\
@@ -314,7 +327,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 * Sánchez-Ramírez, Giordano,
   **Extrae.jl: Julia bindings for the Extrae HPC Profiler**, 2025.\\
-  [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2504.12087-yellow)](https://arxiv.org/pdf/2504.12087)
+  [![arXiv:2504.12087](https://img.shields.io/badge/arXiv-2504.12087-yellow)](https://arxiv.org/abs/2504.12087)
 
 * Artiano, Knoth, Spichtinger, *Ranocha*,
   **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**, 2025.\\
@@ -330,11 +343,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2507.04991](https://img.shields.io/badge/arXiv-2507.04991-yellow)](https://arxiv.org/abs/2507.04991)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/DanielDoehring/paper-2025-perrk)
 
-* Babbar, Churavy, *Schlottke-Lakemper*, *Ranocha*,
-  **Automatic differentiation for Lax-Wendroff-type discretizations**, 2025.\\
-  [![arXiv:2506.11719](https://img.shields.io/badge/arXiv-2506.11719-yellow)](https://arxiv.org/abs/2506.11719)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/Arpit-Babbar/2025_paper_lw_ad)
-
 * Oblapenko, Torrilhon,
   **Entropy-conservative high-order methods for high-enthalpy flows**, 2025.\\
   [![arXiv:2403.16882](https://img.shields.io/badge/arXiv-2403.16882-yellow)](https://arxiv.org/abs/2403.16882)
@@ -343,9 +351,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 * Song, Singh, Torrilhon, **Non-equilibrium flow simulations based on Grad-14 and Grad-17 moment equations for polytropic gasess**, 2025.\\
   [![doi:10.1063/5.0257491](https://zenodo.org/badge/doi/10.1063/5.0257491.svg)](https://doi.org/10.1063/5.0257491)
-
-* Qu, Narayan, *Chan*, **Entropy stable reduced order modeling of nonlinear conservation laws using discontinuous Galerkin methods**, 2025.\\
-  [![arXiv:2502.09381](https://img.shields.io/badge/arXiv-2502.09381-yellow)](https://arxiv.org/pdf/2502.09381)
 
 * Glaubitz, *Ranocha*, *Winters*, *Schlottke-Lakemper*, Öffner, *Gassner*,
   **Generalized upwind summation-by-parts operators and their application to nodal discontinuous Galerkin methods**,
