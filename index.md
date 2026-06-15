@@ -393,6 +393,20 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2024
 
+* *Ranocha*, Giesselmann,
+  **Stability of step size control based on a posteriori error estimates**,
+  Computational Science and Engineering (1) 1, 2024.\\
+  [![arXiv:2307.12677](https://img.shields.io/badge/arXiv-2307.12677-yellow)](https://arxiv.org/abs/2307.12677)
+  [![doi:10.1007/s44207-024-00001-0](https://zenodo.org/badge/doi/10.1007/s44207-024-00001-0.svg)](https://doi.org/10.1007/s44207-024-00001-0)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2023_RK_error_estimate)
+
+* *Chan*, Shukla, Wu, Liu, Nalluri,
+  **High order entropy stable schemes for the quasi-one-dimensional shallow
+  water and compressible Euler equations**,
+  Journal of Computational Physics (504) 112876, 2024.\\
+  [![arXiv:2307.12089](https://img.shields.io/badge/arXiv-2307.12089-yellow)](https://arxiv.org/abs/2307.12089)
+  [![doi:10.1016/j.jcp.2024.112876](https://zenodo.org/badge/doi/10.1016/j.jcp.2024.112876.svg)](https://doi.org/10.1016/j.jcp.2024.112876)
+
 * Kopriva, *Winters*, *Schlottke-Lakemper*, Schoonover, *Ranocha*,
   **HOHQMesh: An all quadrilateral/hexahedral unstructured mesh generator for high order elements**,
   Journal of Open Source Software, 9(104), 7476, 2024.\\
@@ -444,16 +458,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2311.03883](https://img.shields.io/badge/arXiv-2311.03883-yellow)](https://arxiv.org/abs/2311.03883)
   [![doi:10.2140/camcos.2024.19.27](https://zenodo.org/badge/doi/10.2140/camcos.2024.19.27.svg)](https://doi.org/10.2140/camcos.2024.19.27)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2023_multiderivative_relaxation)
-
-* *Ranocha*, Giesselmann,
-  **Stability of step size control based on a posteriori error estimates**, 2023.\\
-  [![arXiv:2307.12677](https://img.shields.io/badge/arXiv-2307.12677-yellow)](https://arxiv.org/abs/2307.12677)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2023_RK_error_estimate)
-
-* *Chan*, Shukla, Wu, Liu, Nalluri,
-  **High order entropy stable schemes for the quasi-one-dimensional shallow
-  water and compressible Euler equations**, 2023.\\
-  [![arXiv:2307.12089](https://img.shields.io/badge/arXiv-2307.12089-yellow)](https://arxiv.org/abs/2307.12089)
 
 * Ersing, *Winters*,
   **An entropy stable discontinuous Galerkin method for the two-layer
