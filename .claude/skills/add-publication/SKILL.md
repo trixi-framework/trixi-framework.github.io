@@ -1,6 +1,6 @@
 ---
 name: add-publication
-description: Add or update a publication entry under the "## Publications" heading in index.md of the trixi-framework.github.io website. Use when the user gives a DOI and/or arXiv link (or both) for a paper that *uses* Trixi.jl / TrixiParticles.jl / TrixiAtmo.jl etc. and wants it added to the website, or wants to update an existing preprint entry with newly-published journal information.
+description: Add or update a publication entry under the "## Publications" heading in index.md of the trixi-framework.github.io website. Use when the user gives a DOI and/or arXiv link (or both) for a paper that *uses* Trixi.jl / TrixiParticles.jl / TrixiAtmo.jl etc. and wants it added to the website, or wants to update an existing preprint entry with newly-published journal information. Also use when the user gives a year and wants to find journal/published versions for that year's preprint-only entries (bulk update).
 ---
 
 # Add or update a Trixi publication entry
@@ -8,6 +8,14 @@ description: Add or update a publication entry under the "## Publications" headi
 This skill turns a DOI/arXiv link into a correctly formatted Markdown entry in
 `index.md` under `## Publications`, shows it for confirmation, then commits it to
 a new branch so the user only needs to push.
+
+It has two modes:
+
+- **Single-entry mode** (Steps 1–5 below): the user gives one paper's DOI/arXiv
+  link to add or update.
+- **Bulk "find published versions" mode** (see the section at the end): the user
+  gives a *year*; you find every preprint-only entry in that year, let them pick
+  which to chase, and try to discover a journal publication for each one.
 
 ## Inputs to collect
 
@@ -130,3 +138,86 @@ Update it (one last name per line, kept alphabetically) only when the user
 explicitly says someone has joined or left the main-developer set, then commit
 that change too. Don't silently add names just because they appear italicized in
 a single entry.
+
+## Bulk mode — find published versions for a year
+
+Trigger: the user gives a **year** (e.g. "find published versions for 2026",
+"check the 2026 preprints for journal versions"). The goal is to find a real
+journal publication for entries that currently only have a preprint badge.
+
+### B1 — List the preprint-only candidates
+
+In `index.md`, find the `### <YEAR>` group (the one under `## Publications`, not
+the separate talks/GSoC lists). Within it, an entry is a **preprint-only
+candidate** when it has a preprint badge but **no** journal-DOI badge:
+
+- *preprint badge present* = an `arXiv-...` badge (or any other preprint server,
+  e.g. an HAL / SSRN / bioRxiv link).
+- *journal-DOI badge absent* = no `zenodo.org/badge/doi/...` / `doi.org` badge.
+
+An entry that already has a journal line and a DOI badge is **not** a candidate —
+skip it.
+
+Present the candidates as a **numbered list**, one line each:
+`<n>. <FirstAuthor> et al., "<short title>" (arXiv:<ID>)`. Then ask the user to
+pick: **"all"** or specific numbers (accept ranges/lists like `1,3,5` or `2-4`).
+Do nothing else until they choose.
+
+### B2 — Process the selected entries one by one
+
+For each selected entry, the arXiv ID (or other preprint ID) is already in the
+entry — you do **not** need the user to supply anything. Run the existing
+**Steps 1–3** to discover and format a candidate published version, with this
+discovery order (reverse of normal Step 1, since you start from the preprint):
+
+1. **arXiv API** (`http://export.arxiv.org/api/query?id_list=<ID>`): check the
+   `<arxiv:doi>` and `<arxiv:journal_ref>` fields. If the authors linked a
+   journal DOI here, this is **authoritative** — accept it as the source.
+2. **OpenAlex**: try `https://api.openalex.org/works/arxiv:<ID>`; if that 404s
+   (it frequently does), fall back to a title search
+   `https://api.openalex.org/works?filter=title.search:<title>` and confirm the
+   hit is the same paper. Look for a published `doi` whose host venue is a real
+   journal (not arXiv itself).
+3. **Crossref bibliographic search**
+   (`https://api.crossref.org/works?query.bibliographic=<title>&rows=5`): only as
+   a last resort, and only accept a hit when the **title matches closely AND the
+   author last names overlap** the preprint. Otherwise treat as not found —
+   never attach a DOI you are not confident belongs to this exact paper.
+
+Once you have a candidate DOI, fetch its Crossref record
+(`https://api.crossref.org/works/<DOI>`) to get journal name, volume,
+pages/article-number, and the published year, then build the updated entry per
+Step 3 (canonical badge order: arXiv, journal DOI, then any existing
+"reproduce me!").
+
+Then, per entry:
+
+- **Nothing found** (all three sources came up empty or unverified): say so
+  plainly — `<n>. <FirstAuthor> et al. — no published version found` — and move
+  on. Do not edit anything.
+- **Found**: state **where** it came from (arXiv / OpenAlex / Crossref), show the
+  proposed updated entry (before/after diff of the affected lines), and **ask the
+  user whether to accept it**. Apply the change only on a yes, using the Step 5
+  **Update** path (add the journal line + DOI badge, reorder badges, and move the
+  entry to the correct year group if the published year differs from `<YEAR>`).
+
+While building the updated entry, also tidy the existing one:
+
+- **Title may differ**: papers are often renamed between preprint and journal, so
+  the website entry's title may not match the published one. Prefer the
+  **published** title from Crossref, but show the change and let the user veto it.
+- **arXiv badge hygiene**: fix a badge whose visible label (`arXiv-<ID>`) or alt
+  text disagrees with the linked ID, and normalize the link to the canonical
+  `https://arxiv.org/abs/<ID>` form (drop `/pdf/` and any `vN` version suffix).
+  The user may also ask for this fix on an entry that stays a preprint.
+
+Keep the per-entry exchanges compact; the user is reviewing several in a row.
+
+### B3 — Commit
+
+After all selected entries are processed, commit the accepted updates in a single
+branch (the user is on `main`), e.g. branch `update-publications-<year>` with a
+message like `Update <year> preprints with published journal info`. If only one
+entry changed, prefer the single-entry style `<Authors> (<year>) published in
+<Journal>`. End with the required co-author trailer. **Do not push.** If nothing
+was accepted, make no commit and just report the summary.
