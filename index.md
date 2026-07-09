@@ -125,6 +125,12 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Glaubitz, Marzouk,
+  **Efficient sampling for sparse Bayesian learning using hierarchical prior normalization**,
+  SIAM/ASA Journal on Uncertainty Quantification (14) 829-857, 2026.\\
+  [![arXiv:2505.23753](https://img.shields.io/badge/arXiv-2505.23753-yellow)](https://arxiv.org/abs/2505.23753)
+  [![doi:10.1137/25M1790427](https://zenodo.org/badge/doi/10.1137/25M1790427.svg)](https://doi.org/10.1137/25M1790427)
+
 * Babbar, Churavy, *Schlottke-Lakemper*, *Ranocha*,
   **Automatic differentiation for performing the Cauchy-Kovalevskaya procedure in Lax-Wendroff type discretizations**,
   Journal of Computational Physics (563) 115101, 2026.\\
