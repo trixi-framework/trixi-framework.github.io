@@ -125,6 +125,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* *Bolm*, *Rueda-Ramírez*, Kuzmin, *Gassner*,
+  **Invariant-domain-preserving limiting with Adaptive Mesh Refinement for Legendre-Gauss-Lobatto Discontinuous Galerkin Spectral Element Methods**, 2026.\\
+  [![arXiv:2607.06045](https://img.shields.io/badge/arXiv-2607.06045-yellow)](https://arxiv.org/abs/2607.06045)
+
 * Glaubitz, Marzouk,
   **Efficient sampling for sparse Bayesian learning using hierarchical prior normalization**,
   SIAM/ASA Journal on Uncertainty Quantification (14) 829-857, 2026.\\
