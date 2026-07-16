@@ -125,6 +125,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Glaubitz, Haase, Öffner, Stafforst,
+  **Gaussian FSBP operators: Comparison and application to numerical methods for hyperbolic conservation laws**, 2026.\\
+  [![arXiv:2607.13224](https://img.shields.io/badge/arXiv-2607.13224-yellow)](https://arxiv.org/abs/2607.13224)
+
 * *Bolm*, *Rueda-Ramírez*, Kuzmin, *Gassner*,
   **Invariant-domain-preserving limiting with Adaptive Mesh Refinement for Legendre-Gauss-Lobatto Discontinuous Galerkin Spectral Element Methods**, 2026.\\
   [![arXiv:2607.06045](https://img.shields.io/badge/arXiv-2607.06045-yellow)](https://arxiv.org/abs/2607.06045)
