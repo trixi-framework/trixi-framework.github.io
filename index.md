@@ -125,6 +125,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Toscano, Chai, Karniadakis,
+  **GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms**, 2026.\\
+  [![arXiv:2605.11117](https://img.shields.io/badge/arXiv-2605.11117-yellow)](https://arxiv.org/abs/2605.11117)
+
 * Glaubitz, Haase, Öffner, Stafforst,
   **Gaussian FSBP operators: Comparison and application to numerical methods for hyperbolic conservation laws**, 2026.\\
   [![arXiv:2607.13224](https://img.shields.io/badge/arXiv-2607.13224-yellow)](https://arxiv.org/abs/2607.13224)
