@@ -125,6 +125,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* *Artiano*, Knoth, Spichtinger, *Ranocha*,
+  **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**,
+  Journal of Computational Physics 115221, 2026.\\
+  [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
+  [![doi:10.1016/j.jcp.2026.115221](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115221.svg)](https://doi.org/10.1016/j.jcp.2026.115221)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2025_structure_potential_temperature)
+
 * Toscano, Chai, Karniadakis,
   **GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms**, 2026.\\
   [![arXiv:2605.11117](https://img.shields.io/badge/arXiv-2605.11117-yellow)](https://arxiv.org/abs/2605.11117)
@@ -346,11 +353,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Sánchez-Ramírez, Giordano,
   **Extrae.jl: Julia bindings for the Extrae HPC Profiler**, 2025.\\
   [![arXiv:2504.12087](https://img.shields.io/badge/arXiv-2504.12087-yellow)](https://arxiv.org/abs/2504.12087)
-
-* Artiano, Knoth, Spichtinger, *Ranocha*,
-  **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**, 2025.\\
-  [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2025_structure_potential_temperature)
 
 * Christner, *Chan*,
   **Entropy stable finite difference (ESFD) methods via entropy correction artificial viscosity (ECAV) and knapsack limiting (KL) techniques**, 2025.\\
