@@ -125,6 +125,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* *Candelaresi*, *Faulhaber*, *Schlottke-Lakemper*
+  **Adaptive Multiphysics Coupling for Hyperbolic Systems**, 2026.\\
+  [![arXiv:2607.24600](https://img.shields.io/badge/arXiv-2607.24600-yellow)](https://arxiv.org/abs/2607.24600)
+
 * *Artiano*, Knoth, Spichtinger, *Ranocha*,
   **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**,
   Journal of Computational Physics 115221, 2026.\\
