@@ -125,6 +125,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Anandan, Aravind, Lukáčová-Medvid'ová, Rao, Wagh, Yu, Zhang,
+  **Selection criteria for the compressible Euler equations: numerical study**, 2026.\\
+  [![arXiv:2608.02862](https://img.shields.io/badge/arXiv-2608.02862-yellow)](https://arxiv.org/abs/2608.02862)
+  
 * *Ranocha*,
   **Convergence of entropy-conservative summation-by-parts discretizations to smooth solutions of hyperbolic conservation laws**, 2026.\\
   [![arXiv:2607.27049](https://img.shields.io/badge/arXiv-2607.27049-yellow)](https://arxiv.org/abs/2607.27049)
