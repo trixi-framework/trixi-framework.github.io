@@ -217,7 +217,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * *Winters*, Kopriva, Nordström,
   **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**,
   Journal of Computational Physics (559) 114891, 2026.\\
-  [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
+  [![arXiv:2511.04197](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
   [![doi:10.1016/j.jcp.2026.114891](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114891.svg)](https://doi.org/10.1016/j.jcp.2026.114891)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2025_nonlinear_bndy_flux)
 
@@ -347,6 +347,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Song, Singh, Torrilhon, Cayci,
   **Extraction of moment closures for strongly non-equilibrium flows via machine learning**, 2025.\\
   [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.00545-yellow)](https://arxiv.org/abs/2511.00545)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/songhangRGD/R13-ML)
 
 * Babbar, Chandrashekar,
   **Lax-Wendroff flux reconstruction for advection-diffusion equations with error-based time stepping**, 2025,\\
