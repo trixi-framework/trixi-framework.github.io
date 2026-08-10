@@ -129,6 +129,40 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **MARUT: An Exascale-Ready, GPU-Accelerated High-Order CFD Framework with AMR for High-Speed Flows and Finite-Rate Chemistry**, 2026.\\
   [![arXiv:2605.26388](https://img.shields.io/badge/arXiv-2605.26388-yellow)](https://arxiv.org/abs/2605.26388)
 
+* Meyer, Ratajczyk, Rackauckas,
+  **ChromOps.jl: High-order simulation and discrete forward sensitivity analysis for chromatography models**, 2026.\\
+  [![arXiv:2608.06131](https://img.shields.io/badge/arXiv-2608.06131-yellow)](https://arxiv.org/abs/2608.06131)
+
+* *Ranocha*,
+  **Convergence of entropy-conservative summation-by-parts discretizations to smooth solutions of hyperbolic conservation laws**, 2026.\\
+  [![arXiv:2607.27049](https://img.shields.io/badge/arXiv-2607.27049-yellow)](https://arxiv.org/abs/2607.27049)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2026_convergence_sbp)
+
+* *Artiano*, Knoth, Spichtinger, *Ranocha*,
+  **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**,
+  Journal of Computational Physics 115221, 2026.\\
+  [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
+  [![doi:10.1016/j.jcp.2026.115221](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115221.svg)](https://doi.org/10.1016/j.jcp.2026.115221)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2025_structure_potential_temperature)
+
+* Toscano, Chai, Karniadakis,
+  **GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms**, 2026.\\
+  [![arXiv:2605.11117](https://img.shields.io/badge/arXiv-2605.11117-yellow)](https://arxiv.org/abs/2605.11117)
+
+* Glaubitz, Haase, Öffner, Stafforst,
+  **Gaussian FSBP operators: Comparison and application to numerical methods for hyperbolic conservation laws**, 2026.\\
+  [![arXiv:2607.13224](https://img.shields.io/badge/arXiv-2607.13224-yellow)](https://arxiv.org/abs/2607.13224)
+
+* *Bolm*, *Rueda-Ramírez*, Kuzmin, *Gassner*,
+  **Invariant-domain-preserving limiting with Adaptive Mesh Refinement for Legendre-Gauss-Lobatto Discontinuous Galerkin Spectral Element Methods**, 2026.\\
+  [![arXiv:2607.06045](https://img.shields.io/badge/arXiv-2607.06045-yellow)](https://arxiv.org/abs/2607.06045)
+
+* Glaubitz, Marzouk,
+  **Efficient sampling for sparse Bayesian learning using hierarchical prior normalization**,
+  SIAM/ASA Journal on Uncertainty Quantification (14) 829-857, 2026.\\
+  [![arXiv:2505.23753](https://img.shields.io/badge/arXiv-2505.23753-yellow)](https://arxiv.org/abs/2505.23753)
+  [![doi:10.1137/25M1790427](https://zenodo.org/badge/doi/10.1137/25M1790427.svg)](https://doi.org/10.1137/25M1790427)
+
 * Babbar, Churavy, *Schlottke-Lakemper*, *Ranocha*,
   **Automatic differentiation for performing the Cauchy-Kovalevskaya procedure in Lax-Wendroff type discretizations**,
   Journal of Computational Physics (563) 115101, 2026.\\
@@ -191,7 +225,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * *Winters*, Kopriva, Nordström,
   **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**,
   Journal of Computational Physics (559) 114891, 2026.\\
-  [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
+  [![arXiv:2511.04197](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
   [![doi:10.1016/j.jcp.2026.114891](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114891.svg)](https://doi.org/10.1016/j.jcp.2026.114891)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2025_nonlinear_bndy_flux)
 
@@ -321,6 +355,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Song, Singh, Torrilhon, Cayci,
   **Extraction of moment closures for strongly non-equilibrium flows via machine learning**, 2025.\\
   [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.00545-yellow)](https://arxiv.org/abs/2511.00545)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/songhangRGD/R13-ML)
 
 * Babbar, Chandrashekar,
   **Lax-Wendroff flux reconstruction for advection-diffusion equations with error-based time stepping**, 2025,\\
@@ -332,11 +367,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Sánchez-Ramírez, Giordano,
   **Extrae.jl: Julia bindings for the Extrae HPC Profiler**, 2025.\\
   [![arXiv:2504.12087](https://img.shields.io/badge/arXiv-2504.12087-yellow)](https://arxiv.org/abs/2504.12087)
-
-* Artiano, Knoth, Spichtinger, *Ranocha*,
-  **Structure-preserving high-order methods for the compressible Euler equations in potential temperature formulation for atmospheric flows**, 2025.\\
-  [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2025_structure_potential_temperature)
 
 * Christner, *Chan*,
   **Entropy stable finite difference (ESFD) methods via entropy correction artificial viscosity (ECAV) and knapsack limiting (KL) techniques**, 2025.\\
