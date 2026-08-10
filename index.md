@@ -125,6 +125,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Mondal, Jagtap,
+  **MARUT: An Exascale-Ready, GPU-Accelerated High-Order CFD Framework with AMR for High-Speed Flows and Finite-Rate Chemistry**, 2026.\\
+  [![arXiv:2605.26388](https://img.shields.io/badge/arXiv-2605.26388-yellow)](https://arxiv.org/abs/2605.26388)
+
 * Meyer, Ratajczyk, Rackauckas,
   **ChromOps.jl: High-order simulation and discrete forward sensitivity analysis for chromatography models**, 2026.\\
   [![arXiv:2608.06131](https://img.shields.io/badge/arXiv-2608.06131-yellow)](https://arxiv.org/abs/2608.06131)
