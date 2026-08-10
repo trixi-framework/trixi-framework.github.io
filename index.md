@@ -125,13 +125,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
-* Mondal, Jagtap,
-  **MARUT: An Exascale-Ready, GPU-Accelerated High-Order CFD Framework with AMR for High-Speed Flows and Finite-Rate Chemistry**, 2026.\\
-  [![arXiv:2605.26388](https://img.shields.io/badge/arXiv-2605.26388-yellow)](https://arxiv.org/abs/2605.26388)
-
 * Meyer, Ratajczyk, Rackauckas,
   **ChromOps.jl: High-order simulation and discrete forward sensitivity analysis for chromatography models**, 2026.\\
   [![arXiv:2608.06131](https://img.shields.io/badge/arXiv-2608.06131-yellow)](https://arxiv.org/abs/2608.06131)
+
+* Anandan, Aravind, Lukáčová-Medvid'ová, Rao, Wagh, Yu, Zhang,
+  **Selection criteria for the compressible Euler equations: numerical study**, 2026.\\
+  [![arXiv:2608.02862](https://img.shields.io/badge/arXiv-2608.02862-yellow)](https://arxiv.org/abs/2608.02862)
 
 * *Ranocha*,
   **Convergence of entropy-conservative summation-by-parts discretizations to smooth solutions of hyperbolic conservation laws**, 2026.\\
@@ -144,6 +144,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
   [![doi:10.1016/j.jcp.2026.115221](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115221.svg)](https://doi.org/10.1016/j.jcp.2026.115221)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2025_structure_potential_temperature)
+
+* Mondal, Jagtap,
+  **MARUT: An Exascale-Ready, GPU-Accelerated High-Order CFD Framework with AMR for High-Speed Flows and Finite-Rate Chemistry**, 2026.\\
+  [![arXiv:2605.26388](https://img.shields.io/badge/arXiv-2605.26388-yellow)](https://arxiv.org/abs/2605.26388)
 
 * Toscano, Chai, Karniadakis,
   **GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms**, 2026.\\
