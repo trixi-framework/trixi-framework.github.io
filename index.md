@@ -125,10 +125,14 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Meyer, Ratajczyk, Rackauckas,
+  **ChromOps.jl: High-order simulation and discrete forward sensitivity analysis for chromatography models**, 2026.\\
+  [![arXiv:2608.06131](https://img.shields.io/badge/arXiv-2608.06131-yellow)](https://arxiv.org/abs/2608.06131)
+
 * Anandan, Aravind, Lukáčová-Medvid'ová, Rao, Wagh, Yu, Zhang,
   **Selection criteria for the compressible Euler equations: numerical study**, 2026.\\
   [![arXiv:2608.02862](https://img.shields.io/badge/arXiv-2608.02862-yellow)](https://arxiv.org/abs/2608.02862)
-  
+
 * *Ranocha*,
   **Convergence of entropy-conservative summation-by-parts discretizations to smooth solutions of hyperbolic conservation laws**, 2026.\\
   [![arXiv:2607.27049](https://img.shields.io/badge/arXiv-2607.27049-yellow)](https://arxiv.org/abs/2607.27049)
@@ -140,6 +144,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2509.10311](https://img.shields.io/badge/arXiv-2509.10311-yellow)](https://arxiv.org/abs/2509.10311)
   [![doi:10.1016/j.jcp.2026.115221](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115221.svg)](https://doi.org/10.1016/j.jcp.2026.115221)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2025_structure_potential_temperature)
+
+* Mondal, Jagtap,
+  **MARUT: An Exascale-Ready, GPU-Accelerated High-Order CFD Framework with AMR for High-Speed Flows and Finite-Rate Chemistry**, 2026.\\
+  [![arXiv:2605.26388](https://img.shields.io/badge/arXiv-2605.26388-yellow)](https://arxiv.org/abs/2605.26388)
 
 * Toscano, Chai, Karniadakis,
   **GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms**, 2026.\\
@@ -221,7 +229,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * *Winters*, Kopriva, Nordström,
   **Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries**,
   Journal of Computational Physics (559) 114891, 2026.\\
-  [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
+  [![arXiv:2511.04197](https://img.shields.io/badge/arXiv-2511.04197-yellow)](https://arxiv.org/abs/2511.04197)
   [![doi:10.1016/j.jcp.2026.114891](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114891.svg)](https://doi.org/10.1016/j.jcp.2026.114891)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/andrewwinters5000/2025_nonlinear_bndy_flux)
 
@@ -351,6 +359,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Song, Singh, Torrilhon, Cayci,
   **Extraction of moment closures for strongly non-equilibrium flows via machine learning**, 2025.\\
   [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.00545-yellow)](https://arxiv.org/abs/2511.00545)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/songhangRGD/R13-ML)
 
 * Babbar, Chandrashekar,
   **Lax-Wendroff flux reconstruction for advection-diffusion equations with error-based time stepping**, 2025,\\
