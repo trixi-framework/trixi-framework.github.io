@@ -125,6 +125,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* *Chan*, *Ranocha*, Park, *Lampert*, Ching, Edoh,
+  **Nodal discontinuous Galerkin methods for non-ideal equations of state: pressure equilibrium preservation and entropy correction**, 2026.\\
+  [![arXiv:2608.14506](https://img.shields.io/badge/arXiv-2608.14506-yellow)](https://arxiv.org/abs/2608.14506)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2026-non-ideal-eos)
+
 * Meyer, Ratajczyk, Rackauckas,
   **ChromOps.jl: High-order simulation and discrete forward sensitivity analysis for chromatography models**, 2026.\\
   [![arXiv:2608.06131](https://img.shields.io/badge/arXiv-2608.06131-yellow)](https://arxiv.org/abs/2608.06131)
