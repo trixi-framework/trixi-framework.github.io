@@ -125,6 +125,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Song, Singh, Cayci, Torrilhon,
+  **Machine-learned R13 moment closures for shock-dominated rarefied gas flows**,
+  Computers & Fluids 107260, 2026.\\
+  [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.00545-yellow)](https://arxiv.org/abs/2511.00545)
+  [![doi:10.1016/j.compfluid.2026.107260](https://zenodo.org/badge/doi/10.1016/j.compfluid.2026.107260.svg)](https://doi.org/10.1016/j.compfluid.2026.107260)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/songhangRGD/R13-ML)
+
 * Meyer, Ratajczyk, Rackauckas,
   **ChromOps.jl: High-order simulation and discrete forward sensitivity analysis for chromatography models**, 2026.\\
   [![arXiv:2608.06131](https://img.shields.io/badge/arXiv-2608.06131-yellow)](https://arxiv.org/abs/2608.06131)
@@ -355,11 +362,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![arXiv:2402.16669](https://img.shields.io/badge/arXiv-2402.16669-yellow)](https://arxiv.org/abs/2402.16669)
   [![doi:10.1007/s44207-025-00006-3](https://zenodo.org/badge/doi/10.1007/s44207-025-00006-3.svg)](https://doi.org/10.1007/s44207-025-00006-3)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2024_dispersive_shallow_water)
-
-* Song, Singh, Torrilhon, Cayci,
-  **Extraction of moment closures for strongly non-equilibrium flows via machine learning**, 2025.\\
-  [![arXiv:2511.00545](https://img.shields.io/badge/arXiv-2511.00545-yellow)](https://arxiv.org/abs/2511.00545)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/songhangRGD/R13-ML)
 
 * Babbar, Chandrashekar,
   **Lax-Wendroff flux reconstruction for advection-diffusion equations with error-based time stepping**, 2025,\\
