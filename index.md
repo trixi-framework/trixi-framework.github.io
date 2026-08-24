@@ -125,6 +125,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Glaubitz, Sharp, le Provost, Marzouk,
+  **Regularity-informed data assimilation: A hierarchical Bayesian approach to ensemble Kalman filtering for hyperbolic conservation laws**, 2026.\\
+  [![arXiv:2608.14840](https://img.shields.io/badge/arXiv-2608.14840-yellow)](https://arxiv.org/abs/2608.14840)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/jglaubitz/2025_GSBL_DA_dev)
+
 * *Chan*, *Ranocha*, Park, *Lampert*, Ching, Edoh,
   **Nodal discontinuous Galerkin methods for non-ideal equations of state: pressure equilibrium preservation and entropy correction**, 2026.\\
   [![arXiv:2608.14506](https://img.shields.io/badge/arXiv-2608.14506-yellow)](https://arxiv.org/abs/2608.14506)
