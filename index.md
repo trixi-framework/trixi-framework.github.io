@@ -132,6 +132,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![doi:10.1016/j.compfluid.2026.107260](https://zenodo.org/badge/doi/10.1016/j.compfluid.2026.107260.svg)](https://doi.org/10.1016/j.compfluid.2026.107260)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/songhangRGD/R13-ML)
 
+* Sundriyal, Bleffert, Dreyer, Röhrig-Zöllner, *Gassner*, Aizinger,
+  **A Discontinuous Galerkin Method for the Intrinsic Beam Model with Kelvin-Voigt Damping**, 2026.\\
+  [![arXiv:2609.08397](https://img.shields.io/badge/arXiv-2609.08397-yellow)](https://arxiv.org/abs/2609.08397)
+
 * Glaubitz, Sharp, le Provost, Marzouk,
   **Regularity-informed data assimilation: A hierarchical Bayesian approach to ensemble Kalman filtering for hyperbolic conservation laws**, 2026.\\
   [![arXiv:2608.14840](https://img.shields.io/badge/arXiv-2608.14840-yellow)](https://arxiv.org/abs/2608.14840)
