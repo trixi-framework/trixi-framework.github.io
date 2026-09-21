@@ -125,6 +125,12 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Peyvan, Shukla, Karniadakis,
+  **H3PC: Hypersonic, high-order, high-performance code with adaptive mesh refinement and real chemistry**,
+  Journal of Computational Physics 115394, 2026.\\
+  [![arXiv:2511.17551](https://img.shields.io/badge/arXiv-2511.17551-yellow)](https://arxiv.org/abs/2511.17551)
+  [![doi:10.1016/j.jcp.2026.115394](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115394.svg)](https://doi.org/10.1016/j.jcp.2026.115394)
+
 * Song, Singh, Cayci, Torrilhon,
   **Machine-learned R13 moment closures for shock-dominated rarefied gas flows**,
   Computers & Fluids 107260, 2026.\\
@@ -342,10 +348,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **A Discontinuous Galerkin Discretization for the Intrinsic Beam Model**,
   In: Emerging Technologies in Computational Sciences for Industry, Sustainability and Innovation. M2P 2023, 2025.\\
   [![doi:10.1007/978-3-031-95709-3_18](https://zenodo.org/badge/doi/10.1007/978-3-031-95709-3_18.svg)](https://doi.org/10.1007/978-3-031-95709-3_18)
-
-* Peyvan, Shukla, Karniadakis,
-  **H3PC: Hypersonic, high-order, high-performance code with adaptive mesh refinement and real chemistry**, 2025.\\
-  [![arXiv:2511.17551](https://img.shields.io/badge/arXiv-2511.17551-yellow)](https://arxiv.org/abs/2511.17551)
 
 * *Doehring*, *Christmann*, *Schlottke-Lakemper*, *Gassner*, Torrilhon,
   **Fourth-Order Paired-Explicit Runge-Kutta Methods**,
