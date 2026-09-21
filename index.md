@@ -123,6 +123,15 @@ listed below. If you have a project that you would like to see listed here, plea
 The following publications make use of Trixi.jl or one of the other packages
 listed above. Author names of Trixi.jl's main developers are in *italics*.
 
+
+### 2027
+
+* Careaga, *Ersing*, Koellermeier, *Winters*,
+  **Entropy analysis and entropy stable DG methods for the 1D shallow water moment equations**, Applied Mathematics and Computation (532) 130243, 2027.\\
+  [![arXiv:2602.06513](https://img.shields.io/badge/arXiv-2602.06513-yellow)](https://arxiv.org/abs/2602.06513)
+  [![doi:10.1016/j.amc.2026.130243](https://zenodo.org/badge/doi/10.1016/j.amc.2026.130243.svg)](https://doi.org/10.1016/j.amc.2026.130243)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2026-swme_dg)
+
 ### 2026
 
 * Peyvan, Shukla, Karniadakis,
@@ -228,8 +237,8 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Thein, *Ranocha*,
   **Computing Radially-Symmetric Solutions of the Ultra-Relativistic Euler Equations with Entropy-Stable Discontinuous Galerkin Methods**, 2026.\\
   Journal of Computational Physics (561) 114959, 2026.\\
-  [![doi:10.1016/j.jcp.2026.114959](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114959.svg)](https://doi.org/10.1016/j.jcp.2026.114959)
   [![arXiv:2508.21427](https://img.shields.io/badge/arXiv-2508.21427-yellow)](https://arxiv.org/abs/2508.21427)
+  [![doi:10.1016/j.jcp.2026.114959](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.114959.svg)](https://doi.org/10.1016/j.jcp.2026.114959)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/ranocha/2025_ultrarelativistic_euler)
 
 * Basak, Babbar, Kumar, Chandrashekar
@@ -293,12 +302,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **Why summation by parts is not enough**, 2026.\\
   [![arXiv:2602.10786](https://img.shields.io/badge/arXiv-2602.10786-yellow)](https://arxiv.org/abs/2602.10786)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/JoshuaLampert/2026_SBP_not_enough)
-
-* Careaga, *Ersing*, Koellermeier, *Winters*,
-  **Entropy analysis and entropy stable DG methods for the 1D shallow water moment equations**, 2026.\\
-  [![arXiv:2602.06513](https://img.shields.io/badge/arXiv-2602.06513-yellow)](https://arxiv.org/abs/2602.06513)
-  [![doi:10.1016/j.amc.2026.130243](https://zenodo.org/badge/doi/10.1016/j.amc.2026.130243.svg)](https://doi.org/10.1016/j.amc.2026.130243)
-  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2026-swme_dg)
 
 * Mattsson, Niemelä, *Winters*,
   **Boundary-optimized closures for diagonal-norm upwind SBP operators**,
