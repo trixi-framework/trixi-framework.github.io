@@ -294,8 +294,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2026-swme_dg)
 
 * Mattsson, Niemelä, *Winters*,
-  **Optimal boundary closures for diagonal-norm upwind SBP operators**, 2026.\\
+  **Boundary-optimized closures for diagonal-norm upwind SBP operators**,
+  Journal of Computational Physics 115399, 2026.\\
   [![arXiv:2602.05727](https://img.shields.io/badge/arXiv-2602.05727-yellow)](https://arxiv.org/abs/2602.05727)
+  [![doi:10.1016/j.jcp.2026.115399](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115399.svg)](https://doi.org/10.1016/j.jcp.2026.115399)
 
 * *Ersing*, *Winters*,
   **A new class of entropy stable fluctuations for the discontinuous Galerkin method with application to the Saint-Venant-Exner model**, 2026.\\
