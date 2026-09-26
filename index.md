@@ -134,6 +134,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Zhao, Zhao, Liu, Hao,
+  **Entropy Stable DGSEM Discretization of Viscous Terms in Navier-Stokes Equations**,
+  Journal of Computational Physics 115430, 2026.\\
+  [![doi:10.1016/j.jcp.2026.115430](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115430.svg)](https://doi.org/10.1016/j.jcp.2026.115430)
+
 * Peyvan, Shukla, Karniadakis,
   **H3PC: Hypersonic, high-order, high-performance code with adaptive mesh refinement and real chemistry**,
   Journal of Computational Physics 115394, 2026.\\
