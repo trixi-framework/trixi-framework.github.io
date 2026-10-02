@@ -134,6 +134,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Barthwal, Öffner, Singh, Zawallich,
+  **Entropy dissipative high order schemes for a hyperbolic model of two-layer thin film flow**, 2026.\\
+  [![arXiv:2610.02059](https://img.shields.io/badge/arXiv-2610.02059-yellow)](https://arxiv.org/abs/2610.02059)
+
 * Zhao, Zhao, Liu, Hao,
   **Entropy Stable DGSEM Discretization of Viscous Terms in Navier-Stokes Equations**,
   Journal of Computational Physics 115430, 2026.\\
