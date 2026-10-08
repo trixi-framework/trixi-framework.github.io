@@ -319,8 +319,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   [![doi:10.1016/j.jcp.2026.115399](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115399.svg)](https://doi.org/10.1016/j.jcp.2026.115399)
 
 * *Ersing*, *Winters*,
-  **A new class of entropy stable fluctuations for the discontinuous Galerkin method with application to the Saint-Venant-Exner model**, 2026.\\
+  **A new class of entropy stable fluctuations for the discontinuous Galerkin method with application to the Saint-Venant-Exner model**,
+  Journal of Computational Physics 115456, 2026.\\
   [![arXiv:2601.09450](https://img.shields.io/badge/arXiv-2601.09450-yellow)](https://arxiv.org/abs/2601.09450)
+  [![doi:10.1016/j.jcp.2026.115456](https://zenodo.org/badge/doi/10.1016/j.jcp.2026.115456.svg)](https://doi.org/10.1016/j.jcp.2026.115456)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/patrickersing/paper-2026-nonconservative_dgsem_exner)
 
 * Taylor, *Chan*,
