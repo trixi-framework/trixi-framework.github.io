@@ -126,6 +126,12 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2027
 
+* Meyer, Ratajczyk, Rackauckas,
+  **ChromOps.jl: High-order simulation and discrete forward sensitivity analysis for chromatography models**,
+  Computers & Chemical Engineering (216) 109928, 2027.\\
+  [![arXiv:2608.06131](https://img.shields.io/badge/arXiv-2608.06131-yellow)](https://arxiv.org/abs/2608.06131)
+  [![doi:10.1016/j.compchemeng.2026.109928](https://zenodo.org/badge/doi/10.1016/j.compchemeng.2026.109928.svg)](https://doi.org/10.1016/j.compchemeng.2026.109928)
+
 * Careaga, *Ersing*, Koellermeier, *Winters*,
   **Entropy analysis and entropy stable DG methods for the 1D shallow water moment equations**, Applied Mathematics and Computation (532) 130243, 2027.\\
   [![arXiv:2602.06513](https://img.shields.io/badge/arXiv-2602.06513-yellow)](https://arxiv.org/abs/2602.06513)
@@ -169,10 +175,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **Nodal discontinuous Galerkin methods for non-ideal equations of state: pressure equilibrium preservation and entropy correction**, 2026.\\
   [![arXiv:2608.14506](https://img.shields.io/badge/arXiv-2608.14506-yellow)](https://arxiv.org/abs/2608.14506)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/trixi-framework/paper-2026-non-ideal-eos)
-
-* Meyer, Ratajczyk, Rackauckas,
-  **ChromOps.jl: High-order simulation and discrete forward sensitivity analysis for chromatography models**, 2026.\\
-  [![arXiv:2608.06131](https://img.shields.io/badge/arXiv-2608.06131-yellow)](https://arxiv.org/abs/2608.06131)
 
 * Anandan, Aravind, Lukáčová-Medvid'ová, Rao, Wagh, Yu, Zhang,
   **Selection criteria for the compressible Euler equations: numerical study**, 2026.\\
