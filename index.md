@@ -134,6 +134,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Montoya, Spiteri,
+  **A Fully Discrete, Mass-Conservative Adaptive Discontinuous Spectral-Element Method for the One-Dimensional Richards Equation in Mixed Form**, 2026.\\
+  [![arXiv:2610.17031](https://img.shields.io/badge/arXiv-2610.17031-yellow)](https://arxiv.org/abs/2610.17031)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/tristanmontoya/paper-2026-adaptive-richards)
+
 * Barthwal, Öffner, Singh, Zawallich,
   **Entropy dissipative high order schemes for a hyperbolic model of two-layer thin film flow**, 2026.\\
   [![arXiv:2610.02059](https://img.shields.io/badge/arXiv-2610.02059-yellow)](https://arxiv.org/abs/2610.02059)
