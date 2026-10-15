@@ -645,6 +645,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ## Talks
 
+### 2026
+
+* **Trixi.jl: Numerical Methods, Algorithms, and Software**\\
+*Gassner*\\
+9th June 2026, Nektar++ Workshop 2026, London, UK.
+[recording](https://cassyni.com/events/J74o4RitSpeGPLZ8KnnmrV)
+
 ### 2025
 
 * **A High-Order GPU-Accelerated Dynamical Core Based on Discontinuous Galerkin Methods**\\
@@ -671,7 +678,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 * **Solving plasma problems using adaptive multiphysics coupling**\\
   *Candelaresi*\\
-  4th December 2024, 19th MHD Days, Potsdam , Gremany
+  4th December 2024, 19th MHD Days, Potsdam, Germany
 
 * **Modern discontinuous Galerkin methods for atmospheric physics**\\
   *Ranocha*\\
