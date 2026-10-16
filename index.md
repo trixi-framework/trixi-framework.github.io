@@ -108,7 +108,7 @@ listed below. If you have a project that you would like to see listed here, plea
 
 * [**HydroTrixi.jl**](https://github.com/uofs-simlab/HydroTrixi.jl)
 
-  HydroTrixi.jl extends Trixi.jl to enable the simulation of subsurface hydrologic processes.
+  HydroTrixi.jl extends Trixi.jl to enable adaptive simulations of subsurface hydrologic processes.
 
 * [**TrixiCUDA.jl**](https://github.com/trixi-gpu/TrixiCUDA.jl)
 
