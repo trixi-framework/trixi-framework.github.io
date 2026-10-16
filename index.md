@@ -648,9 +648,9 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 ### 2026
 
 * **Trixi.jl: Numerical Methods, Algorithms, and Software**\\
-*Gassner*\\
-9th June 2026, Nektar++ Workshop 2026, London, UK.
-[recording](https://cassyni.com/events/J74o4RitSpeGPLZ8KnnmrV)
+  *Gassner*\\
+  9th June 2026, Nektar++ Workshop 2026, London, UK.
+  [recording](https://cassyni.com/events/J74o4RitSpeGPLZ8KnnmrV)
 
 ### 2025
 
