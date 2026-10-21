@@ -144,6 +144,12 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Holleis, Choi, Zhang, Farrell, Bargas, Hsu, Chen, Sackin, Zhou, Guo, Charpentier, Jiang, Foutty, Keough, Huber, Taniguchi, Watanabe, Lucas, Young,
+  **Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics**,
+  Nature Nanotechnology, 2026.\\
+  [![arXiv:2604.21912](https://img.shields.io/badge/arXiv-2604.21912-yellow)](https://arxiv.org/abs/2604.21912)
+  [![doi:10.1038/s41565-026-02283-1](https://zenodo.org/badge/doi/10.1038/s41565-026-02283-1.svg)](https://doi.org/10.1038/s41565-026-02283-1)
+
 * Montoya, Spiteri,
   **A Fully Discrete, Mass-Conservative Adaptive Discontinuous Spectral-Element Method for the One-Dimensional Richards Equation in Mixed Form**, 2026.\\
   [![arXiv:2610.17031](https://img.shields.io/badge/arXiv-2610.17031-yellow)](https://arxiv.org/abs/2610.17031)
