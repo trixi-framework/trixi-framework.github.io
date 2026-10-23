@@ -144,6 +144,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Haase, *Winters*, Glaubitz,
+  **Summation-by-parts operators for general function spaces: Flux differencing, entropy stability, and accuracy**, 2026.\\
+  [![arXiv:2610.30272](https://img.shields.io/badge/arXiv-2610.30272-yellow)](https://arxiv.org/abs/2610.30272)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/hmhaase/paper-2026-fsbp-flux-differencing)
+
 * Holleis, Choi, Zhang, Farrell, Bargas, Hsu, Chen, Sackin, Zhou, Guo, Charpentier, Jiang, Foutty, Keough, Huber, Taniguchi, Watanabe, Lucas, Young,
   **Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics**,
   Nature Nanotechnology, 2026.\\
@@ -154,7 +159,7 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
   **Entropy-Stable and Well-Balanced Discontinuous Galerkin Methods for the Compressible Euler Equations in Vector-Invariant Form**, 2026.\\
   [![arXiv:2610.05820](https://img.shields.io/badge/arXiv-2610.05820-yellow)](https://arxiv.org/abs/2610.05820)
   [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/MarcoArtiano/2026_entropy_stable_vector_invariant)
-  
+
 * Montoya, Spiteri,
   **A Fully Discrete, Mass-Conservative Adaptive Discontinuous Spectral-Element Method for the One-Dimensional Richards Equation in Mixed Form**, 2026.\\
   [![arXiv:2610.17031](https://img.shields.io/badge/arXiv-2610.17031-yellow)](https://arxiv.org/abs/2610.17031)
