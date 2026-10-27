@@ -144,6 +144,10 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Lee, Lee, Liu,
+  **Optimization-based cell average limiters as metric projections: Constrained evolution and convergence analysis for convection-diffusion equations**, 2026.\\
+  [![arXiv:2610.33449](https://img.shields.io/badge/arXiv-2610.33449-yellow)](https://arxiv.org/abs/2610.33449)
+
 * Haase, *Winters*, Glaubitz,
   **Summation-by-parts operators for general function spaces: Flux differencing, entropy stability, and accuracy**, 2026.\\
   [![arXiv:2610.30272](https://img.shields.io/badge/arXiv-2610.30272-yellow)](https://arxiv.org/abs/2610.30272)
