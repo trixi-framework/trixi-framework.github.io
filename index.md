@@ -144,6 +144,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Fagá, Oblapenko, Zhu, *Doehring*, Torrilhon,
+  **Efficient high-order Discontinuous Galerkin simulations of multi-species high-enthalpy flows**, 2026.\\
+  [![arXiv:2611.12511](https://img.shields.io/badge/arXiv-2611.12511-yellow)](https://arxiv.org/abs/2611.12511)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/btrzfg/paper_stab_scramjet)
+
 * Haase, *Winters*, Glaubitz,
   **Summation-by-parts operators for general function spaces: Flux differencing, entropy stability, and accuracy**, 2026.\\
   [![arXiv:2610.30272](https://img.shields.io/badge/arXiv-2610.30272-yellow)](https://arxiv.org/abs/2610.30272)
