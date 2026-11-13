@@ -144,6 +144,11 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Farrell, Lucas,
+  **Characterizing electronic scattering rates with transport in multiterminal devices**,
+  Physical Review B (114) 295113, 2026.\\
+  [![doi:10.1103/69kc-gdwv](https://zenodo.org/badge/doi/10.1103/69kc-gdwv.svg)](https://doi.org/10.1103/69kc-gdwv)
+
 * Haase, *Winters*, Glaubitz,
   **Summation-by-parts operators for general function spaces: Flux differencing, entropy stability, and accuracy**, 2026.\\
   [![arXiv:2610.30272](https://img.shields.io/badge/arXiv-2610.30272-yellow)](https://arxiv.org/abs/2610.30272)
@@ -264,10 +269,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Agnihotri, Öffner,
   **Convergence analysis of structure-preserving schemes for the multicomponent compressible Euler flows**, 2026.\\
   [![arXiv:2605.24898](https://img.shields.io/badge/arXiv-2605.24898-yellow)](https://arxiv.org/abs/2605.24898)
-
-* Farrell, Lucas,
-  **Characterizing electronic scattering rates with transport in multiterminal devices**, 2026.\\
-  [![arXiv:2605.03030](https://img.shields.io/badge/arXiv-2605.03030-yellow)](https://arxiv.org/abs/2605.03030)
 
 * *Rueda-Ramírez*, *Ersing*, *Winters*, *Gassner*,
   **Well-balanced subcell limiting for discontinuous Galerkin discretizations of the shallow-water equations**, 2026.\\
