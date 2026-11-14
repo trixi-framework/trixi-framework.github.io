@@ -147,7 +147,13 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Farrell, Lucas,
   **Characterizing electronic scattering rates with transport in multiterminal devices**,
   Physical Review B (114) 295113, 2026.\\
+  [![arXiv:2605.03030](https://img.shields.io/badge/arXiv-2605.03030-yellow)](https://arxiv.org/abs/2605.03030)
   [![doi:10.1103/69kc-gdwv](https://zenodo.org/badge/doi/10.1103/69kc-gdwv.svg)](https://doi.org/10.1103/69kc-gdwv)
+
+* Fagá, Oblapenko, Zhu, *Doehring*, Torrilhon,
+  **Efficient high-order Discontinuous Galerkin simulations of multi-species high-enthalpy flows**, 2026.\\
+  [![arXiv:2611.12511](https://img.shields.io/badge/arXiv-2611.12511-yellow)](https://arxiv.org/abs/2611.12511)
+  [![reproduce me!](https://img.shields.io/badge/reproduce-me!-brightgreen)](https://github.com/btrzfg/paper_stab_scramjet)
 
 * Haase, *Winters*, Glaubitz,
   **Summation-by-parts operators for general function spaces: Flux differencing, entropy stability, and accuracy**, 2026.\\
