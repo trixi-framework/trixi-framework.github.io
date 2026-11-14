@@ -144,6 +144,12 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 
 ### 2026
 
+* Farrell, Lucas,
+  **Characterizing electronic scattering rates with transport in multiterminal devices**,
+  Physical Review B (114) 295113, 2026.\\
+  [![arXiv:2605.03030](https://img.shields.io/badge/arXiv-2605.03030-yellow)](https://arxiv.org/abs/2605.03030)
+  [![doi:10.1103/69kc-gdwv](https://zenodo.org/badge/doi/10.1103/69kc-gdwv.svg)](https://doi.org/10.1103/69kc-gdwv)
+
 * Fagá, Oblapenko, Zhu, *Doehring*, Torrilhon,
   **Efficient high-order Discontinuous Galerkin simulations of multi-species high-enthalpy flows**, 2026.\\
   [![arXiv:2611.12511](https://img.shields.io/badge/arXiv-2611.12511-yellow)](https://arxiv.org/abs/2611.12511)
@@ -269,10 +275,6 @@ listed above. Author names of Trixi.jl's main developers are in *italics*.
 * Agnihotri, Öffner,
   **Convergence analysis of structure-preserving schemes for the multicomponent compressible Euler flows**, 2026.\\
   [![arXiv:2605.24898](https://img.shields.io/badge/arXiv-2605.24898-yellow)](https://arxiv.org/abs/2605.24898)
-
-* Farrell, Lucas,
-  **Characterizing electronic scattering rates with transport in multiterminal devices**, 2026.\\
-  [![arXiv:2605.03030](https://img.shields.io/badge/arXiv-2605.03030-yellow)](https://arxiv.org/abs/2605.03030)
 
 * *Rueda-Ramírez*, *Ersing*, *Winters*, *Gassner*,
   **Well-balanced subcell limiting for discontinuous Galerkin discretizations of the shallow-water equations**, 2026.\\
